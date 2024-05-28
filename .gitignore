@@ -1,8 +1,8 @@
 # 忽略所有名为 __pycache__ 的文件夹
 **/__pycache__/
 
-# 忽略所有名为 .draft 的文件夹
-.draft/
+# 忽略所有名为 .drafts 的文件夹
+.drafts/
 
 # 忽略所有名为 key.txt 的文件
 **/key.txt
