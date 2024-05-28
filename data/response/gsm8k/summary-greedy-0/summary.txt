@@ -1,0 +1,11 @@
+Accuracy list:
+0.2, 0.28, 0.24, 0.26, 0.28, 0.3, 0.32, 0.76, 0.36, 0.4, 0.0, 
+average:  0.309
+max:  0.76
+
+Responses saved to ../data/response/gsm8k/summary-greedy-0/res_gpt-3.5-turbo_test_0522_163546.json
+Accuracy rate on test set: 0.78
+
+# init test 
+Responses saved to ../data/response/gsm8k/summary-greedy-0/res_gpt-3.5-turbo_init-test_0526_190352.json
+Accuracy rate on test set with initial prompt: 0.32

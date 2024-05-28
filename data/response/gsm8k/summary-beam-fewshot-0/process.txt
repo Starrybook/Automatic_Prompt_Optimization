@@ -1,0 +1,239 @@
+
+
+>>> Current iteration: 0
+Responses saved to ../data/response/gsm8k/summary-beam-fewshot-0/res_gpt-3.5-turbo_0-0_0522_212345.json
+>>> Current prompt instance, iteration 0, id 0
+>>> Current accuracy rate: 0.72
+Responses saved to ../data/response/gsm8k/summary-beam-fewshot-0/res_gpt-3.5-turbo_0-1_0522_212601.json
+>>> Current prompt instance, iteration 0, id 1
+>>> Current accuracy rate: 0.62
+
+>>> Top b indexes in this iteration: [0, 1]
+Now begin to generate new prompt instances...
+
+
+>>> Current iteration: 1
+>>> Current prompt instance, iteration 1, id 0
+>>> Current accuracy rate: 0.72
+Responses saved to ../data/response/gsm8k/summary-beam-fewshot-0/res_gpt-3.5-turbo_1-1_0522_212848.json
+>>> Current prompt instance, iteration 1, id 1
+>>> Current accuracy rate: 0.68
+Responses saved to ../data/response/gsm8k/summary-beam-fewshot-0/res_gpt-3.5-turbo_1-2_0522_213137.json
+>>> Current prompt instance, iteration 1, id 2
+>>> Current accuracy rate: 0.7
+>>> Current prompt instance, iteration 1, id 3
+>>> Current accuracy rate: 0.62
+Responses saved to ../data/response/gsm8k/summary-beam-fewshot-0/res_gpt-3.5-turbo_1-4_0522_213352.json
+>>> Current prompt instance, iteration 1, id 4
+>>> Current accuracy rate: 0.72
+Responses saved to ../data/response/gsm8k/summary-beam-fewshot-0/res_gpt-3.5-turbo_1-5_0522_213620.json
+>>> Current prompt instance, iteration 1, id 5
+>>> Current accuracy rate: 0.66
+
+>>> Top b indexes in this iteration: [0, 4]
+Now begin to generate new prompt instances...
+
+
+>>> Current iteration: 2
+>>> Current prompt instance, iteration 2, id 0
+>>> Current accuracy rate: 0.72
+Responses saved to ../data/response/gsm8k/summary-beam-fewshot-0/res_gpt-3.5-turbo_2-1_0522_213857.json
+>>> Current prompt instance, iteration 2, id 1
+>>> Current accuracy rate: 0.66
+Responses saved to ../data/response/gsm8k/summary-beam-fewshot-0/res_gpt-3.5-turbo_2-2_0522_214116.json
+>>> Current prompt instance, iteration 2, id 2
+>>> Current accuracy rate: 0.7
+>>> Current prompt instance, iteration 2, id 3
+>>> Current accuracy rate: 0.72
+Responses saved to ../data/response/gsm8k/summary-beam-fewshot-0/res_gpt-3.5-turbo_2-4_0522_214403.json
+>>> Current prompt instance, iteration 2, id 4
+>>> Current accuracy rate: 0.68
+Responses saved to ../data/response/gsm8k/summary-beam-fewshot-0/res_gpt-3.5-turbo_2-5_0522_214630.json
+>>> Current prompt instance, iteration 2, id 5
+>>> Current accuracy rate: 0.74
+
+>>> Top b indexes in this iteration: [5, 0]
+Now begin to generate new prompt instances...
+
+
+>>> Current iteration: 3
+>>> Current prompt instance, iteration 3, id 0
+>>> Current accuracy rate: 0.74
+Responses saved to ../data/response/gsm8k/summary-beam-fewshot-0/res_gpt-3.5-turbo_3-1_0522_214909.json
+>>> Current prompt instance, iteration 3, id 1
+>>> Current accuracy rate: 0.76
+Responses saved to ../data/response/gsm8k/summary-beam-fewshot-0/res_gpt-3.5-turbo_3-2_0522_215127.json
+>>> Current prompt instance, iteration 3, id 2
+>>> Current accuracy rate: 0.7
+>>> Current prompt instance, iteration 3, id 3
+>>> Current accuracy rate: 0.72
+Responses saved to ../data/response/gsm8k/summary-beam-fewshot-0/res_gpt-3.5-turbo_3-4_0522_215334.json
+>>> Current prompt instance, iteration 3, id 4
+>>> Current accuracy rate: 0.72
+Responses saved to ../data/response/gsm8k/summary-beam-fewshot-0/res_gpt-3.5-turbo_3-5_0522_215549.json
+>>> Current prompt instance, iteration 3, id 5
+>>> Current accuracy rate: 0.66
+
+>>> Top b indexes in this iteration: [1, 0]
+Now begin to generate new prompt instances...
+
+
+>>> Current iteration: 4
+>>> Current prompt instance, iteration 4, id 0
+>>> Current accuracy rate: 0.76
+Responses saved to ../data/response/gsm8k/summary-beam-fewshot-0/res_gpt-3.5-turbo_4-1_0522_215834.json
+>>> Current prompt instance, iteration 4, id 1
+>>> Current accuracy rate: 0.72
+Responses saved to ../data/response/gsm8k/summary-beam-fewshot-0/res_gpt-3.5-turbo_4-2_0522_220101.json
+>>> Current prompt instance, iteration 4, id 2
+>>> Current accuracy rate: 0.66
+>>> Current prompt instance, iteration 4, id 3
+>>> Current accuracy rate: 0.74
+Responses saved to ../data/response/gsm8k/summary-beam-fewshot-0/res_gpt-3.5-turbo_4-4_0522_220329.json
+>>> Current prompt instance, iteration 4, id 4
+>>> Current accuracy rate: 0.7
+Responses saved to ../data/response/gsm8k/summary-beam-fewshot-0/res_gpt-3.5-turbo_4-5_0522_220553.json
+>>> Current prompt instance, iteration 4, id 5
+>>> Current accuracy rate: 0.66
+
+>>> Top b indexes in this iteration: [0, 3]
+Now begin to generate new prompt instances...
+==================================================
+
+
+
+>>> Current iteration: 5
+>>> Current prompt instance, iteration 5, id 0
+>>> Current accuracy rate: 0.76
+Responses saved to ../data/response/gsm8k/summary-beam-fewshot-0/res_gpt-3.5-turbo_5-1_0522_221539.json
+>>> Current prompt instance, iteration 5, id 1
+>>> Current accuracy rate: 0.74
+Responses saved to ../data/response/gsm8k/summary-beam-fewshot-0/res_gpt-3.5-turbo_5-2_0522_221804.json
+>>> Current prompt instance, iteration 5, id 2
+>>> Current accuracy rate: 0.66
+>>> Current prompt instance, iteration 5, id 3
+>>> Current accuracy rate: 0.74
+Responses saved to ../data/response/gsm8k/summary-beam-fewshot-0/res_gpt-3.5-turbo_5-4_0522_222053.json
+>>> Current prompt instance, iteration 5, id 4
+>>> Current accuracy rate: 0.7
+Responses saved to ../data/response/gsm8k/summary-beam-fewshot-0/res_gpt-3.5-turbo_5-5_0522_222322.json
+>>> Current prompt instance, iteration 5, id 5
+>>> Current accuracy rate: 0.76
+
+>>> Top b indexes in this iteration: [0, 5]
+Now begin to generate new prompt instances...
+
+
+>>> Current iteration: 6
+>>> Current prompt instance, iteration 6, id 0
+>>> Current accuracy rate: 0.76
+Error in parse_target_model_output: <E>During the night, the temperature inside the house is 45 - 33 = 12 degrees.
+Carson needs to increase the temperature by 32 - 12 = 20 degrees to prevent the pipes from freezing.
+Since each log of wood increases the temperature by 5 degrees, Carson needs to burn 20 / 5 = <5>5 logs</5></E>
+Responses saved to ../data/response/gsm8k/summary-beam-fewshot-0/res_gpt-3.5-turbo_6-1_0522_222609.json
+Error in evaluating: 4 vs NULL
+>>> Current prompt instance, iteration 6, id 1
+>>> Current accuracy rate: 0.64
+Responses saved to ../data/response/gsm8k/summary-beam-fewshot-0/res_gpt-3.5-turbo_6-2_0522_222848.json
+Error in evaluating: 168 vs There is no solution
+>>> Current prompt instance, iteration 6, id 2
+>>> Current accuracy rate: 0.7
+>>> Current prompt instance, iteration 6, id 3
+>>> Current accuracy rate: 0.76
+Responses saved to ../data/response/gsm8k/summary-beam-fewshot-0/res_gpt-3.5-turbo_6-4_0522_223121.json
+>>> Current prompt instance, iteration 6, id 4
+>>> Current accuracy rate: 0.68
+Responses saved to ../data/response/gsm8k/summary-beam-fewshot-0/res_gpt-3.5-turbo_6-5_0522_223402.json
+>>> Current prompt instance, iteration 6, id 5
+>>> Current accuracy rate: 0.7
+
+>>> Top b indexes in this iteration: [0, 3]
+Now begin to generate new prompt instances...
+
+
+>>> Current iteration: 7
+>>> Current prompt instance, iteration 7, id 0
+>>> Current accuracy rate: 0.76
+Responses saved to ../data/response/gsm8k/summary-beam-fewshot-0/res_gpt-3.5-turbo_7-1_0522_223659.json
+>>> Current prompt instance, iteration 7, id 1
+>>> Current accuracy rate: 0.66
+Error in parse_target_model_output: <E>Let x be the original price of the jogger jeans.
+
+Since the jogger jeans cost $6 less than the tattered jeans, the tattered jeans cost x + $6.
+
+Cole saved a total of $6, so the total cost of both jeans is x + (x + $6) = 2x + $6.
+
+He saved 1/3 of the total savings from the jogger jeans, which is 1/3 * $6 = $2. So, the cost of the jogger jeans after savings is x - $2.
+
+The cost of the tattered jeans after savings is (x + $6) - ($2) = x + $4.
+
+Since the total savings was $6, we have the equation (2x + $6) - (x - $2 + x + $4) = $6
+Simplify the equation: 2x + $6 - 2x - $6 = $6
+0 = $6.
+
+There seems to be a mistake in the calculations. Let's double-check the mathematical operations and the relationships between the components.</E>
+Responses saved to ../data/response/gsm8k/summary-beam-fewshot-0/res_gpt-3.5-turbo_7-2_0522_223931.json
+Error in evaluating: 8 vs NULL
+>>> Current prompt instance, iteration 7, id 2
+>>> Current accuracy rate: 0.74
+>>> Current prompt instance, iteration 7, id 3
+>>> Current accuracy rate: 0.76
+Responses saved to ../data/response/gsm8k/summary-beam-fewshot-0/res_gpt-3.5-turbo_7-4_0522_224151.json
+>>> Current prompt instance, iteration 7, id 4
+>>> Current accuracy rate: 0.7
+Responses saved to ../data/response/gsm8k/summary-beam-fewshot-0/res_gpt-3.5-turbo_7-5_0522_224422.json
+>>> Current prompt instance, iteration 7, id 5
+>>> Current accuracy rate: 0.7
+
+>>> Top b indexes in this iteration: [0, 3]
+Now begin to generate new prompt instances...
+
+
+>>> Current iteration: 8
+>>> Current prompt instance, iteration 8, id 0
+>>> Current accuracy rate: 0.76
+Responses saved to ../data/response/gsm8k/summary-beam-fewshot-0/res_gpt-3.5-turbo_8-1_0522_224715.json
+>>> Current prompt instance, iteration 8, id 1
+>>> Current accuracy rate: 0.68
+Responses saved to ../data/response/gsm8k/summary-beam-fewshot-0/res_gpt-3.5-turbo_8-2_0522_224956.json
+>>> Current prompt instance, iteration 8, id 2
+>>> Current accuracy rate: 0.64
+>>> Current prompt instance, iteration 8, id 3
+>>> Current accuracy rate: 0.76
+Responses saved to ../data/response/gsm8k/summary-beam-fewshot-0/res_gpt-3.5-turbo_8-4_0522_225222.json
+>>> Current prompt instance, iteration 8, id 4
+>>> Current accuracy rate: 0.72
+Error in parse_target_model_output: <E>If it was 45 degrees during the day, then at night it is 45 - 33 = 12 degrees.
+Carson needs to increase the temperature by 32 - 12 = 20 degrees to prevent the pipes from freezing.
+Since each log of wood increases the temperature by 5 degrees, Carson needs to burn 20 / 5 = <5>5</5> logs.</E>
+Responses saved to ../data/response/gsm8k/summary-beam-fewshot-0/res_gpt-3.5-turbo_8-5_0522_225439.json
+Error in evaluating: 4 vs NULL
+>>> Current prompt instance, iteration 8, id 5
+>>> Current accuracy rate: 0.68
+
+>>> Top b indexes in this iteration: [0, 3]
+Now begin to generate new prompt instances...
+
+
+>>> Current iteration: 9
+>>> Current prompt instance, iteration 9, id 0
+>>> Current accuracy rate: 0.76
+Responses saved to ../data/response/gsm8k/summary-beam-fewshot-0/res_gpt-3.5-turbo_9-1_0522_225728.json
+>>> Current prompt instance, iteration 9, id 1
+>>> Current accuracy rate: 0.68
+Responses saved to ../data/response/gsm8k/summary-beam-fewshot-0/res_gpt-3.5-turbo_9-2_0522_225956.json
+Error in evaluating: 168 vs Invalid input
+>>> Current prompt instance, iteration 9, id 2
+>>> Current accuracy rate: 0.72
+>>> Current prompt instance, iteration 9, id 3
+>>> Current accuracy rate: 0.76
+Responses saved to ../data/response/gsm8k/summary-beam-fewshot-0/res_gpt-3.5-turbo_9-4_0522_230234.json
+>>> Current prompt instance, iteration 9, id 4
+>>> Current accuracy rate: 0.76
+Responses saved to ../data/response/gsm8k/summary-beam-fewshot-0/res_gpt-3.5-turbo_9-5_0522_230504.json
+>>> Current prompt instance, iteration 9, id 5
+>>> Current accuracy rate: 0.74
+
+>>> Top b indexes in this iteration: [0, 3]
+Now begin to generate new prompt instances...
+==================================================

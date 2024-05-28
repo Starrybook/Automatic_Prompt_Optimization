@@ -1,0 +1,289 @@
+
+
+>>> Current iteration: 0
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_0-0_0521_184503.json
+>>> Current prompt instance, iteration 0, id 0
+>>> Current accuracy rate: 0.2
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_0-1_0521_184727.json
+>>> Current prompt instance, iteration 0, id 1
+>>> Current accuracy rate: 0.18
+
+>>> Top b indexes in this iteration: [0, 1]
+Now begin to generate new prompt instances...
+
+
+>>> Current iteration: 1
+>>> Current prompt instance, iteration 1, id 0
+>>> Current accuracy rate: 0.2
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_1-1_0521_184948.json
+>>> Current prompt instance, iteration 1, id 1
+>>> Current accuracy rate: 0.32
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_1-2_0521_185205.json
+Error in evaluating: 15 vs There seems to be an error in the input question
+>>> Current prompt instance, iteration 1, id 2
+>>> Current accuracy rate: 0.28
+>>> Current prompt instance, iteration 1, id 3
+>>> Current accuracy rate: 0.18
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_1-4_0521_185430.json
+>>> Current prompt instance, iteration 1, id 4
+>>> Current accuracy rate: 0.28
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_1-5_0521_185651.json
+>>> Current prompt instance, iteration 1, id 5
+>>> Current accuracy rate: 0.2
+
+>>> Top b indexes in this iteration: [1, 2]
+Now begin to generate new prompt instances...
+Error in get_error_examples_gsm8k: 15 vs There seems to be an error in the input question
+
+
+>>> Current iteration: 2
+>>> Current prompt instance, iteration 2, id 0
+>>> Current accuracy rate: 0.32
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_2-1_0521_185905.json
+>>> Current prompt instance, iteration 2, id 1
+>>> Current accuracy rate: 0.32
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_2-2_0521_190123.json
+>>> Current prompt instance, iteration 2, id 2
+>>> Current accuracy rate: 0.24
+>>> Current prompt instance, iteration 2, id 3
+>>> Current accuracy rate: 0.28
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_2-4_0521_190350.json
+>>> Current prompt instance, iteration 2, id 4
+>>> Current accuracy rate: 0.28
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_2-5_0521_190619.json
+>>> Current prompt instance, iteration 2, id 5
+>>> Current accuracy rate: 0.24
+
+>>> Top b indexes in this iteration: [0, 1]
+Now begin to generate new prompt instances...
+
+
+>>> Current iteration: 3
+>>> Current prompt instance, iteration 3, id 0
+>>> Current accuracy rate: 0.32
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_3-1_0521_190843.json
+>>> Current prompt instance, iteration 3, id 1
+>>> Current accuracy rate: 0.24
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_3-2_0521_191059.json
+>>> Current prompt instance, iteration 3, id 2
+>>> Current accuracy rate: 0.24
+>>> Current prompt instance, iteration 3, id 3
+>>> Current accuracy rate: 0.32
+Error in parse_target_model_output: I'm sorry, but the input provided is not related to calculating the total cost of tickets and popcorns. Please provide an input that is related to the given task so I can assist you accordingly.
+Error in parse_target_model_output: I'm sorry, but the input provided is not related to calculating the total cost of tickets and popcorns. Please provide an input that is related to the given task so I can assist you accordingly.
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_3-4_0521_191316.json
+Error in evaluating: 500 vs NULL
+>>> Current prompt instance, iteration 3, id 4
+>>> Current accuracy rate: 0.42
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_3-5_0521_191538.json
+>>> Current prompt instance, iteration 3, id 5
+>>> Current accuracy rate: 0.58
+
+>>> Top b indexes in this iteration: [5, 4]
+Now begin to generate new prompt instances...
+Error in get_error_examples_gsm8k: 500 vs NULL
+==================================================
+
+
+
+
+>>> Current iteration: 4
+>>> Current prompt instance, iteration 4, id 0
+>>> Current accuracy rate: 0.58
+Error in parse_target_model_output: I'm sorry, but the input you provided is not related to calculating the total cost of adult tickets, child tickets, and popcorns. Please provide the relevant input so I can assist you with the correct calculations.
+Error in parse_target_model_output: I'm sorry, but the input you provided is not related to calculating the total cost of adult tickets, child tickets, and popcorns. Please provide the relevant input so I can assist you with the correct calculations.
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_4-1_0521_193047.json
+Error in evaluating: 5 vs NULL
+>>> Current prompt instance, iteration 4, id 1
+>>> Current accuracy rate: 0.36
+Error in parse_target_model_output: I'm sorry, but the question you provided is unrelated to calculating the total cost of tickets and popcorns. Please provide the correct input so I can assist you with the calculation.
+Error in parse_target_model_output: I'm sorry, but the question you provided is unrelated to calculating the total cost of tickets and popcorns. Please provide the correct input so I can assist you with the calculation.
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_4-2_0521_194725.json
+Error in evaluating: 500 vs NULL
+>>> Current prompt instance, iteration 4, id 2
+>>> Current accuracy rate: 0.46
+>>> Current prompt instance, iteration 4, id 3
+>>> Current accuracy rate: 0.42
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_4-4_0521_195001.json
+>>> Current prompt instance, iteration 4, id 4
+>>> Current accuracy rate: 0.32
+Error in parse_target_model_output: <E>First, let's find out how much water was pumped into the tank on the first day.
+Wanda filled 1/4 of the tank's capacity, which is 18000 * 1/4 = 4500 gallons.
+Ms. B then pumped 3/4 as much water as Wanda, which is 4500 * 3/4 = 3375 gallons.
+
+Then, let's calculate how much water was pumped into the tank on the second day.
+Wanda pumped 2/3 of the amount she pumped on the first day, which is 4500 * 2/3 = 3000 gallons.
+Ms. B only pumped 1/3 of the number of gallons she pumped on the first day, which is 3375 * 1/3 = 1125 gallons.
+
+Now, let's sum up the total amount of water pumped on both days.
+4500 + 3375 + 3000 + 1125 = 12000 gallons.
+
+Finally, to find out how many gallons of water are remaining for the tank to be full, subtract the total amount pumped from the tank's capacity.
+18000 - 12000 = 6000 gallons remaining for the tank to be full.</E>
+A>6000</A>
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_4-5_0521_195230.json
+Error in evaluating: 5 vs Cannot be solved
+Error in evaluating: 6000 vs NULL
+>>> Current prompt instance, iteration 4, id 5
+>>> Current accuracy rate: 0.36
+
+>>> Top b indexes in this iteration: [0, 2]
+Now begin to generate new prompt instances...
+Error in get_error_examples_gsm8k: 500 vs NULL
+
+
+>>> Current iteration: 5
+>>> Current prompt instance, iteration 5, id 0
+>>> Current accuracy rate: 0.58
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_5-1_0521_195503.json
+>>> Current prompt instance, iteration 5, id 1
+>>> Current accuracy rate: 0.28
+Error in parse_target_model_output: I'm sorry, but the input provided seems unrelated to the initial question. If you could please provide the quantities and prices of adult tickets, child tickets, and popcorns, I will be able to help you calculate the total cost. Thank you!
+Error in parse_target_model_output: I'm sorry, but the input provided seems unrelated to the initial question. If you could please provide the quantities and prices of adult tickets, child tickets, and popcorns, I will be able to help you calculate the total cost. Thank you!
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_5-2_0521_195722.json
+Error in evaluating: 30 vs 4<E> 
+
+To find the total cost, we first need to calculate the individual costs of adult tickets, child tickets, and popcorns.
+
+Let's assume the cost of an adult ticket is $10, and Miss Maria bought 5 adult tickets. 
+Total cost of adult tickets = 10 x 5 = $50
+
+Next, let's assume the cost of a child ticket is $5, and Miss Maria bought 8 child tickets.
+Total cost of child tickets = 5 x 8 = $40
+
+Lastly, let's assume the cost of a popcorn is $3 each, and Miss Maria bought 10 popcorns.
+Total cost of popcorns = 3 x 10 = $30
+
+Now, to find the total cost, we add the individual costs together:
+Total cost = 50 (adult tickets) + 40 (child tickets) + 30 (popcorns) = $120
+
+So, the total cost for all the tickets and popcorns is $120.
+Error in evaluating: 5 vs NULL
+>>> Current prompt instance, iteration 5, id 2
+>>> Current accuracy rate: 0.36
+>>> Current prompt instance, iteration 5, id 3
+>>> Current accuracy rate: 0.46
+Error in parse_target_model_output: I'm sorry, but the input you provided is about calculating time for a ship to travel back and not related to determining the total cost of tickets and popcorns. Please provide input related to the total cost calculation so I can assist you with breaking down the steps. Thank you!
+Error in parse_target_model_output: I'm sorry, but the input you provided is about calculating time for a ship to travel back and not related to determining the total cost of tickets and popcorns. Please provide input related to the total cost calculation so I can assist you with breaking down the steps. Thank you!
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_5-4_0521_195945.json
+Error in evaluating: 5 vs NULL
+>>> Current prompt instance, iteration 5, id 4
+>>> Current accuracy rate: 0.3
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_5-5_0521_200200.json
+>>> Current prompt instance, iteration 5, id 5
+>>> Current accuracy rate: 0.42
+
+>>> Top b indexes in this iteration: [0, 3]
+Now begin to generate new prompt instances...
+Error in get_error_examples_gsm8k: 500 vs NULL
+
+
+>>> Current iteration: 6
+>>> Current prompt instance, iteration 6, id 0
+>>> Current accuracy rate: 0.58
+Error in parse_target_model_output: I'm sorry, but the input you provided is a math problem and not related to calculating the total cost of adult tickets, child tickets, and popcorns. If you have a question related to the total cost calculation, please provide the necessary information so I can assist you.
+Error in parse_target_model_output: I'm sorry, but the input you provided is a math problem and not related to calculating the total cost of adult tickets, child tickets, and popcorns. If you have a question related to the total cost calculation, please provide the necessary information so I can assist you.
+Error in parse_target_model_output: <E>Let's denote the number of apples Jamal has as A and the number of bananas as B. 
+Given that Andrea has 8 more apples than Jamal and 52 apples in total, we can write the equation: A + 8 = 52
+This simplifies to A = 52 - 8 = 44.
+We also know that Andrea has half as many bananas as Jamal, so B = 0.5 * A = 0.5 * 44 = 22.
+Finally, Jamal has 4 more bananas than apples, so B = A + 4.
+Substitute the value of B from the second equation into the third equation: 22 = 44 + 4, which is incorrect.
+There seems to be inconsistency or error in the input provided. Would you like to try again or ask something else?
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_6-1_0521_200442.json
+Error in evaluating: 12 vs NULL
+Error in evaluating: 168 vs NULL
+>>> Current prompt instance, iteration 6, id 1
+>>> Current accuracy rate: 0.38
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_6-2_0521_200716.json
+>>> Current prompt instance, iteration 6, id 2
+>>> Current accuracy rate: 0.58
+>>> Current prompt instance, iteration 6, id 3
+>>> Current accuracy rate: 0.46
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_6-4_0521_200958.json
+>>> Current prompt instance, iteration 6, id 4
+>>> Current accuracy rate: 0.64
+Error in parse_target_model_output: I'm sorry, but I cannot answer that question as it is not related to calculating costs of tickets and popcorn. If you have any other questions on that topic, feel free to ask!
+Error in parse_target_model_output: I'm sorry, but I cannot answer that question as it is not related to calculating costs of tickets and popcorn. If you have any other questions on that topic, feel free to ask!
+Error in parse_target_model_output: I'm sorry, but I can only assist with mathematical calculations. How can I help you with math today?
+Error in parse_target_model_output: I'm sorry, but I can only assist with mathematical calculations. How can I help you with math today?
+Error in parse_target_model_output: I'm sorry, but the input you provided is not related to the cost calculations of individual items. Can you please provide the relevant input so I can help you with the calculations?
+Error in parse_target_model_output: I'm sorry, but the input you provided is not related to the cost calculations of individual items. Can you please provide the relevant input so I can help you with the calculations?
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_6-5_0521_201213.json
+Error in evaluating: 5 vs NULL
+Error in evaluating: 360 vs NULL
+Error in evaluating: 168 vs NULL
+>>> Current prompt instance, iteration 6, id 5
+>>> Current accuracy rate: 0.42
+
+>>> Top b indexes in this iteration: [4, 0]
+Now begin to generate new prompt instances...
+
+
+>>> Current iteration: 7
+>>> Current prompt instance, iteration 7, id 0
+>>> Current accuracy rate: 0.64
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_7-1_0521_201454.json
+>>> Current prompt instance, iteration 7, id 1
+>>> Current accuracy rate: 0.38
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_7-2_0521_201724.json
+>>> Current prompt instance, iteration 7, id 2
+>>> Current accuracy rate: 0.54
+>>> Current prompt instance, iteration 7, id 3
+>>> Current accuracy rate: 0.58
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_7-4_0521_201941.json
+>>> Current prompt instance, iteration 7, id 4
+>>> Current accuracy rate: 0.44
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_7-5_0521_202159.json
+>>> Current prompt instance, iteration 7, id 5
+>>> Current accuracy rate: 0.36
+
+>>> Top b indexes in this iteration: [0, 3]
+Now begin to generate new prompt instances...
+==================================================
+
+
+
+>>> Current iteration: 8
+>>> Current prompt instance, iteration 8, id 0
+>>> Current accuracy rate: 0.64
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_8-1_0521_204001.json
+>>> Current prompt instance, iteration 8, id 1
+>>> Current accuracy rate: 0.4
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_8-2_0521_204258.json
+>>> Current prompt instance, iteration 8, id 2
+>>> Current accuracy rate: 0.76
+>>> Current prompt instance, iteration 8, id 3
+>>> Current accuracy rate: 0.58
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_8-4_0521_204550.json
+>>> Current prompt instance, iteration 8, id 4
+>>> Current accuracy rate: 0.32
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_8-5_0521_204808.json
+>>> Current prompt instance, iteration 8, id 5
+>>> Current accuracy rate: 0.46
+
+>>> Top b indexes in this iteration: [2, 0]
+Now begin to generate new prompt instances...
+
+
+>>> Current iteration: 9
+>>> Current prompt instance, iteration 9, id 0
+>>> Current accuracy rate: 0.76
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_9-1_0521_205136.json
+>>> Current prompt instance, iteration 9, id 1
+>>> Current accuracy rate: 0.54
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_9-2_0521_205425.json
+>>> Current prompt instance, iteration 9, id 2
+>>> Current accuracy rate: 0.32
+>>> Current prompt instance, iteration 9, id 3
+>>> Current accuracy rate: 0.64
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_9-4_0521_205653.json
+>>> Current prompt instance, iteration 9, id 4
+>>> Current accuracy rate: 0.48
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_9-5_0521_205928.json
+>>> Current prompt instance, iteration 9, id 5
+>>> Current accuracy rate: 0.62
+
+>>> Top b indexes in this iteration: [0, 3]
+Now begin to generate new prompt instances...
+==================================================

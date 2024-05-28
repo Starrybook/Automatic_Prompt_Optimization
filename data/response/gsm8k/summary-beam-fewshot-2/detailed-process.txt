@@ -1,0 +1,313 @@
+Prompt instances:
+In iteration 0: 
+>>> 0
+>>> Prompt: 1. Read the provided mathematical problem carefully. 2. Identify and perform the necessary calculations to solve the problem. 3. Write down the final numerical answer. 4. Provide an explanation of how you arrived at your answer.
+>>> Accuracy: 0.78
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_0-0_0523_103848.json
+>>> 1
+>>> Prompt: 1. Understand the mathematical question presented in the input data. 2. Execute the computations required to find the solution. 3. Document the resulting numerical value as the answer. 4. Clarify the steps taken to reach the final answer.
+>>> Accuracy: 0.82
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_0-1_0523_104038.json
+==================================================
+In iteration 1: 
+>>> 0
+>>> Prompt: 1. Understand the mathematical question presented in the input data. 2. Execute the computations required to find the solution. 3. Document the resulting numerical value as the answer. 4. Clarify the steps taken to reach the final answer.
+>>> Accuracy: 0.82
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_0-1_0523_104038.json
+>>> 1
+>>> Prompt: 1. Break down the mathematical operations needed in the input data into smaller, manageable steps. 2. Calculate each step accurately to find the final solution. 3. Clearly document the process followed to reach the final numerical answer. 4. Ensure to convert units consistently and accurately when dealing with time or quantities.
+>>> Accuracy: 0.76
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_1-1_0523_104239.json
+>>> 2
+>>> Prompt: Given the information about the relationship between the ages of three individuals, calculate the age difference between two specific individuals. Use the provided ages to determine the precise age difference between them. Ensure to consider all relevant details and calculate the age difference accurately.
+>>> Accuracy: 0.78
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_1-2_0523_104423.json
+>>> 3
+>>> Prompt: 1. Read the provided mathematical problem carefully. 2. Identify and perform the necessary calculations to solve the problem. 3. Write down the final numerical answer. 4. Provide an explanation of how you arrived at your answer.
+>>> Accuracy: 0.78
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_0-0_0523_103848.json
+>>> 4
+>>> Prompt: 1. Carefully analyze the given problem or scenario with a mathematical lens. 2. Use relevant equations and relationships to set up the calculations needed to solve the problem. 3. Step-by-step, perform the necessary arithmetic operations to find the final numerical solution. 4. Explain the process and reasoning behind each calculation made towards arriving at the answer.
+>>> Accuracy: 0.8
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_1-4_0523_104611.json
+>>> 5
+>>> Prompt: 1. Break down the calculations into smaller, more detailed steps to avoid confusion with fractions and multiplication.
+2. Clearly define and track the quantities being sold at each step to ensure accurate calculations.
+3. Read the provided problem carefully and identify the quantities involved.
+4. Perform the necessary calculations step by step to solve the problem.
+5. Write down the final numerical answer after each calculation.
+6. Provide an explanation of how you arrived at your answer, including the breakdown of quantities and calculations.
+>>> Accuracy: 0.8
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_1-5_0523_104804.json
+==================================================
+In iteration 2: 
+>>> 0
+>>> Prompt: 1. Understand the mathematical question presented in the input data. 2. Execute the computations required to find the solution. 3. Document the resulting numerical value as the answer. 4. Clarify the steps taken to reach the final answer.
+>>> Accuracy: 0.82
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_0-1_0523_104038.json
+>>> 1
+>>> Prompt: 1. Break down the calculation process step by step with clear annotations or labels to avoid confusion. 2. Provide additional context or explanation for each mathematical operation to ensure a full understanding of the calculations involved. 3. Understand the mathematical question presented in the input data. 4. Execute the computations required to find the solution. 5. Document the resulting numerical value as the answer. 6. Clarify the steps taken to reach the final answer.
+>>> Accuracy: 0.78
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_2-1_0523_105009.json
+>>> 2
+>>> Prompt: Break down the problem into smaller, more manageable steps by identifying the variables, setting up relevant equations, and solving for unknown values. Clearly explain each step of the solution process to ensure accuracy and understanding. Provide a detailed breakdown of the calculations and include the final numerical answer with a clear explanation of how it was obtained.
+>>> Accuracy: 0.76
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_2-2_0523_105207.json
+>>> 3
+>>> Prompt: 1. Carefully analyze the given problem or scenario with a mathematical lens. 2. Use relevant equations and relationships to set up the calculations needed to solve the problem. 3. Step-by-step, perform the necessary arithmetic operations to find the final numerical solution. 4. Explain the process and reasoning behind each calculation made towards arriving at the answer.
+>>> Accuracy: 0.8
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_1-4_0523_104611.json
+>>> 4
+>>> Prompt: 1. Break down the calculations into smaller, more manageable steps to avoid errors in arithmetic operations. 2. Clearly define variables and organize equations systematically. 3. Use relevant equations and relationships to set up calculations. 4. Step-by-step, perform necessary arithmetic operations. 5. Explain the process and reasoning behind each calculation made towards arriving at the answer.
+>>> Accuracy: 0.76
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_2-4_0523_105347.json
+>>> 5
+>>> Prompt: 1. Break down the problem into smaller, manageable steps and clearly define and label each variable or quantity involved in the calculations to prevent errors and ensure consistency. 2. Apply relevant mathematical equations and relationships to set up the calculations needed to solve the problem. 3. Step-by-step, perform the necessary arithmetic operations to find the final numerical solution while double-checking each intermediate result for accuracy. 4. Explain the process and reasoning behind each calculation made towards arriving at the answer.
+>>> Accuracy: 0.76
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_2-5_0523_105540.json
+==================================================
+In iteration 3: 
+>>> 0
+>>> Prompt: 1. Understand the mathematical question presented in the input data. 2. Execute the computations required to find the solution. 3. Document the resulting numerical value as the answer. 4. Clarify the steps taken to reach the final answer.
+>>> Accuracy: 0.82
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_0-1_0523_104038.json
+>>> 1
+>>> Prompt: Break down the problem by identifying key information and setting up equations or relationships before performing computations. Double-check your calculations to ensure consistency and verify that units and variables align correctly throughout the solution process. Document the step-by-step approach taken to reach the final answer.
+>>> Accuracy: 0.7
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_3-1_0523_105752.json
+>>> 2
+>>> Prompt: Define variables for each person's score and clearly state the relationships between the variables in mathematical equations. Then, step by step, outline the process of solving the equations and highlight the substitution of values to avoid errors in calculations.
+>>> Accuracy: 0.7
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_3-2_0523_105945.json
+>>> 3
+>>> Prompt: 1. Carefully analyze the given problem or scenario with a mathematical lens. 2. Use relevant equations and relationships to set up the calculations needed to solve the problem. 3. Step-by-step, perform the necessary arithmetic operations to find the final numerical solution. 4. Explain the process and reasoning behind each calculation made towards arriving at the answer.
+>>> Accuracy: 0.8
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_1-4_0523_104611.json
+>>> 4
+>>> Prompt: Break down the given problem into smaller, more manageable parts to accurately solve it. Ensure that each step aligns with the problem provided and verify the equations and relationships used before proceeding with calculations. Provide a step-by-step explanation of the process and reasoning behind each calculation made towards finding the final solution.
+>>> Accuracy: 0.82
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_3-4_0523_110144.json
+>>> 5
+>>> Prompt: Break down the calculations step by step, clearly indicating how each part of the problem is being solved. Emphasize the importance of correctly interpreting the problem statement and ensuring all mathematical operations are accurately performed. Analyze the given scenario with a mathematical lens, utilize relevant equations and relationships to set up the calculations needed to solve the problem, perform arithmetic operations step-by-step, and explain the reasoning behind each calculation to arrive at the final numerical solution.
+>>> Accuracy: 0.78
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_3-5_0523_110341.json
+==================================================
+In iteration 4: 
+>>> 0
+>>> Prompt: 1. Understand the mathematical question presented in the input data. 2. Execute the computations required to find the solution. 3. Document the resulting numerical value as the answer. 4. Clarify the steps taken to reach the final answer.
+>>> Accuracy: 0.82
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_0-1_0523_104038.json
+>>> 1
+>>> Prompt: Calculate the total ounces of water present in both mugs.
+Determine the minimum total temperature required for Donny to drink the water.
+Calculate the temperature contribution of the 33-degree water towards the minimum required temperature.
+Subtract the temperature contribution of the 33-degree water from the minimum required temperature to find the temperature of the unknown water.
+>>> Accuracy: 0.76
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_4-1_0523_110540.json
+>>> 2
+>>> Prompt: 1. Break down the mathematical question step-by-step, ensuring each variable is accurately defined and derived. 2. Translate the relationships between the variables into mathematical expressions. 3. Solve the equations required to find the solution to the problem. 4. Document the resulting numerical value as the answer. 5. Clarify the steps taken to reach the final answer.
+>>> Accuracy: 0.76
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_4-2_0523_110735.json
+>>> 3
+>>> Prompt: Break down the given problem into smaller, more manageable parts to accurately solve it. Ensure that each step aligns with the problem provided and verify the equations and relationships used before proceeding with calculations. Provide a step-by-step explanation of the process and reasoning behind each calculation made towards finding the final solution.
+>>> Accuracy: 0.82
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_3-4_0523_110144.json
+>>> 4
+>>> Prompt: Break down the given problem into smaller, more manageable parts to accurately solve it. Clearly define the variables and their relationships in each calculation step. Check the logic behind each calculation to ensure it aligns with the problem provided and leads to the correct final solution. Provide a step-by-step explanation of the process and reasoning behind each calculation made towards finding the final solution.
+>>> Accuracy: 0.76
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_4-4_0523_110937.json
+>>> 5
+>>> Prompt: Break down each step of the problem into smaller, more detailed parts to ensure accurate calculations are made. Verify the equations and relationships used in each calculation by substituting the values back into the problem before proceeding with further steps. Provide a detailed and step-by-step explanation of the process, including the reasoning behind each calculation made towards finding the final solution.
+>>> Accuracy: 0.78
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_4-5_0523_111127.json
+==================================================
+In iteration 5: 
+>>> 0
+>>> Prompt: 1. Understand the mathematical question presented in the input data. 2. Execute the computations required to find the solution. 3. Document the resulting numerical value as the answer. 4. Clarify the steps taken to reach the final answer.
+>>> Accuracy: 0.82
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_0-1_0523_104038.json
+>>> 1
+>>> Prompt: 1. Break down the problem into smaller, sequential steps to solve it efficiently.
+2. Clearly define the operations and calculations needed at each stage of the problem-solving process.
+3. Calculate individual components before combining them for the final solution to avoid errors.
+4. Verify the correctness of each step and the final answer before outputting the result.
+>>> Accuracy: 0.9
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_5-1_0523_123215.json
+>>> 2
+>>> Prompt: 1. Break down the mathematical question into smaller, more manageable steps to ensure understanding. 2. Verify and double-check each calculation and intermediate result before proceeding to the next step. 3. Execute the computations accurately to find the solution. 4. Document the final numerical value as the answer, along with a clear explanation of the steps taken to reach that conclusion.
+>>> Accuracy: 0.76
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_5-2_0523_123356.json
+>>> 3
+>>> Prompt: Break down the given problem into smaller, more manageable parts to accurately solve it. Ensure that each step aligns with the problem provided and verify the equations and relationships used before proceeding with calculations. Provide a step-by-step explanation of the process and reasoning behind each calculation made towards finding the final solution.
+>>> Accuracy: 0.82
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_3-4_0523_110144.json
+>>> 4
+>>> Prompt: Break down the problem into smaller, more manageable parts to accurately solve it. Make sure to clearly define the variables used and the relationships between them in order to find the final solution. Provide a step-by-step explanation of the process and reasoning behind each calculation made towards reaching the correct answer.
+>>> Accuracy: 0.74
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_5-4_0523_123550.json
+>>> 5
+>>> Prompt: Break down the given problem into smaller, more manageable parts to accurately solve it. Ensure that each step aligns with the problem provided and verify the equations and relationships used before proceeding with calculations. Provide a step-by-step explanation of the process and reasoning behind each calculation made towards finding the final solution. Specifically, focus on defining clear relationships between variables and breaking down complex calculations into simpler components to avoid errors.
+>>> Accuracy: 0.76
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_5-5_0523_123747.json
+==================================================
+In iteration 6: 
+>>> 0
+>>> Prompt: 1. Break down the problem into smaller, sequential steps to solve it efficiently.
+2. Clearly define the operations and calculations needed at each stage of the problem-solving process.
+3. Calculate individual components before combining them for the final solution to avoid errors.
+4. Verify the correctness of each step and the final answer before outputting the result.
+>>> Accuracy: 0.9
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_5-1_0523_123215.json
+>>> 1
+>>> Prompt: For efficient problem-solving, break down the task into sequential steps, clearly defining operations and calculations needed at each stage. Calculate individual components before combining them for the final solution to prevent errors. Verify the correctness of each step and the final answer before outputting the result. Ensure accurate units of measurement and time conversions for precise calculations.
+>>> Accuracy: 0.78
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_6-1_0523_123939.json
+>>> 2
+>>> Prompt: 1. Break down the problem into smaller, sequential steps to solve it efficiently.
+2. Clearly define the operations and calculations needed at each stage of the problem-solving process.
+3. Double-check the reasoning and calculations at each step to verify the correctness of the intermediate results before moving on to the next step.
+4. Calculate individual components before combining them for the final solution to avoid errors.
+5. Verify the correctness of each step and the final answer before outputting the result.
+>>> Accuracy: 0.78
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_6-2_0523_124121.json
+>>> 3
+>>> Prompt: 1. Understand the mathematical question presented in the input data. 2. Execute the computations required to find the solution. 3. Document the resulting numerical value as the answer. 4. Clarify the steps taken to reach the final answer.
+>>> Accuracy: 0.82
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_0-1_0523_104038.json
+>>> 4
+>>> Prompt: Given a mathematical problem with multiple variables and equations to solve, perform the following steps:
+1. Break down the complex equations into simpler steps to ensure accurate computations.
+2. Clearly define the relationships between the variables and apply them correctly in each step of the solution.
+3. Execute the calculations step by step, documenting the numerical values obtained at each stage.
+4. Provide a clear explanation of the steps taken to reach the final answer.
+>>> Accuracy: 0.78
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_6-4_0523_124300.json
+>>> 5
+>>> Prompt: Break down the mathematical question provided in the input data into smaller, more manageable steps. Clearly define the variables and their relationships before proceeding with the computations to find the solution. Document the resulting numerical value as the answer and clarify the steps taken to reach the final solution.
+>>> Accuracy: 0.78
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_6-5_0523_124451.json
+==================================================
+In iteration 7: 
+>>> 0
+>>> Prompt: 1. Break down the problem into smaller, sequential steps to solve it efficiently.
+2. Clearly define the operations and calculations needed at each stage of the problem-solving process.
+3. Calculate individual components before combining them for the final solution to avoid errors.
+4. Verify the correctness of each step and the final answer before outputting the result.
+>>> Accuracy: 0.9
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_5-1_0523_123215.json
+>>> 1
+>>> Prompt: Break down the problem into smaller, sequential steps to solve it efficiently. Clearly define the operations and calculations needed at each stage of the problem-solving process. Calculate individual components before combining them for the final solution to avoid errors. Verify the correctness of each step and the final answer before outputting the result. Ensure that calculations are accurately performed and all components are considered in the solution.
+>>> Accuracy: 0.82
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_7-1_0523_124651.json
+>>> 2
+>>> Prompt: Break down the problem into smaller, sequential steps to efficiently solve it. Clearly define the operations and calculations needed at each stage of the problem-solving process. Calculate individual components before combining them for the final solution to avoid errors. Verify the correctness of each step and the final answer before outputting the result. Break down the calculation of the total number of reports stapled by Vince into separate steps, first calculating the number of 15-minute intervals in the time frame and then multiplying it by the reports stapled in each interval. Break down the calculation of the total time taken by Richard to set off all the soda fountains by first calculating the number of soda bottles along the driveway and then multiplying it by the time taken to move from one bottle to the next.
+>>> Accuracy: 0.76
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_7-2_0523_124833.json
+>>> 3
+>>> Prompt: 1. Understand the mathematical question presented in the input data. 2. Execute the computations required to find the solution. 3. Document the resulting numerical value as the answer. 4. Clarify the steps taken to reach the final answer.
+>>> Accuracy: 0.82
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_0-1_0523_104038.json
+>>> 4
+>>> Prompt: Clearly define the steps needed to calculate the ages of individuals in the given question separately, ensuring each calculation is accurate.
+>>> Accuracy: 0.74
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_7-4_0523_125021.json
+>>> 5
+>>> Prompt: Break down the problem into individual steps and accurately calculate each component involved. Clearly define and label all variables used in the problem to maintain precision throughout the solution process. Ensure the total quantities are correctly calculated and all units are properly addressed in every step of the computation.
+>>> Accuracy: 0.76
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_7-5_0523_125202.json
+==================================================
+In iteration 8: 
+>>> 0
+>>> Prompt: 1. Break down the problem into smaller, sequential steps to solve it efficiently.
+2. Clearly define the operations and calculations needed at each stage of the problem-solving process.
+3. Calculate individual components before combining them for the final solution to avoid errors.
+4. Verify the correctness of each step and the final answer before outputting the result.
+>>> Accuracy: 0.9
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_5-1_0523_123215.json
+>>> 1
+>>> Prompt: 1. Break down the time-consuming tasks into smaller, manageable steps for efficient problem-solving.
+2. Clearly define the relationship between the quantities involved in the task to avoid miscalculations.
+3. Calculate the time taken for each individual step and sum them up accurately to determine the total time required to complete the task.
+4. Check the correctness of each step and the final total time before outputting the solution.
+>>> Accuracy: 0.74
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_8-1_0523_125356.json
+>>> 2
+>>> Prompt: Break down the problem into smaller, sequential steps to solve it efficiently. Clearly define the operations and calculations needed at each stage of the problem-solving process, ensuring to calculate individual components before combining them for the final solution to avoid errors. Verify the correctness of each step and the final answer before outputting the result. Break down the total temperature calculation step by step to ensure accuracy in determining the unknown temperature. Clearly define the fractions of land sold at each stage to prevent miscalculations and enable accurate determination of the total earnings.
+>>> Accuracy: 0.74
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_8-2_0523_125535.json
+>>> 3
+>>> Prompt: Break down the problem into smaller, sequential steps to solve it efficiently. Clearly define the operations and calculations needed at each stage of the problem-solving process. Calculate individual components before combining them for the final solution to avoid errors. Verify the correctness of each step and the final answer before outputting the result. Ensure that calculations are accurately performed and all components are considered in the solution.
+>>> Accuracy: 0.82
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_7-1_0523_124651.json
+>>> 4
+>>> Prompt: Break down the problem into simpler equations when setting up the variables and equations to ensure accurate representation of the relationships between the quantities involved. Double-check the calculations and verify the intermediate steps to avoid errors in the final solution. Calculate individual components before combining them for the final solution to avoid mistakes in the output. Ensure that all steps are accurately performed and all components are considered in the solution.
+>>> Accuracy: 0.78
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_8-4_0523_125722.json
+>>> 5
+>>> Prompt: Break down the problem into smaller, sequential steps to efficiently solve it. Clearly define the operations and calculations required at each stage. Calculate individual components before combining them to avoid errors. Verify the correctness of each step and the final answer before outputting the solution. Ensure accurate calculations and consideration of all components in the final result.
+>>> Accuracy: 0.82
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_8-5_0523_125912.json
+==================================================
+In iteration 9: 
+>>> 0
+>>> Prompt: 1. Break down the problem into smaller, sequential steps to solve it efficiently.
+2. Clearly define the operations and calculations needed at each stage of the problem-solving process.
+3. Calculate individual components before combining them for the final solution to avoid errors.
+4. Verify the correctness of each step and the final answer before outputting the result.
+>>> Accuracy: 0.9
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_5-1_0523_123215.json
+>>> 1
+>>> Prompt: Break down complex problems into smaller, more manageable steps to solve them efficiently and accurately. Clearly define the operations and calculations needed at each stage of the problem-solving process. Break down time calculations into smaller units and calculate individual components before combining them for the final solution. Verify the correctness of each step and the final answer before outputting the result.
+>>> Accuracy: 0.84
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_9-1_0523_130111.json
+>>> 2
+>>> Prompt: Break down the problem into smaller, sequential steps to solve it efficiently. Clearly define the operations and calculations needed at each stage of the problem-solving process. Calculate individual components separately before combining them for the final solution to avoid errors. Verify the correctness of each step and the final answer before outputting the result. Ensure to provide detailed explanations for each calculation to enhance understanding and accuracy.
+>>> Accuracy: 0.86
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_9-2_0523_130304.json
+>>> 3
+>>> Prompt: Break down the problem into smaller, sequential steps to solve it efficiently. Clearly define the operations and calculations needed at each stage of the problem-solving process. Calculate individual components before combining them for the final solution to avoid errors. Verify the correctness of each step and the final answer before outputting the result. Ensure that calculations are accurately performed and all components are considered in the solution.
+>>> Accuracy: 0.82
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_7-1_0523_124651.json
+>>> 4
+>>> Prompt: Clearly define the operations and calculations required at each step of the problem-solving process. Break down the problem into smaller, sequential components and calculate individual steps before combining them for the final solution to ensure accuracy. Verify the correctness of each calculation and the final answer before providing the result. Consider all components and operations involved in the solution to avoid errors and inaccuracies.
+>>> Accuracy: 0.8
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_9-4_0523_130454.json
+>>> 5
+>>> Prompt: For problem-solving tasks, break down the problem into smaller sequential steps to efficiently find the solution. Clearly define the operations and calculations needed at each stage of the problem-solving process. Calculate individual components separately before combining them for the final solution to avoid errors. Verify the correctness of each step and the final answer before outputting the result. Ensure that calculations are accurately performed and all components are considered in the solution. Consider assigning variables to each element and solving for them individually before combining to find the total sum.
+>>> Accuracy: 0.82
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_9-5_0523_130634.json
+==================================================
+In iteration 10: 
+>>> 0
+>>> Prompt: 1. Break down the problem into smaller, sequential steps to solve it efficiently.
+2. Clearly define the operations and calculations needed at each stage of the problem-solving process.
+3. Calculate individual components before combining them for the final solution to avoid errors.
+4. Verify the correctness of each step and the final answer before outputting the result.
+>>> Accuracy: 0.9
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_5-1_0523_123215.json
+>>> 1
+>>> Prompt: Break down the calculation of the total temperature contribution from the water in each mug separately before combining them. Clearly define the relationship between the total ounces of water and the total temperature needed to ensure accurate results. Calculate individual contributions before combining them for the final temperature. Verify the correctness of each step and the final temperature before outputting the result.
+>>> Accuracy: 0.0
+>>> Responses path: 
+>>> 2
+>>> Prompt: 1. Break down the problem into smaller, sequential steps to solve it efficiently.
+2. Clearly define the operations and calculations needed at each stage of the problem-solving process.
+3. Calculate individual components accurately before combining them for the final solution to avoid errors.
+4. Verify the correctness of each step and the final answer before outputting the result.
+5. Ensure that the total sums or quantities match the components calculated in each step for consistency and accuracy.
+>>> Accuracy: 0.0
+>>> Responses path: 
+>>> 3
+>>> Prompt: Break down the problem into smaller, sequential steps to solve it efficiently. Clearly define the operations and calculations needed at each stage of the problem-solving process. Calculate individual components separately before combining them for the final solution to avoid errors. Verify the correctness of each step and the final answer before outputting the result. Ensure to provide detailed explanations for each calculation to enhance understanding and accuracy.
+>>> Accuracy: 0.86
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_9-2_0523_130304.json
+>>> 4
+>>> Prompt: Break down the problem-solving process into smaller, sequential steps to solve it efficiently. Clearly define the calculations required for each component before combining them for the final solution. Verify the accuracy of each step and the final answer before outputting the result. Provide detailed explanations for each calculation to enhance understanding and accuracy throughout the problem-solving process.
+>>> Accuracy: 0.0
+>>> Responses path: 
+>>> 5
+>>> Prompt: Break down the problem into a series of sequential steps, clearly defining the operations and calculations required at each stage. Verify the correctness of each step and adjust calculations if necessary before moving on to the next step. Double-check the logic and calculations throughout the process to ensure accuracy in the final solution. Provide detailed explanations for each calculation to enhance understanding and minimize errors.
+>>> Accuracy: 0.0
+>>> Responses path: 
+==================================================
+Best prompt instance: {'inst': '1. Break down the problem into smaller, sequential steps to solve it efficiently.\n2. Clearly define the operations and calculations needed at each stage of the problem-solving process.\n3. Calculate individual components before combining them for the final solution to avoid errors.\n4. Verify the correctness of each step and the final answer before outputting the result.', 'accuracy': 0.9, 'responses_path': '../data/response/gsm8k/summary-beam-fewshot-2/res_gpt-3.5-turbo_5-1_0523_123215.json'}

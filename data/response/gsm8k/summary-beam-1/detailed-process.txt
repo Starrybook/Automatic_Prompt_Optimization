@@ -1,0 +1,284 @@
+Prompt instances:
+In iteration 0: 
+>>> 0
+>>> Prompt: 1. Read the provided mathematical problem carefully. 2. Identify and perform the necessary calculations to solve the problem. 3. Write down the final numerical answer. 4. Provide an explanation of how you arrived at your answer.
+>>> Accuracy: 0.24
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_0-0_0521_212625.json
+>>> 1
+>>> Prompt: 1. Understand the mathematical question presented in the input data. 2. Execute the computations required to find the solution. 3. Document the resulting numerical value as the answer. 4. Clarify the steps taken to reach the final answer.
+>>> Accuracy: 0.12
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_0-1_0521_212851.json
+==================================================
+In iteration 1: 
+>>> 0
+>>> Prompt: 1. Read the provided mathematical problem carefully. 2. Identify and perform the necessary calculations to solve the problem. 3. Write down the final numerical answer. 4. Provide an explanation of how you arrived at your answer.
+>>> Accuracy: 0.24
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_0-0_0521_212625.json
+>>> 1
+>>> Prompt: 1. Read the given problem carefully and identify all the quantities involved. 
+2. Perform the necessary calculations step by step, showing the intermediate results clearly.
+3. Specify the units of measurement (e.g. dollars, slices) in each calculation to avoid confusion.
+4. Write down the final numerical answer with the correct units.
+5. Provide a detailed explanation of how you arrived at your answer, breaking down each calculation.
+>>> Accuracy: 0.2
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_1-1_0521_213207.json
+>>> 2
+>>> Prompt: 1. Break down the calculation of each component of the total amount separately. 
+2. Clearly indicate the step where each specific calculation is being performed.
+3. Read the provided problem carefully and identify all the individual calculations needed.
+4. Perform each calculation separately and write down the results.
+5. Sum up all the calculated values to find the total amount.
+>>> Accuracy: 0.28
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_1-2_0521_213436.json
+>>> 3
+>>> Prompt: 1. Understand the mathematical question presented in the input data. 2. Execute the computations required to find the solution. 3. Document the resulting numerical value as the answer. 4. Clarify the steps taken to reach the final answer.
+>>> Accuracy: 0.12
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_0-1_0521_212851.json
+>>> 4
+>>> Prompt: 1. Break down the calculation into smaller steps by first determining the quantity or rate per unit of time presented in the input data. 2. Calculate the total quantity by multiplying the rate per unit of time by the total duration or amount specified in the problem. 3. Clearly specify all units in calculations and convert to a consistent unit if necessary. 4. Provide a clear explanation of each step taken to reach the final answer.
+>>> Accuracy: 0.24
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_1-4_0521_213706.json
+>>> 5
+>>> Prompt: 1. Understand the mathematical problem presented in the input data. 2. Break down the steps needed to solve the problem clearly and methodically. 3. Perform the necessary computations to find the solution accurately. 4. Explain each step taken in the calculation process to reach the final answer in a coherent and detailed manner.
+>>> Accuracy: 0.34
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_1-5_0521_213955.json
+==================================================
+In iteration 2: 
+>>> 0
+>>> Prompt: 1. Understand the mathematical problem presented in the input data. 2. Break down the steps needed to solve the problem clearly and methodically. 3. Perform the necessary computations to find the solution accurately. 4. Explain each step taken in the calculation process to reach the final answer in a coherent and detailed manner.
+>>> Accuracy: 0.34
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_1-5_0521_213955.json
+>>> 1
+>>> Prompt: 1. Clearly identify the given information and key variables in the mathematical problem. 2. Break down the problem into smaller, more manageable parts, such as setting up relevant equations and applying appropriate mathematical operations. 3. Solve the problem step by step, ensuring correct calculations are performed at each stage. 4. Explain each step taken in the solution process in detail and coherently to reach the final answer accurately.
+>>> Accuracy: 0.24
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_2-1_0521_214306.json
+>>> 2
+>>> Prompt: 1. Break down the calculations for each component separately. Clearly define the relationship between the different components in the problem to ensure accurate understanding. 2. Perform the necessary computations for each component individually before combining them to find the final solution. 3. Explain each step taken in the calculation process to reach the final answer in a coherent and detailed manner.
+>>> Accuracy: 0.26
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_2-2_0521_214552.json
+>>> 3
+>>> Prompt: 1. Break down the calculation of each component of the total amount separately. 
+2. Clearly indicate the step where each specific calculation is being performed.
+3. Read the provided problem carefully and identify all the individual calculations needed.
+4. Perform each calculation separately and write down the results.
+5. Sum up all the calculated values to find the total amount.
+>>> Accuracy: 0.28
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_1-2_0521_213436.json
+>>> 4
+>>> Prompt: Break down the calculations for each year of depreciation separately, clearly indicating the step where each specific calculation is being performed. Provide additional explanation or examples to clarify the concept of depreciation and how it applies to the total price calculation when determining the price of an item after a certain number of years.
+>>> Accuracy: 0.52
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_2-4_0521_214809.json
+>>> 5
+>>> Prompt: Break down the step of subtracting the number of items being removed from the total quantity before performing any additional calculations.
+>>> Accuracy: 0.16
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_2-5_0521_215032.json
+==================================================
+In iteration 3: 
+>>> 0
+>>> Prompt: Break down the calculations for each year of depreciation separately, clearly indicating the step where each specific calculation is being performed. Provide additional explanation or examples to clarify the concept of depreciation and how it applies to the total price calculation when determining the price of an item after a certain number of years.
+>>> Accuracy: 0.52
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_2-4_0521_214809.json
+>>> 1
+>>> Prompt: Break down the calculations for depreciation year by year, clearly indicating each step for calculating the depreciation amount for that specific year. Provide additional examples or explanations to clarify the concept of depreciation and how it impacts the total price calculation over multiple years.
+>>> Accuracy: 0.34
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_3-1_0521_215300.json
+>>> 2
+>>> Prompt: Break down each calculation step by step, clearly indicating how each quantity is modified or calculated. Provide additional explanations or examples to reinforce the concept being applied in each step. Use clear and concise language to guide the model in accurately performing the calculations for each year of depreciation and determining the price of an item after a specific number of years.
+>>> Accuracy: 0.5
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_3-2_0521_215530.json
+>>> 3
+>>> Prompt: 1. Understand the mathematical problem presented in the input data. 2. Break down the steps needed to solve the problem clearly and methodically. 3. Perform the necessary computations to find the solution accurately. 4. Explain each step taken in the calculation process to reach the final answer in a coherent and detailed manner.
+>>> Accuracy: 0.34
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_1-5_0521_213955.json
+>>> 4
+>>> Prompt: 1. Break down the calculation of total earnings per hour for each time frame separately. Calculate the total earnings for the first four hours and the next two hours individually before adding them together. 2. Emphasize the importance of accurately calculating the total earnings per hour by multiplying the number of cups sold by the price per cup before summing up the earnings for each time frame.
+>>> Accuracy: 0.36
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_3-4_0521_215741.json
+>>> 5
+>>> Prompt: Given the mathematical problem presented in the input data, break down the calculation process step by step and explicitly state the logic behind each computation to ensure accurate understanding and execution of the problem. Clearly define the parameters and variables involved before starting the calculations to avoid confusion and ensure consistency in finding the solution.
+>>> Accuracy: 0.42
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_3-5_0521_220042.json
+==================================================
+In iteration 4: 
+>>> 0
+>>> Prompt: Break down the calculations for each year of depreciation separately, clearly indicating the step where each specific calculation is being performed. Provide additional explanation or examples to clarify the concept of depreciation and how it applies to the total price calculation when determining the price of an item after a certain number of years.
+>>> Accuracy: 0.52
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_2-4_0521_214809.json
+>>> 1
+>>> Prompt: Break down the depreciation calculations for each year individually. Clearly indicate the step where each specific calculation is being performed. Provide additional explanation or examples to clarify the concept of depreciation and how it applies to the total price calculation when determining the price of an item after a certain number of years. Make sure to break down each year's depreciation according to a constant rate and show the correct formula for each year's calculation.
+>>> Accuracy: 0.5
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_4-1_0521_220352.json
+>>> 2
+>>> Prompt: Break down the calculations for each step of the problem, clearly indicating the specific actions or units of measurement involved in each part. Provide detailed explanations on how the given information corresponds to each calculation step, emphasizing the connections between different components of the problem to ensure accuracy in the final answer.
+>>> Accuracy: 0.5
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_4-2_0521_220642.json
+>>> 3
+>>> Prompt: Break down each calculation step by step, clearly indicating how each quantity is modified or calculated. Provide additional explanations or examples to reinforce the concept being applied in each step. Use clear and concise language to guide the model in accurately performing the calculations for each year of depreciation and determining the price of an item after a specific number of years.
+>>> Accuracy: 0.5
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_3-2_0521_215530.json
+>>> 4
+>>> Prompt: Break down each calculation step by step, clearly indicating how each quantity is modified or calculated. Clearly explain the relationship between the given information and the variables used when setting up equations. Provide detailed examples to reinforce the concept being applied in the calculations. Use concise language to guide the model in accurately performing the calculations and determining the final result.
+>>> Accuracy: 0.44
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_4-4_0521_220933.json
+>>> 5
+>>> Prompt: Provide a detailed breakdown of each calculation step, clearly illustrating how each quantity is modified or calculated. Offer additional explanations or examples to reinforce the concept being applied in each step. Use precise and straightforward language to guide the model in accurately performing the calculations for each stage of depreciation and determining the price of an item after a specified number of years.
+>>> Accuracy: 0.36
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_4-5_0521_221205.json
+==================================================
+In iteration 5: 
+>>> 0
+>>> Prompt: Break down the calculations for each year of depreciation separately, clearly indicating the step where each specific calculation is being performed. Provide additional explanation or examples to clarify the concept of depreciation and how it applies to the total price calculation when determining the price of an item after a certain number of years.
+>>> Accuracy: 0.52
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_2-4_0521_214809.json
+>>> 1
+>>> Prompt: Break down the calculations for total cost and total revenue separately for each scenario. Clearly outline the steps for calculating profit in relation to total revenue and total cost, emphasizing that profit is the difference between total revenue and total cost. Provide additional explanation or examples to clarify the concept of cost, revenue, and profit in various scenarios.
+>>> Accuracy: 0.18
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_5-1_0521_221501.json
+>>> 2
+>>> Prompt: Break down the calculations for each year of depreciation individually, clearly outlining the logic and mathematical operations applied at each step. Explain the rationale behind each calculation in depth to ensure clarity. Provide additional examples or scenarios to illustrate the concept of depreciation and its impact on the total price calculation over time. Utilize different values and circumstances to demonstrate the practical application of depreciation in determining the price of an item after a specific number of years.
+>>> Accuracy: 0.56
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_5-2_0521_221747.json
+>>> 3
+>>> Prompt: Break down the depreciation calculations for each year individually. Clearly indicate the step where each specific calculation is being performed. Provide additional explanation or examples to clarify the concept of depreciation and how it applies to the total price calculation when determining the price of an item after a certain number of years. Make sure to break down each year's depreciation according to a constant rate and show the correct formula for each year's calculation.
+>>> Accuracy: 0.5
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_4-1_0521_220352.json
+>>> 4
+>>> Prompt: Break down the depreciation calculations for each year individually. Clearly indicate the step where each specific calculation is being performed. Provide additional explanation or examples to clarify the concept of depreciation and how it applies to the total price calculation when determining the price of an item after a certain number of years. Make sure to break down each year's depreciation according to a constant rate and show the correct formula for each year's calculation, ensuring each calculation is detailed and accurate to prevent errors in the final result. Include examples demonstrating the correct calculations for each year's depreciation to illustrate the proper method for determining the item's price over time.
+>>> Accuracy: 0.28
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_5-4_0521_222005.json
+>>> 5
+>>> Prompt: Break down the depreciation calculations for each year individually. Clearly indicate the step where each specific calculation is being performed. Provide additional explanation or examples to clarify the concept of depreciation and how it applies to the total price calculation when determining the price of an item after a certain number of years. Make sure to break down each year's depreciation according to a constant rate and show the correct formula for each year's calculation. Ensure to separate the calculation of total additional fees for a house purchase into distinct steps for the brokerage fee and the transfer fee. For the calculation of the total people Conor saw at the beach during the week, break it down into individual daily calculations including the fourth day onwards to show a clear process of summing the total number of people.
+>>> Accuracy: 0.32
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_5-5_0521_222241.json
+==================================================
+In iteration 6: 
+>>> 0
+>>> Prompt: Break down the calculations for each year of depreciation individually, clearly outlining the logic and mathematical operations applied at each step. Explain the rationale behind each calculation in depth to ensure clarity. Provide additional examples or scenarios to illustrate the concept of depreciation and its impact on the total price calculation over time. Utilize different values and circumstances to demonstrate the practical application of depreciation in determining the price of an item after a specific number of years.
+>>> Accuracy: 0.56
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_5-2_0521_221747.json
+>>> 1
+>>> Prompt: Break down the calculations for each scenario, clearly outlining the steps and mathematical operations applied. Explain the rationale for each calculation to ensure clarity and accuracy. Provide additional examples with varying values to illustrate the concept and impact of the task. Check for errors in multiplication, addition, and logic to ensure correct results.
+>>> Accuracy: 0.34
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_6-1_0521_223008.json
+>>> 2
+>>> Prompt: Break down the calculations step by step, clearly defining the variables used in each calculation to avoid confusion. Provide specific explanations for each mathematical operation performed to showcase the logic behind the calculations. Utilize different values and circumstances to demonstrate the practical application of depreciation in determining the price of an item after a specific number of years. Ensure that the model understands the concept of depreciation and its impact on the total price calculation over time, by presenting accurate calculations and explanations for each step.
+>>> Accuracy: 0.44
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_6-2_0521_223250.json
+>>> 3
+>>> Prompt: Break down the calculations for each year of depreciation separately, clearly indicating the step where each specific calculation is being performed. Provide additional explanation or examples to clarify the concept of depreciation and how it applies to the total price calculation when determining the price of an item after a certain number of years.
+>>> Accuracy: 0.52
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_2-4_0521_214809.json
+>>> 4
+>>> Prompt: Break down the calculations for each component (revenue, cost, profit) separately, clearly indicating the step where each specific calculation is being performed. Ensure a comprehensive breakdown of each element before combining them to determine the final solution. Provide specific breakdowns of each step in various scenarios to allow for a detailed understanding of the concept and its application in different situations.
+>>> Accuracy: 0.34
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_6-4_0521_223522.json
+>>> 5
+>>> Prompt: Break down the calculations for each period of activity separately, clearly showing the intermediate steps for determining the total quantity or cost. Provide detailed explanations for each calculation to ensure a comprehensive understanding of the process and how it contributes to the final result. Include specific examples to illustrate the concept in a practical manner, aiding in the overall comprehension of the task at hand.
+>>> Accuracy: 0.52
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_6-5_0521_223816.json
+==================================================
+In iteration 7: 
+>>> 0
+>>> Prompt: Break down the calculations for each year of depreciation individually, clearly outlining the logic and mathematical operations applied at each step. Explain the rationale behind each calculation in depth to ensure clarity. Provide additional examples or scenarios to illustrate the concept of depreciation and its impact on the total price calculation over time. Utilize different values and circumstances to demonstrate the practical application of depreciation in determining the price of an item after a specific number of years.
+>>> Accuracy: 0.56
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_5-2_0521_221747.json
+>>> 1
+>>> Prompt: Break down the calculations for each component of the total price separately, clearly outlining the logic and mathematical operations applied to each one. Explain the rationale behind each calculation in depth to ensure clarity and accuracy in the final solution. Provide additional examples or scenarios to illustrate the concept of pricing components and their impact on the total price calculation. Utilize different values and circumstances to demonstrate the practical application of component breakdown in determining the overall cost of an item.
+>>> Accuracy: 0.42
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_7-1_0521_224145.json
+>>> 2
+>>> Prompt: Break down the calculations step by step, clearly indicating how each part of the problem is being addressed. Provide detailed explanations for key concepts and operations involved in the problem to ensure a comprehensive understanding. Use different scenarios and values to demonstrate the concept of depreciation and its impact on the total price calculation over time. Ensure the logic and mathematical operations are outlined accurately in each calculation for each year of depreciation.
+>>> Accuracy: 0.78
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_7-2_0521_224438.json
+>>> 3
+>>> Prompt: Break down the calculations for each year of depreciation separately, clearly indicating the step where each specific calculation is being performed. Provide additional explanation or examples to clarify the concept of depreciation and how it applies to the total price calculation when determining the price of an item after a certain number of years.
+>>> Accuracy: 0.52
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_2-4_0521_214809.json
+>>> 4
+>>> Prompt: Break down the calculations for each individual item or step separately when determining the total price, clearly indicating the specific calculations being performed at each stage. Put a spotlight on how discounts are applied to each item or step before calculating the final total cost. Provide additional examples or explanations to illustrate the concept of calculating total expenses accurately.
+>>> Accuracy: 0.28
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_7-4_0521_224701.json
+>>> 5
+>>> Prompt: Break down the calculations for each year of depreciation separately, clearly indicating the step where each specific calculation is being performed. Provide additional clarification on how the rate of depreciation is applied annually in example 2. In example 3, explain how the increase in funding per month is calculated and applied beyond the initial 5 months of research. Ensure that the model grasps the concept of calculation steps and how they contribute to the final total cost.
+>>> Accuracy: 0.5
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_7-5_0521_224926.json
+==================================================
+In iteration 8: 
+>>> 0
+>>> Prompt: Break down the calculations step by step, clearly indicating how each part of the problem is being addressed. Provide detailed explanations for key concepts and operations involved in the problem to ensure a comprehensive understanding. Use different scenarios and values to demonstrate the concept of depreciation and its impact on the total price calculation over time. Ensure the logic and mathematical operations are outlined accurately in each calculation for each year of depreciation.
+>>> Accuracy: 0.78
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_7-2_0521_224438.json
+>>> 1
+>>> Prompt: Break down the calculations step by step and clearly explain each part of the problem as it is being addressed. Provide detailed explanations for key concepts and operations involved in the problem to ensure a comprehensive understanding. Use different scenarios and values to demonstrate the concept of depreciation and its impact on the total price calculation over time. Ensure the logic and mathematical operations are accurately outlined in each calculation for each year of depreciation. Make sure to break down complex problems into smaller, manageable steps before attempting calculations, and verify the accuracy of each step by showing intermediate calculations.
+>>> Accuracy: 0.56
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_8-1_0521_232534.json
+>>> 2
+>>> Prompt: Break down the calculations step by step, clearly indicating how each part of the problem is being addressed. Provide detailed explanations for key concepts and operations involved in the problem to ensure a comprehensive understanding. Use various scenarios and values to demonstrate the concept and its impact on the total calculation over time. Ensure that the logic and mathematical operations are accurately outlined in each calculation for each stage of the problem.
+>>> Accuracy: 0.44
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_8-2_0521_232821.json
+>>> 3
+>>> Prompt: Break down the calculations for each year of depreciation individually, clearly outlining the logic and mathematical operations applied at each step. Explain the rationale behind each calculation in depth to ensure clarity. Provide additional examples or scenarios to illustrate the concept of depreciation and its impact on the total price calculation over time. Utilize different values and circumstances to demonstrate the practical application of depreciation in determining the price of an item after a specific number of years.
+>>> Accuracy: 0.56
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_5-2_0521_221747.json
+>>> 4
+>>> Prompt: Break down the calculations step-by-step, clearly explaining the logic and mathematical operations applied at each stage. Ensure accuracy by double-checking the values used in each calculation. Provide detailed reasoning behind each calculation to avoid misinterpretation. Use various examples and scenarios to illustrate the concept of depreciation and its impact on the total price calculation over time. Incorporate different values and circumstances to demonstrate the practical application of depreciation in determining the price of an item after a specific number of years.
+>>> Accuracy: 0.3
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_8-4_0521_233108.json
+>>> 5
+>>> Prompt: Break down the calculations step by step and clearly show the intermediate results before proceeding to the final answer. Clearly define the variables and quantities involved in the problem to avoid confusion and ensure accurate calculations. Provide additional examples or scenarios to illustrate the concept of the problem and its impact on the final result over time. Utilize different values and circumstances to demonstrate the practical application of the problem in determining the final outcome under various conditions. Make sure to explain the rationale behind each calculation in depth to ensure clarity and accuracy in the final answer.
+>>> Accuracy: 0.28
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_8-5_0521_233407.json
+==================================================
+In iteration 9: 
+>>> 0
+>>> Prompt: Break down the calculations step by step, clearly indicating how each part of the problem is being addressed. Provide detailed explanations for key concepts and operations involved in the problem to ensure a comprehensive understanding. Use different scenarios and values to demonstrate the concept of depreciation and its impact on the total price calculation over time. Ensure the logic and mathematical operations are outlined accurately in each calculation for each year of depreciation.
+>>> Accuracy: 0.78
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_7-2_0521_224438.json
+>>> 1
+>>> Prompt: Break down the calculations step by step, clearly indicating how each part of the problem is being addressed. Provide detailed explanations for key concepts and operations involved in the problem to ensure a comprehensive understanding. Utilize various scenarios and values to illustrate the concept and its impact on the final solution. Ensure accurate logic and mathematical operations are outlined for each step of the problem to avoid errors.
+>>> Accuracy: 0.38
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_9-1_0521_233731.json
+>>> 2
+>>> Prompt: Break down the calculations step by step, clearly indicating how each part of the problem is being addressed. Provide detailed explanations for key concepts and operations involved in the problem to ensure a comprehensive understanding. Use different scenarios and values to demonstrate the concept of depreciation and its impact on the total price calculation over time. Ensure the logic and mathematical operations are outlined accurately in each calculation for each year of depreciation. Break down the calculations for each step into smaller, more manageable parts. For example, calculate the initial amount and subsequent changes separately before combining the results. Clearly explain the reasoning behind each calculation and make sure to clearly define the variables or values being used in the problem.
+>>> Accuracy: 0.38
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_9-2_0521_234025.json
+>>> 3
+>>> Prompt: Break down the calculations step by step and clearly explain each part of the problem as it is being addressed. Provide detailed explanations for key concepts and operations involved in the problem to ensure a comprehensive understanding. Use different scenarios and values to demonstrate the concept of depreciation and its impact on the total price calculation over time. Ensure the logic and mathematical operations are accurately outlined in each calculation for each year of depreciation. Make sure to break down complex problems into smaller, manageable steps before attempting calculations, and verify the accuracy of each step by showing intermediate calculations.
+>>> Accuracy: 0.56
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_8-1_0521_232534.json
+>>> 4
+>>> Prompt: Break down the calculations for total funding of the research project step by step. Clearly explain how the funding for each month is calculated, especially when the funding increases by 50% each month after the initial 5 months. Ensure a detailed explanation of how the total cost of the research project is computed by summing up the funding for the initial 5 months and the funding for the remaining months. Provide a comprehensive breakdown of the logic and mathematical operations involved in each calculation to ensure accurate results. Use different values and scenarios to demonstrate the concept of increasing funding over time and its impact on the total cost of the research project. Verify the accuracy of each step by showing intermediate calculations throughout the process.
+>>> Accuracy: 0.46
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_9-4_0521_234301.json
+>>> 5
+>>> Prompt: Break down the calculations step by step and clearly explain each part of the problem as it is being addressed. Define variables clearly and establish relationships between them before proceeding with the calculations. Double-check the intermediate calculations to ensure accuracy before reaching the final solution. Provide detailed explanations for key concepts and operations involved in the problem to ensure a comprehensive understanding. Use different scenarios and values to demonstrate the concept of depreciation and its impact on the total price calculation over time. Break down complex problems into smaller, manageable steps before attempting calculations. Verify the accuracy of each step by showing intermediate calculations to prevent errors in the final result.
+>>> Accuracy: 0.34
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_9-5_0521_234559.json
+==================================================
+In iteration 10: 
+>>> 0
+>>> Prompt: Break down the calculations step by step, clearly indicating how each part of the problem is being addressed. Provide detailed explanations for key concepts and operations involved in the problem to ensure a comprehensive understanding. Use different scenarios and values to demonstrate the concept of depreciation and its impact on the total price calculation over time. Ensure the logic and mathematical operations are outlined accurately in each calculation for each year of depreciation.
+>>> Accuracy: 0.78
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_7-2_0521_224438.json
+>>> 1
+>>> Prompt: Break down the calculations step by step, clearly indicating the substitution of variables for each person's score. State explicitly that B represents Bahati's score, X represents Azibo's score, and Y represents Dinar's score to avoid confusion. Provide a detailed explanation of how the equations are formed from the given information, ensuring that the relationships between Bahati, Azibo, and Dinar's scores are accurately represented in the calculations. Use different values to demonstrate the concept of contributions and their impact on the total score calculation. Ensure the logic and mathematical operations are outlined accurately in each step for each person's contribution.
+>>> Accuracy: 0.0
+>>> Responses path: 
+>>> 2
+>>> Prompt: Break down the solution into smaller, more digestible steps so that each calculation is clearly outlined and easier to follow. Provide additional explanations for key concepts and operations involved in each step to ensure a comprehensive understanding of the problem-solving process. Use various scenarios and values to demonstrate the concept of depreciation and its impact on the total price calculation over time. Make sure to outline the logic and mathematical operations accurately for each year of depreciation to achieve the correct answer.
+>>> Accuracy: 0.0
+>>> Responses path: 
+>>> 3
+>>> Prompt: Break down the calculations step by step and clearly explain each part of the problem as it is being addressed. Provide detailed explanations for key concepts and operations involved in the problem to ensure a comprehensive understanding. Use different scenarios and values to demonstrate the concept of depreciation and its impact on the total price calculation over time. Ensure the logic and mathematical operations are accurately outlined in each calculation for each year of depreciation. Make sure to break down complex problems into smaller, manageable steps before attempting calculations, and verify the accuracy of each step by showing intermediate calculations.
+>>> Accuracy: 0.56
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_8-1_0521_232534.json
+>>> 4
+>>> Prompt: Break down each problem into smaller, manageable components and clearly explain each step before proceeding to the next. Check the equations and calculations for accuracy and consistency at every intermediate stage to ensure the correct values are being used and manipulated correctly. Use different scenarios and values to demonstrate concepts and operations accurately. Provide detailed explanations for key concepts involved in the problem to ensure a comprehensive understanding. Make sure to verify the logic and mathematical operations in each calculation for each component of the problem. Demonstrate the impact of depreciation on total price calculations over time with various values and scenarios to illustrate the concept effectively.
+>>> Accuracy: 0.0
+>>> Responses path: 
+>>> 5
+>>> Prompt: Break down each step of the problem clearly, showing the calculation for each part of the problem. Provide detailed explanations for key concepts and operations involved in the problem to ensure a comprehensive understanding. Use different scenarios and values to demonstrate the concept of depreciation and its impact on the total price calculation over time. Ensure accurate logic and mathematical operations are outlined in each calculation for each year of depreciation. Break down complex problems into smaller manageable steps before attempting calculations and verify the accuracy of each step by showing intermediate calculations.
+>>> Accuracy: 0.0
+>>> Responses path: 
+==================================================
+Best prompt instance: {'inst': 'Break down the calculations step by step, clearly indicating how each part of the problem is being addressed. Provide detailed explanations for key concepts and operations involved in the problem to ensure a comprehensive understanding. Use different scenarios and values to demonstrate the concept of depreciation and its impact on the total price calculation over time. Ensure the logic and mathematical operations are outlined accurately in each calculation for each year of depreciation.', 'accuracy': 0.78, 'responses_path': '../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_7-2_0521_224438.json'}

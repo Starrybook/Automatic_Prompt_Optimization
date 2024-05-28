@@ -1,0 +1,51 @@
+
+
+>>> Current iteration: 0
+Responses saved to ../data/response/gsm8k/summary-greedy-0/res_gpt-3.5-turbo_0_0522_160131.json
+>>> Current accuracy rate: 0.2
+
+
+>>> Current iteration: 1
+Responses saved to ../data/response/gsm8k/summary-greedy-0/res_gpt-3.5-turbo_1_0522_160419.json
+>>> Current accuracy rate: 0.28
+
+
+>>> Current iteration: 2
+Responses saved to ../data/response/gsm8k/summary-greedy-0/res_gpt-3.5-turbo_2_0522_160707.json
+>>> Current accuracy rate: 0.24
+
+
+>>> Current iteration: 3
+Responses saved to ../data/response/gsm8k/summary-greedy-0/res_gpt-3.5-turbo_3_0522_161014.json
+>>> Current accuracy rate: 0.26
+
+
+>>> Current iteration: 4
+Responses saved to ../data/response/gsm8k/summary-greedy-0/res_gpt-3.5-turbo_4_0522_161310.json
+>>> Current accuracy rate: 0.28
+
+
+>>> Current iteration: 5
+Responses saved to ../data/response/gsm8k/summary-greedy-0/res_gpt-3.5-turbo_5_0522_161555.json
+>>> Current accuracy rate: 0.3
+
+
+>>> Current iteration: 6
+Responses saved to ../data/response/gsm8k/summary-greedy-0/res_gpt-3.5-turbo_6_0522_161835.json
+>>> Current accuracy rate: 0.32
+
+
+>>> Current iteration: 7
+Responses saved to ../data/response/gsm8k/summary-greedy-0/res_gpt-3.5-turbo_7_0522_162120.json
+>>> Current accuracy rate: 0.76
+
+
+>>> Current iteration: 8
+Responses saved to ../data/response/gsm8k/summary-greedy-0/res_gpt-3.5-turbo_8_0522_162408.json
+>>> Current accuracy rate: 0.36
+
+
+>>> Current iteration: 9
+Responses saved to ../data/response/gsm8k/summary-greedy-0/res_gpt-3.5-turbo_9_0522_162659.json
+>>> Current accuracy rate: 0.4
+==================================================

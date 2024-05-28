@@ -1,0 +1,110 @@
+
+
+>>> Current iteration: 0
+Responses saved to ../data/response/gsm8k/summary-greedy-2/res_gpt-3.5-turbo_0_0522_191647.json
+>>> Current accuracy rate: 0.32
+
+
+>>> Current iteration: 1
+Responses saved to ../data/response/gsm8k/summary-greedy-2/res_gpt-3.5-turbo_1_0522_191912.json
+>>> Current accuracy rate: 0.3
+
+
+>>> Current iteration: 2
+Responses saved to ../data/response/gsm8k/summary-greedy-2/res_gpt-3.5-turbo_2_0522_192135.json
+>>> Current accuracy rate: 0.34
+
+
+>>> Current iteration: 3
+Responses saved to ../data/response/gsm8k/summary-greedy-2/res_gpt-3.5-turbo_3_0522_192352.json
+>>> Current accuracy rate: 0.28
+
+
+>>> Current iteration: 4
+Responses saved to ../data/response/gsm8k/summary-greedy-2/res_gpt-3.5-turbo_4_0522_192621.json
+>>> Current accuracy rate: 0.3
+
+
+>>> Current iteration: 5
+Responses saved to ../data/response/gsm8k/summary-greedy-2/res_gpt-3.5-turbo_5_0522_192841.json
+>>> Current accuracy rate: 0.28
+
+
+>>> Current iteration: 6
+Responses saved to ../data/response/gsm8k/summary-greedy-2/res_gpt-3.5-turbo_6_0522_193103.json
+>>> Current accuracy rate: 0.26
+
+
+>>> Current iteration: 7
+Responses saved to ../data/response/gsm8k/summary-greedy-2/res_gpt-3.5-turbo_7_0522_193336.json
+>>> Current accuracy rate: 0.3
+
+
+>>> Current iteration: 8
+Responses saved to ../data/response/gsm8k/summary-greedy-2/res_gpt-3.5-turbo_8_0522_193556.json
+>>> Current accuracy rate: 0.3
+
+
+>>> Current iteration: 9
+Error in parse_target_model_output: <E>Unfortunately, the input provided is not related to the original prompt about gaining new trees each year. I am unable to provide an answer for the unrelated input. Please provide a question related to the tree calculation scenario for me to assist with.</E>
+Error in parse_target_model_output: I'm sorry, but the input provided is unrelated to the tree planting and chopping scenario outlined in the initial instructions. Could you please provide a new question related to that scenario? Thank you!
+Error in parse_target_model_output: I'm sorry, but the input provided is unrelated to the tree planting and chopping scenario outlined in the initial instructions. Could you please provide a new question related to that scenario? Thank you!
+Error in parse_target_model_output: <E>Sorry, I am an expert in Mathematics and cannot help with this problem. If you have any math-related questions, please feel free to ask!</E>
+Responses saved to ../data/response/gsm8k/summary-greedy-2/res_gpt-3.5-turbo_9_0522_193806.json
+Error in evaluating: 360 vs NULL
+Error in evaluating: 35 vs NULL
+Error in evaluating: 60 vs NULL
+>>> Current accuracy rate: 0.58
+Error in get_error_examples_gsm8k: 360 vs NULL
+Error in get_error_examples_gsm8k: 35 vs NULL
+Error in get_error_examples_gsm8k: 60 vs NULL
+==================================================
+
+
+Prompt instances:
+In iteration 0: 
+>>> Prompt: 1. Read the provided mathematical problem carefully. 2. Identify and perform the necessary calculations to solve the problem. 3. Write down the final numerical answer. 4. Provide an explanation of how you arrived at your answer.
+>>> Accuracy: 0.32
+>>> Responses path: ../data/response/gsm8k/summary-greedy-2/res_gpt-3.5-turbo_0_0522_191647.json
+In iteration 1: 
+>>> Prompt: 1. Break down the calculation of each part of the problem separately. 2. Ensure all numbers and operations are accounted for correctly. 3. Double-check the final calculation before combining the results. 4. Write down the final numerical answer with a clear explanation of how you arrived at it.
+>>> Accuracy: 0.3
+>>> Responses path: ../data/response/gsm8k/summary-greedy-2/res_gpt-3.5-turbo_1_0522_191912.json
+In iteration 2: 
+>>> Prompt: Break down the calculation process step by step to ensure accuracy. Calculate the cost of each service, item, or discount separately before combining the results. Clearly label each calculation and verify all numbers and operations are correct. Write down the final numerical answer with a detailed explanation of how it was obtained.
+>>> Accuracy: 0.34
+>>> Responses path: ../data/response/gsm8k/summary-greedy-2/res_gpt-3.5-turbo_2_0522_192135.json
+In iteration 3: 
+>>> Prompt: Break down the calculation process step by step to ensure accuracy. Calculate the cost of each item or service separately, then determine the total cost before applying any discounts or additional charges. Clearly label each calculation, verifying all numbers and operations are correct. Write down the final numerical answer with a detailed explanation of how it was obtained, taking into account all components of the calculation.
+>>> Accuracy: 0.28
+>>> Responses path: ../data/response/gsm8k/summary-greedy-2/res_gpt-3.5-turbo_3_0522_192352.json
+In iteration 4: 
+>>> Prompt: Break down the calculation process step by step to ensure accuracy. Clearly define and assign the correct values to each variable before proceeding with calculations. Double-check each intermediate calculation to verify correctness before moving to the next step. Calculate the cost of each item or service separately, then determine the total cost before applying any discounts or additional charges. Label each calculation clearly, verifying all numbers and operations are correct. Write down the final numerical answer with a detailed explanation of how it was obtained, considering all components of the calculation. Make sure to break down the calculation into smaller, more manageable steps to prevent inaccuracies in the final result.
+>>> Accuracy: 0.3
+>>> Responses path: ../data/response/gsm8k/summary-greedy-2/res_gpt-3.5-turbo_4_0522_192621.json
+In iteration 5: 
+>>> Prompt: Break down the calculation process step by step to ensure accuracy. Clearly define and assign the correct values to each variable before proceeding with calculations. Double-check each intermediate calculation to verify correctness before moving to the next step. Calculate the cost of each item or service separately, then determine the total cost before applying any discounts or additional charges. Label each calculation clearly, verifying all numbers and operations are correct. Break down the discount calculation and change calculation into separate steps, ensuring accurate results at each stage. Write down the final numerical answer with a detailed explanation of how it was obtained, considering all components of the calculation. Make sure to break down the calculation into smaller, more manageable steps to prevent inaccuracies in the final result.
+>>> Accuracy: 0.28
+>>> Responses path: ../data/response/gsm8k/summary-greedy-2/res_gpt-3.5-turbo_5_0522_192841.json
+In iteration 6: 
+>>> Prompt: Break down each calculation process step by step to ensure accuracy. Clearly define and assign the correct values to variables before proceeding with calculations. Verify each intermediate calculation for correctness before moving to the next step. Calculate the cost of individual items or services separately, then determine the total cost before applying any discounts or additional charges. Label each calculation clearly, ensuring all numbers and operations are correct. Break down the discount calculation and change calculation into separate steps for accurate results. Provide a detailed explanation of the final numerical answer, considering all components of the calculation. Break down the calculation into smaller, manageable steps to prevent inaccuracies in the final result.
+>>> Accuracy: 0.26
+>>> Responses path: ../data/response/gsm8k/summary-greedy-2/res_gpt-3.5-turbo_6_0522_193103.json
+In iteration 7: 
+>>> Prompt: Break down each multi-step calculation into separate, clearly defined components to ensure accuracy. Calculate each component individually before combining them for the final result. Clearly label and define variables before any calculations are made. Verify each intermediate calculation for correctness before proceeding to the next step. Break down the process of doubling the initial volume of water or gaining new trees into distinct stages for accurate results. Provide a detailed explanation of each calculation step to prevent confusion and errors in the final outcome.
+>>> Accuracy: 0.3
+>>> Responses path: ../data/response/gsm8k/summary-greedy-2/res_gpt-3.5-turbo_7_0522_193336.json
+In iteration 8: 
+>>> Prompt: Break down each multi-step calculation into separate, clearly defined components to ensure accuracy. Calculate each component individually before combining them for the final result. Clearly label and define variables before any calculations are made. Verify each intermediate calculation for correctness before proceeding to the next step. Break down the process of doubling the initial volume of water or gaining new trees into distinct stages for accurate results. Provide a detailed explanation of each calculation step to prevent confusion and errors in the final outcome. Make sure to calculate the total cost by multiplying the quantity by the price per unit. Check each step carefully for accuracy and consider the relationship between units, quantities, prices, and final outcomes.
+>>> Accuracy: 0.3
+>>> Responses path: ../data/response/gsm8k/summary-greedy-2/res_gpt-3.5-turbo_8_0522_193556.json
+In iteration 9: 
+>>> Prompt: Break down the process of gaining new trees each year into separate steps, clearly calculating the number of new trees planted and the number of trees chopped down before determining the net gain. Clearly define and calculate the percentage of trees that die after a specific number of years as a separate step, ensuring that the deduction from the total number of trees is accurately calculated. Provide a step-by-step breakdown of the tree planting, tree chopping, tree gain, and tree loss calculations to accurately determine the final number of remaining trees after the specified time period. Verify each intermediate calculation for correctness before proceeding to the next step. Make sure to calculate the total number of trees left by subtracting the trees that die from the total number of trees to obtain the accurate final result.
+>>> Accuracy: 0.58
+>>> Responses path: ../data/response/gsm8k/summary-greedy-2/res_gpt-3.5-turbo_9_0522_193806.json
+In iteration 10: 
+>>> Prompt: Break down the process of calculating the total cost of items before applying a discount into separate steps, clearly listing the price of each item and calculating the sum. After determining the total cost, calculate the discount amount separately by applying the specified percentage to the total cost. Ensure accurate calculation of the discount amount to avoid errors in the final result. Provide step-by-step breakdowns for both the total cost and discount calculations to obtain the correct final amount to be paid.
+>>> Accuracy: 0.0
+>>> Responses path: 
+==================================================
+Best prompt instance: {'inst': 'Break down the process of gaining new trees each year into separate steps, clearly calculating the number of new trees planted and the number of trees chopped down before determining the net gain. Clearly define and calculate the percentage of trees that die after a specific number of years as a separate step, ensuring that the deduction from the total number of trees is accurately calculated. Provide a step-by-step breakdown of the tree planting, tree chopping, tree gain, and tree loss calculations to accurately determine the final number of remaining trees after the specified time period. Verify each intermediate calculation for correctness before proceeding to the next step. Make sure to calculate the total number of trees left by subtracting the trees that die from the total number of trees to obtain the accurate final result.', 'accuracy': 0.58, 'responses_path': '../data/response/gsm8k/summary-greedy-2/res_gpt-3.5-turbo_9_0522_193806.json'}

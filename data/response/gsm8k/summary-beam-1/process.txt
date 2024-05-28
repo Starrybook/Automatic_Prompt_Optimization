@@ -1,0 +1,394 @@
+
+
+>>> Current iteration: 0
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_0-0_0521_212625.json
+>>> Current prompt instance, iteration 0, id 0
+>>> Current accuracy rate: 0.24
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_0-1_0521_212851.json
+>>> Current prompt instance, iteration 0, id 1
+>>> Current accuracy rate: 0.12
+
+>>> Top b indexes in this iteration: [0, 1]
+Now begin to generate new prompt instances...
+
+
+>>> Current iteration: 1
+>>> Current prompt instance, iteration 1, id 0
+>>> Current accuracy rate: 0.24
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_1-1_0521_213207.json
+>>> Current prompt instance, iteration 1, id 1
+>>> Current accuracy rate: 0.2
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_1-2_0521_213436.json
+>>> Current prompt instance, iteration 1, id 2
+>>> Current accuracy rate: 0.28
+>>> Current prompt instance, iteration 1, id 3
+>>> Current accuracy rate: 0.12
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_1-4_0521_213706.json
+>>> Current prompt instance, iteration 1, id 4
+>>> Current accuracy rate: 0.24
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_1-5_0521_213955.json
+>>> Current prompt instance, iteration 1, id 5
+>>> Current accuracy rate: 0.34
+
+>>> Top b indexes in this iteration: [5, 2]
+Now begin to generate new prompt instances...
+
+
+>>> Current iteration: 2
+>>> Current prompt instance, iteration 2, id 0
+>>> Current accuracy rate: 0.34
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_2-1_0521_214306.json
+>>> Current prompt instance, iteration 2, id 1
+>>> Current accuracy rate: 0.24
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_2-2_0521_214552.json
+>>> Current prompt instance, iteration 2, id 2
+>>> Current accuracy rate: 0.26
+>>> Current prompt instance, iteration 2, id 3
+>>> Current accuracy rate: 0.28
+Error in parse_target_model_output: I'm sorry, but the input provided is about Vince stapling reports and does not seem related to the calculation of depreciation for an item. Could you please provide the relevant information or formula related to depreciation so that I can assist you further?
+Error in parse_target_model_output: I'm sorry, but the input provided is about Vince stapling reports and does not seem related to the calculation of depreciation for an item. Could you please provide the relevant information or formula related to depreciation so that I can assist you further?
+Error in parse_target_model_output: I'm sorry, but the input provided is a different type of problem (counting people at the beach) and not related to calculating depreciation. Please provide a new input related to depreciation calculations.
+Error in parse_target_model_output: I'm sorry, but the input provided is a different type of problem (counting people at the beach) and not related to calculating depreciation. Please provide a new input related to depreciation calculations.
+Error in parse_target_model_output: I'm sorry, but the input provided is a different type of problem unrelated to the calculation of depreciation. If you have any other questions or need assistance with depreciation calculations, please feel free to ask.
+Error in parse_target_model_output: I'm sorry, but the input provided is a different type of problem unrelated to the calculation of depreciation. If you have any other questions or need assistance with depreciation calculations, please feel free to ask.
+Error in parse_target_model_output: I'm sorry, but it seems like there was a mix-up in the question provided. The previous question was related to depreciation calculations, not ages of individuals. 
+Could you please provide a question related to depreciation calculations so that I can provide the correct answer? Thank you.
+Error in parse_target_model_output: I'm sorry, but it seems like there was a mix-up in the question provided. The previous question was related to depreciation calculations, not ages of individuals. 
+Could you please provide a question related to depreciation calculations so that I can provide the correct answer? Thank you.
+Error in parse_target_model_output: Mary will remain with 1018 potted plants.
+
+<E>As Mary has 40 window ledges with 2 potted plants on each ledge, she originally had 40*2 = 80 potted plants.
+After receiving 18 new potted plants and giving away 40 potted plants, she will remain with 80 + 18 - 40 = 1018 potted plants.</E>
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_2-4_0521_214809.json
+Error in evaluating: 360 vs NULL
+Error in evaluating: 500 vs NULL
+Error in evaluating: 17 vs NULL
+Error in evaluating: 12 vs NULL
+Error in evaluating: 58 vs NULL
+>>> Current prompt instance, iteration 2, id 4
+>>> Current accuracy rate: 0.52
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_2-5_0521_215032.json
+>>> Current prompt instance, iteration 2, id 5
+>>> Current accuracy rate: 0.16
+
+>>> Top b indexes in this iteration: [4, 0]
+Now begin to generate new prompt instances...
+Error in get_error_examples_gsm8k: 360 vs NULL
+Error in get_error_examples_gsm8k: 500 vs NULL
+Error in get_error_examples_gsm8k: 17 vs NULL
+Error in get_error_examples_gsm8k: 12 vs NULL
+Error in get_error_examples_gsm8k: 58 vs NULL
+
+
+>>> Current iteration: 3
+>>> Current prompt instance, iteration 3, id 0
+>>> Current accuracy rate: 0.52
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_3-1_0521_215300.json
+>>> Current prompt instance, iteration 3, id 1
+>>> Current accuracy rate: 0.34
+Error in parse_target_model_output: I'm sorry, but the input you provided is asking for a different type of calculation than the one described in the prompt. Please provide the information needed to calculate the depreciation of an item over multiple years. Thank you.
+Error in parse_target_model_output: I'm sorry, but the input you provided is asking for a different type of calculation than the one described in the prompt. Please provide the information needed to calculate the depreciation of an item over multiple years. Thank you.
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_3-2_0521_215530.json
+Error in evaluating: 5 vs NULL
+>>> Current prompt instance, iteration 3, id 2
+>>> Current accuracy rate: 0.5
+>>> Current prompt instance, iteration 3, id 3
+>>> Current accuracy rate: 0.34
+Error in parse_target_model_output: I'm sorry, but the input provided is not related to the initial task of calculating total earnings per hour. If you have a different question or task, please let me know.
+Error in parse_target_model_output: I'm sorry, but the input provided is not related to the initial task of calculating total earnings per hour. If you have a different question or task, please let me know.
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_3-4_0521_215741.json
+Error in evaluating: 68 vs NULL
+>>> Current prompt instance, iteration 3, id 4
+>>> Current accuracy rate: 0.36
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_3-5_0521_220042.json
+>>> Current prompt instance, iteration 3, id 5
+>>> Current accuracy rate: 0.42
+
+>>> Top b indexes in this iteration: [0, 2]
+Now begin to generate new prompt instances...
+Error in get_error_examples_gsm8k: 360 vs NULL
+Error in get_error_examples_gsm8k: 500 vs NULL
+Error in get_error_examples_gsm8k: 17 vs NULL
+Error in get_error_examples_gsm8k: 12 vs NULL
+Error in get_error_examples_gsm8k: 58 vs NULL
+Error in get_error_examples_gsm8k: 5 vs NULL
+
+
+>>> Current iteration: 4
+>>> Current prompt instance, iteration 4, id 0
+>>> Current accuracy rate: 0.52
+Error in parse_target_model_output: I'm sorry, but your input and the request for the depreciation calculation do not seem to be related. Can you please provide the necessary information for the depreciation calculation? Thank you.
+Error in parse_target_model_output: I'm sorry, but your input and the request for the depreciation calculation do not seem to be related. Can you please provide the necessary information for the depreciation calculation? Thank you.
+Error in parse_target_model_output: I'm sorry, but the input provided is not related to depreciation calculations. If you have a question related to depreciation calculations, please provide the necessary information so that I can assist you.
+Error in parse_target_model_output: I'm sorry, but the input provided is not related to depreciation calculations. If you have a question related to depreciation calculations, please provide the necessary information so that I can assist you.
+Error in parse_target_model_output: I'm sorry but the input provided is a question about calculating travel time for a ship journey, which is not related to the depreciation calculations requested in the initial prompt. Let's focus on providing the correct answer to the original question about depreciation calculations.
+Error in parse_target_model_output: I'm sorry but the input provided is a question about calculating travel time for a ship journey, which is not related to the depreciation calculations requested in the initial prompt. Let's focus on providing the correct answer to the original question about depreciation calculations.
+Error in parse_target_model_output: To calculate the number of bags of oats Uncle Ben needs for five days, we have to first determine the total oats consumption for one day by all four horses.
+
+First, we calculate the oats consumption by one horse per day:
+5 pounds per meal x 2 meals per day = 10 pounds per horse per day
+
+Then, we calculate the total oats consumption for all four horses per day:
+10 pounds per horse per day x 4 horses = 40 pounds per day for all four horses
+
+Since Uncle Ben needs oats for five days, we multiply the daily consumption by five:
+40 pounds per day x 5 days = 200 pounds
+
+Now, we divide the total oats needed by the oats in one bag to find out how many bags Uncle Ben needs:
+200 pounds / 50 pounds per bag = 4 bags
+
+Therefore, Uncle Ben needs 4 bags of oats to feed his horses for five days. 
+
+<A>4 bags</A>
+Error in parse_target_model_output: I'm sorry, the input you provided is related to an increase in the volume of water passing through a river and not about depreciation calculations. Could you please provide an input related to depreciation calculations so that I can assist you accordingly?
+Error in parse_target_model_output: I'm sorry, the input you provided is related to an increase in the volume of water passing through a river and not about depreciation calculations. Could you please provide an input related to depreciation calculations so that I can assist you accordingly?
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_4-1_0521_220352.json
+Error in evaluating: 360 vs NULL
+Error in evaluating: 120 vs NULL
+Error in evaluating: 5 vs NULL
+Error in evaluating: 14000 vs NULL
+>>> Current prompt instance, iteration 4, id 1
+>>> Current accuracy rate: 0.5
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_4-2_0521_220642.json
+>>> Current prompt instance, iteration 4, id 2
+>>> Current accuracy rate: 0.5
+>>> Current prompt instance, iteration 4, id 3
+>>> Current accuracy rate: 0.5
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_4-4_0521_220933.json
+>>> Current prompt instance, iteration 4, id 4
+>>> Current accuracy rate: 0.44
+Error in parse_target_model_output: I'm sorry, but this is a question related to calculating the total number of people Conor saw at the beach, not a question related to depreciation calculations. Let me know if you would like me to answer a question related to depreciation instead.
+Error in parse_target_model_output: I'm sorry, but this is a question related to calculating the total number of people Conor saw at the beach, not a question related to depreciation calculations. Let me know if you would like me to answer a question related to depreciation instead.
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_4-5_0521_221205.json
+Error in evaluating: 500 vs NULL
+>>> Current prompt instance, iteration 4, id 5
+>>> Current accuracy rate: 0.36
+
+>>> Top b indexes in this iteration: [0, 1]
+Now begin to generate new prompt instances...
+Error in get_error_examples_gsm8k: 360 vs NULL
+Error in get_error_examples_gsm8k: 500 vs NULL
+Error in get_error_examples_gsm8k: 17 vs NULL
+Error in get_error_examples_gsm8k: 12 vs NULL
+Error in get_error_examples_gsm8k: 58 vs NULL
+Error in get_error_examples_gsm8k: 360 vs NULL
+Error in get_error_examples_gsm8k: 120 vs NULL
+Error in get_error_examples_gsm8k: 5 vs NULL
+Error in get_error_examples_gsm8k: 14000 vs NULL
+
+
+>>> Current iteration: 5
+>>> Current prompt instance, iteration 5, id 0
+>>> Current accuracy rate: 0.52
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_5-1_0521_221501.json
+>>> Current prompt instance, iteration 5, id 1
+>>> Current accuracy rate: 0.18
+Error in parse_target_model_output: I'm sorry, but the input provided is different from the topic of depreciation calculations. Can you please provide a depreciation-related question or scenario for me to help you with?
+Error in parse_target_model_output: I'm sorry, but the input provided is different from the topic of depreciation calculations. Can you please provide a depreciation-related question or scenario for me to help you with?
+Error in parse_target_model_output: This input is unrelated to the topic of depreciation calculations. Please provide a new input related to depreciation for me to assist you with.
+Error in parse_target_model_output: This input is unrelated to the topic of depreciation calculations. Please provide a new input related to depreciation for me to assist you with.
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_5-2_0521_221747.json
+Error in evaluating: 5 vs NULL
+Error in evaluating: 12 vs NULL
+>>> Current prompt instance, iteration 5, id 2
+>>> Current accuracy rate: 0.56
+>>> Current prompt instance, iteration 5, id 3
+>>> Current accuracy rate: 0.5
+Error in parse_target_model_output: I'm sorry, but it seems like there was a mix-up in the question. The input provided does not match the topic of depreciation calculations. Could you please provide a depreciation-related question so that I can continue to assist you with the breakdown of depreciation calculations?
+Error in parse_target_model_output: I'm sorry, but it seems like there was a mix-up in the question. The input provided does not match the topic of depreciation calculations. Could you please provide a depreciation-related question so that I can continue to assist you with the breakdown of depreciation calculations?
+Error in parse_target_model_output: I'm sorry, but it seems that you have provided a different input than the one I was expecting. Can you please provide the information related to depreciation calculations for each year instead? Thank you!
+Error in parse_target_model_output: I'm sorry, but it seems that you have provided a different input than the one I was expecting. Can you please provide the information related to depreciation calculations for each year instead? Thank you!
+Error in parse_target_model_output: I'm sorry, but the input provided is a math question unrelated to the request for depreciation calculations breakdown. Please provide a new input related to the requested topic so I can assist you properly.
+Error in parse_target_model_output: I'm sorry, but the input provided is a math question unrelated to the request for depreciation calculations breakdown. Please provide a new input related to the requested topic so I can assist you properly.
+Error in parse_target_model_output: I'm sorry, but I cannot provide a response to this input as it does not align with the topic of discussing depreciation calculations for an item over several years. If you have a question related to depreciation calculations, I'd be happy to help.
+Error in parse_target_model_output: I'm sorry, but I cannot provide a response to this input as it does not align with the topic of discussing depreciation calculations for an item over several years. If you have a question related to depreciation calculations, I'd be happy to help.
+Error in parse_target_model_output: I'm sorry, but the input provided is unrelated to the previous question about depreciation calculations. 
+
+To determine the total number of flowers in the vase, we first find the number of dahlias. Since there are 7 more dahlias than roses, and there are 4 roses, there must be 4+7=11 dahlias. Therefore, the total number of flowers in the vase is 4 roses + 11 dahlias = 15 flowers.
+
+<E> In this case, we simply added the number of roses (4) to the number of dahlias (11) to find the total number of flowers in the vase. It's important to carefully read the question and understand the relationship between the different types of flowers to arrive at the correct answer. </E>
+Error in parse_target_model_output: I'm sorry, but the input provided is asking for a calculation related to swimming across a lake, not about depreciation calculations. Could you please provide a new input related to depreciation calculations so I can assist you with the breakdown and explanation of those calculations?
+Error in parse_target_model_output: I'm sorry, but the input provided is asking for a calculation related to swimming across a lake, not about depreciation calculations. Could you please provide a new input related to depreciation calculations so I can assist you with the breakdown and explanation of those calculations?
+Error in parse_target_model_output: I'm sorry, but the input provided is unrelated to the prompt about depreciation calculations. Would you like me to provide the breakdown and explanation of depreciation calculations instead?
+Error in parse_target_model_output: I'm sorry, but the input provided is unrelated to the prompt about depreciation calculations. Would you like me to provide the breakdown and explanation of depreciation calculations instead?
+Error in parse_target_model_output: I'm sorry, but I am unable to provide the answer to the input given as it is unrelated to the topic of depreciation calculations. Please provide a relevant input related to depreciation calculations so that I can assist you accurately. Thank you.
+Error in parse_target_model_output: I'm sorry, but I am unable to provide the answer to the input given as it is unrelated to the topic of depreciation calculations. Please provide a relevant input related to depreciation calculations so that I can assist you accurately. Thank you.
+Error in parse_target_model_output: I'm sorry, but I am unable to provide an answer to your input as it does not relate to the topic of depreciation calculations. If you have a question related to depreciation calculations, feel free to ask and I will be happy to help!
+Error in parse_target_model_output: I'm sorry, but I am unable to provide an answer to your input as it does not relate to the topic of depreciation calculations. If you have a question related to depreciation calculations, feel free to ask and I will be happy to help!
+Error in parse_target_model_output: I'm sorry, but the input provided is not related to the topic of depreciation calculations for an item over a period of time. Could you please provide a relevant input so I can assist you with the requested information?
+Error in parse_target_model_output: I'm sorry, but the input provided is not related to the topic of depreciation calculations for an item over a period of time. Could you please provide a relevant input so I can assist you with the requested information?
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_5-4_0521_222005.json
+Error in evaluating: 36 vs NULL
+Error in evaluating: 655 vs NULL
+Error in evaluating: 120 vs NULL
+Error in evaluating: 5 vs NULL
+Error in evaluating: 15 vs NULL
+Error in evaluating: 17 vs NULL
+Error in evaluating: 12 vs NULL
+Error in evaluating: 80 vs NULL
+Error in evaluating: 5 vs NULL
+Error in evaluating: 3 vs NULL
+>>> Current prompt instance, iteration 5, id 4
+>>> Current accuracy rate: 0.28
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_5-5_0521_222241.json
+>>> Current prompt instance, iteration 5, id 5
+>>> Current accuracy rate: 0.32
+
+>>> Top b indexes in this iteration: [2, 0]
+Now begin to generate new prompt instances...
+Error in get_error_examples_gsm8k: 5 vs NULL
+Error in get_error_examples_gsm8k: 12 vs NULL
+Error in get_error_examples_gsm8k: 360 vs NULL
+Error in get_error_examples_gsm8k: 500 vs NULL
+Error in get_error_examples_gsm8k: 17 vs NULL
+Error in get_error_examples_gsm8k: 12 vs NULL
+Error in get_error_examples_gsm8k: 58 vs NULL
+==================================================
+
+
+
+>>> Current iteration: 6
+>>> Current prompt instance, iteration 6, id 0
+>>> Current accuracy rate: 0.56
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_6-1_0521_223008.json
+>>> Current prompt instance, iteration 6, id 1
+>>> Current accuracy rate: 0.34
+Error in parse_target_model_output: I'm sorry, but it seems like the input provided is related to a different topic (finding the number of teachers based on the number of boys and girls in a school) than the one requested (calculating depreciation on the price of an item over time). Please provide a new input related to depreciation calculations so I can assist you accordingly.
+Error in parse_target_model_output: I'm sorry, but it seems like the input provided is related to a different topic (finding the number of teachers based on the number of boys and girls in a school) than the one requested (calculating depreciation on the price of an item over time). Please provide a new input related to depreciation calculations so I can assist you accordingly.
+Error in parse_target_model_output: I'm sorry, but it seems like there might have been an error in the input. The question you provided is related to ages and not depreciation calculations. Could you please provide a question related to depreciation or any other mathematical operation for me to assist you with the breakdown of calculations?
+Error in parse_target_model_output: I'm sorry, but it seems like there might have been an error in the input. The question you provided is related to ages and not depreciation calculations. Could you please provide a question related to depreciation or any other mathematical operation for me to assist you with the breakdown of calculations?
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_6-2_0521_223250.json
+Error in evaluating: 36 vs NULL
+Error in evaluating: 12 vs NULL
+>>> Current prompt instance, iteration 6, id 2
+>>> Current accuracy rate: 0.44
+>>> Current prompt instance, iteration 6, id 3
+>>> Current accuracy rate: 0.52
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_6-4_0521_223522.json
+>>> Current prompt instance, iteration 6, id 4
+>>> Current accuracy rate: 0.34
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_6-5_0521_223816.json
+>>> Current prompt instance, iteration 6, id 5
+>>> Current accuracy rate: 0.52
+
+>>> Top b indexes in this iteration: [0, 3]
+Now begin to generate new prompt instances...
+Error in get_error_examples_gsm8k: 5 vs NULL
+Error in get_error_examples_gsm8k: 12 vs NULL
+Error in get_error_examples_gsm8k: 360 vs NULL
+Error in get_error_examples_gsm8k: 500 vs NULL
+Error in get_error_examples_gsm8k: 17 vs NULL
+Error in get_error_examples_gsm8k: 12 vs NULL
+Error in get_error_examples_gsm8k: 58 vs NULL
+
+
+>>> Current iteration: 7
+>>> Current prompt instance, iteration 7, id 0
+>>> Current accuracy rate: 0.56
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_7-1_0521_224145.json
+>>> Current prompt instance, iteration 7, id 1
+>>> Current accuracy rate: 0.42
+Error in parse_target_model_output: To calculate the total number of people Conor saw at the beach that week, we first need to determine the number of people on each day.
+
+On the first day, there were 50 people.
+
+On the second day, there were 50 + 20 = 70 people.
+
+On the third day, there were 70 * 2 = 140 people.
+
+Therefore, the total number of people Conor saw in the first three days is 50 + 70 + 140 = 260 people.
+
+For the remaining days of the week, we know that the average number of people Conor saw each day was 60. Since there are four remaining days in the week, the total number of people for those days is 60 * 4 = 240 people.
+
+Adding the total number of people for the first three days to the total number for the remaining days, we get 260 + 240 = 500.
+
+Therefore, Conor saw a total of 500 people at the beach that week.
+
+<A>500</A>
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_7-2_0521_224438.json
+>>> Current prompt instance, iteration 7, id 2
+>>> Current accuracy rate: 0.78
+>>> Current prompt instance, iteration 7, id 3
+>>> Current accuracy rate: 0.52
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_7-4_0521_224701.json
+>>> Current prompt instance, iteration 7, id 4
+>>> Current accuracy rate: 0.28
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_7-5_0521_224926.json
+>>> Current prompt instance, iteration 7, id 5
+>>> Current accuracy rate: 0.5
+
+>>> Top b indexes in this iteration: [2, 0]
+Now begin to generate new prompt instances...
+Error in get_error_examples_gsm8k: 5 vs NULL
+Error in get_error_examples_gsm8k: 12 vs NULL
+==================================================
+
+
+
+>>> Current iteration: 8
+>>> Current prompt instance, iteration 8, id 0
+>>> Current accuracy rate: 0.78
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_8-1_0521_232534.json
+>>> Current prompt instance, iteration 8, id 1
+>>> Current accuracy rate: 0.56
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_8-2_0521_232821.json
+>>> Current prompt instance, iteration 8, id 2
+>>> Current accuracy rate: 0.44
+>>> Current prompt instance, iteration 8, id 3
+>>> Current accuracy rate: 0.56
+Error in parse_target_model_output: I'm sorry, but the given input is about a ship's travel time, and it does not pertain to depreciation calculations. If you have any other questions or calculations related to depreciation or pricing, feel free to provide them.
+Error in parse_target_model_output: I'm sorry, but the given input is about a ship's travel time, and it does not pertain to depreciation calculations. If you have any other questions or calculations related to depreciation or pricing, feel free to provide them.
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_8-4_0521_233108.json
+Error in evaluating: 5 vs NULL
+>>> Current prompt instance, iteration 8, id 4
+>>> Current accuracy rate: 0.3
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_8-5_0521_233407.json
+>>> Current prompt instance, iteration 8, id 5
+>>> Current accuracy rate: 0.28
+
+>>> Top b indexes in this iteration: [0, 1]
+Now begin to generate new prompt instances...
+
+
+>>> Current iteration: 9
+>>> Current prompt instance, iteration 9, id 0
+>>> Current accuracy rate: 0.78
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_9-1_0521_233731.json
+>>> Current prompt instance, iteration 9, id 1
+>>> Current accuracy rate: 0.38
+Error in parse_target_model_output: <E>First, we calculate the cost of the tickets. Since there are two parents, the total cost of their tickets would be 2 * $12 = $24. The cost of the child's ticket is $8. So, the total cost of all the tickets would be $24 (parents) + $8 (child) = $32.
+
+Next, we calculate the cost of the popcorn. They bought 2 popcorns for $3 each, so the total cost of the popcorn would be 2 * $3 = $6.
+
+Finally, we add the cost of tickets and popcorn to find the total amount they pay. Therefore, $32 (tickets) + $6 (popcorn) = $38.
+
+<E></A>38</A>
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_9-2_0521_234025.json
+Error in evaluating: 38 vs NULL
+>>> Current prompt instance, iteration 9, id 2
+>>> Current accuracy rate: 0.38
+>>> Current prompt instance, iteration 9, id 3
+>>> Current accuracy rate: 0.56
+Error in parse_target_model_output: I'm sorry, but the input provided is unrelated to the initial question about calculating total funding for a research project. If you have a different question or need assistance with the research project funding calculation, please feel free to ask.
+Error in parse_target_model_output: I'm sorry, but the input provided is unrelated to the initial question about calculating total funding for a research project. If you have a different question or need assistance with the research project funding calculation, please feel free to ask.
+Error in parse_target_model_output: <E>Let the distance between Tom's starting point and destination be D miles. 
+When traveling at 10 mph, Tom takes D/10 hours to reach his destination.
+When traveling back at 6 mph, Tom takes D/6 hours to return.
+Since the time taken to reach and return is the same, we have:
+D/10 = D/6
+Solving for D, we get:
+D = 60
+Therefore, it takes Tom 60/6 = 10 hours to get back.</E>
+A>10</A>
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_9-4_0521_234301.json
+Error in evaluating: 655 vs NULL
+Error in evaluating: 5 vs NULL
+>>> Current prompt instance, iteration 9, id 4
+>>> Current accuracy rate: 0.46
+Responses saved to ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_9-5_0521_234559.json
+>>> Current prompt instance, iteration 9, id 5
+>>> Current accuracy rate: 0.34
+
+>>> Top b indexes in this iteration: [0, 3]
+Now begin to generate new prompt instances...
+==================================================

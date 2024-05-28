@@ -1,0 +1,377 @@
+
+
+>>> Current iteration: 0
+Responses saved to ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_0-0_0522_080217.json
+>>> Current prompt instance, iteration 0, id 0
+>>> Current accuracy rate: 0.28
+Responses saved to ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_0-1_0522_080417.json
+>>> Current prompt instance, iteration 0, id 1
+>>> Current accuracy rate: 0.34
+
+>>> Top b indexes in this iteration: [1, 0]
+Now begin to generate new prompt instances...
+
+
+>>> Current iteration: 1
+>>> Current prompt instance, iteration 1, id 0
+>>> Current accuracy rate: 0.34
+Responses saved to ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_1-1_0522_080620.json
+>>> Current prompt instance, iteration 1, id 1
+>>> Current accuracy rate: 0.34
+Responses saved to ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_1-2_0522_080811.json
+>>> Current prompt instance, iteration 1, id 2
+>>> Current accuracy rate: 0.46
+>>> Current prompt instance, iteration 1, id 3
+>>> Current accuracy rate: 0.28
+Responses saved to ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_1-4_0522_081026.json
+>>> Current prompt instance, iteration 1, id 4
+>>> Current accuracy rate: 0.3
+Responses saved to ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_1-5_0522_081229.json
+>>> Current prompt instance, iteration 1, id 5
+>>> Current accuracy rate: 0.32
+
+>>> Top b indexes in this iteration: [2, 0]
+Now begin to generate new prompt instances...
+
+
+>>> Current iteration: 2
+>>> Current prompt instance, iteration 2, id 0
+>>> Current accuracy rate: 0.46
+Error in parse_target_model_output: I'm sorry, but the input you provided is a math question unrelated to the previously mentioned calculations. Can you rephrase the question or provide a different input related to the item costs calculation?
+Error in parse_target_model_output: I'm sorry, but the input you provided is a math question unrelated to the previously mentioned calculations. Can you rephrase the question or provide a different input related to the item costs calculation?
+Error in parse_target_model_output: <E>Since Jeff walks to and from work each day, he covers a total of 6 miles round trip. Therefore, in a week when he works 5 days, Jeff would walk a total of 30 miles.</E>
+Error in parse_target_model_output: There seems to be an error in the input provided. Would you like to try again or is there something else I can assist you with?
+Error in parse_target_model_output: There seems to be an error in the input provided. Would you like to try again or is there something else I can assist you with?
+Responses saved to ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_2-1_0522_081554.json
+Error in evaluating: 12 vs NULL
+Error in evaluating: 30 vs NULL
+Error in evaluating: 5 vs NULL
+>>> Current prompt instance, iteration 2, id 1
+>>> Current accuracy rate: 0.28
+Error in parse_target_model_output: I'm sorry, but the input you provided is a word problem related to calculating the total number of people Conor saw at the beach during a week. It does not appear to be a question related to calculating individual item costs and applying a discount. 
+
+If you have a different math-related question or if you would like assistance with a different type of calculation, please feel free to provide the new input. I'll be happy to help!
+Error in parse_target_model_output: I'm sorry, but the input you provided is a word problem related to calculating the total number of people Conor saw at the beach during a week. It does not appear to be a question related to calculating individual item costs and applying a discount. 
+
+If you have a different math-related question or if you would like assistance with a different type of calculation, please feel free to provide the new input. I'll be happy to help!
+Error in parse_target_model_output: I'm sorry, but the input you provided is a math problem and not a item cost calculation. Can you please provide an item cost calculation for me to break down instead?
+Error in parse_target_model_output: I'm sorry, but the input you provided is a math problem and not a item cost calculation. Can you please provide an item cost calculation for me to break down instead?
+Error in parse_target_model_output: I'm sorry, but I cannot provide an answer to this question as it requires a different type of calculation unrelated to individual item costs. If you have a question related to calculations involving individual item costs, please feel free to ask.
+Error in parse_target_model_output: I'm sorry, but I cannot provide an answer to this question as it requires a different type of calculation unrelated to individual item costs. If you have a question related to calculations involving individual item costs, please feel free to ask.
+Responses saved to ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_2-2_0522_081854.json
+Error in evaluating: 500 vs NULL
+Error in evaluating: 45 vs NULL
+Error in evaluating: 2 vs NULL
+>>> Current prompt instance, iteration 2, id 2
+>>> Current accuracy rate: 0.34
+>>> Current prompt instance, iteration 2, id 3
+>>> Current accuracy rate: 0.34
+Responses saved to ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_2-4_0522_082037.json
+>>> Current prompt instance, iteration 2, id 4
+>>> Current accuracy rate: 0.32
+Responses saved to ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_2-5_0522_082524.json
+>>> Current prompt instance, iteration 2, id 5
+>>> Current accuracy rate: 0.32
+
+>>> Top b indexes in this iteration: [0, 2]
+Now begin to generate new prompt instances...
+Error in get_error_examples_gsm8k: 500 vs NULL
+Error in get_error_examples_gsm8k: 45 vs NULL
+Error in get_error_examples_gsm8k: 2 vs NULL
+
+
+>>> Current iteration: 3
+>>> Current prompt instance, iteration 3, id 0
+>>> Current accuracy rate: 0.46
+Error in parse_target_model_output: I'm sorry, but it seems like there was a misunderstanding. It appears that the input provided is regarding the timing of making a cake, while the question asked for a breakdown in calculating individual item costs. Could you please provide the correct input or question related to calculating item costs?
+Error in parse_target_model_output: I'm sorry, but it seems like there was a misunderstanding. It appears that the input provided is regarding the timing of making a cake, while the question asked for a breakdown in calculating individual item costs. Could you please provide the correct input or question related to calculating item costs?
+Error in parse_target_model_output: I'm sorry, but I am here to help you with math problems. Please provide a math-related input so I can assist you effectively.
+Error in parse_target_model_output: I'm sorry, but I am here to help you with math problems. Please provide a math-related input so I can assist you effectively.
+Error in parse_target_model_output: I'm sorry, but the input you provided is a question related to hiking and does not involve any calculations or costs. Can you please provide me with a different input that involves calculating item costs so I can break down the calculations for you step by step?
+Error in parse_target_model_output: I'm sorry, but the input you provided is a question related to hiking and does not involve any calculations or costs. Can you please provide me with a different input that involves calculating item costs so I can break down the calculations for you step by step?
+Responses saved to ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_3-1_0522_082733.json
+Error in evaluating: 2 vs NULL
+Error in evaluating: 15 vs NULL
+Error in evaluating: 60 vs NULL
+>>> Current prompt instance, iteration 3, id 1
+>>> Current accuracy rate: 0.54
+
+=================== a temporary stop here ====================
+
+
+
+>>> Current iteration: 3
+>>> Current prompt instance, iteration 3, id 0
+>>> Current accuracy rate: 0.46
+>>> Current prompt instance, iteration 3, id 1
+>>> Current accuracy rate: 0.54
+Error in parse_target_model_output: I'm sorry, but I cannot provide an answer to the input provided as it does not relate to calculating individual item costs or discounts. If you have a different question or calculation you would like assistance with, please feel free to ask.
+Error in parse_target_model_output: I'm sorry, but I cannot provide an answer to the input provided as it does not relate to calculating individual item costs or discounts. If you have a different question or calculation you would like assistance with, please feel free to ask.
+Responses saved to ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_3-2_0522_083648.json
+Error in evaluating: 15 vs NULL
+>>> Current prompt instance, iteration 3, id 2
+>>> Current accuracy rate: 0.4
+>>> Current prompt instance, iteration 3, id 3
+>>> Current accuracy rate: 0.34
+Error in parse_target_model_output: I'm sorry for any confusion, but it seems like you've provided a different type of question that involves calculating the time it takes for Tom to return from his trip. Unfortunately, this question is not related to the calculation of individual item costs. Let me know if you have another question or need assistance with a different type of calculation.
+Error in parse_target_model_output: I'm sorry for any confusion, but it seems like you've provided a different type of question that involves calculating the time it takes for Tom to return from his trip. Unfortunately, this question is not related to the calculation of individual item costs. Let me know if you have another question or need assistance with a different type of calculation.
+Responses saved to ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_3-4_0522_083913.json
+Error in evaluating: 5 vs NULL
+>>> Current prompt instance, iteration 3, id 4
+>>> Current accuracy rate: 0.64
+Error in parse_target_model_output: E<Aliya is 3 years old, which means Shawna is currently 3 x 3 = 9 years old.
+Shawna's father is five times as old as Shawna, so he is 5 x 9 = 45 years old.></E>
+<A>45</A> 
+Error in parse_target_model_output: This input is unrelated to the initial question about calculating total cost before applying any discount. Can you please provide the items with their respective costs so that we can accurately break down the calculation step by step?
+Error in parse_target_model_output: This input is unrelated to the initial question about calculating total cost before applying any discount. Can you please provide the items with their respective costs so that we can accurately break down the calculation step by step?
+Error in parse_target_model_output: I'm sorry, but the input provided is a different question and not related to calculating the total cost before applying a discount. Please provide the necessary information related to calculating the total cost before a discount so that I can assist you.
+Error in parse_target_model_output: I'm sorry, but the input provided is a different question and not related to calculating the total cost before applying a discount. Please provide the necessary information related to calculating the total cost before a discount so that I can assist you.
+Error in parse_target_model_output: I'm sorry, but the question you provided is different from the initial request regarding the calculation of total cost before applying any discount. Could you please provide the required information so that I can assist you accurately with the calculation process?
+Error in parse_target_model_output: I'm sorry, but the question you provided is different from the initial request regarding the calculation of total cost before applying any discount. Could you please provide the required information so that I can assist you accurately with the calculation process?
+Error in parse_target_model_output: I'm sorry, but the input provided is related to a different question about travel time and speed. If you could please provide the information related to the total cost calculation and discount, I would be happy to assist you with that specific question.
+Error in parse_target_model_output: I'm sorry, but the input provided is related to a different question about travel time and speed. If you could please provide the information related to the total cost calculation and discount, I would be happy to assist you with that specific question.
+Responses saved to ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_3-5_0522_084119.json
+Error in evaluating: 15 vs NULL
+Error in evaluating: 3 vs NULL
+Error in evaluating: 12 vs NULL
+Error in evaluating: 5 vs NULL
+>>> Current prompt instance, iteration 3, id 5
+>>> Current accuracy rate: 0.38
+
+>>> Top b indexes in this iteration: [4, 1]
+Now begin to generate new prompt instances...
+Error in get_error_examples_gsm8k: 5 vs NULL
+Error in get_error_examples_gsm8k: 2 vs NULL
+Error in get_error_examples_gsm8k: 15 vs NULL
+Error in get_error_examples_gsm8k: 60 vs NULL
+
+
+>>> Current iteration: 4
+>>> Current prompt instance, iteration 4, id 0
+>>> Current accuracy rate: 0.64
+Responses saved to ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_4-1_0522_084355.json
+>>> Current prompt instance, iteration 4, id 1
+>>> Current accuracy rate: 0.7
+Responses saved to ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_4-2_0522_084609.json
+>>> Current prompt instance, iteration 4, id 2
+>>> Current accuracy rate: 0.62
+>>> Current prompt instance, iteration 4, id 3
+>>> Current accuracy rate: 0.54
+Error in parse_target_model_output: I'm sorry, but I cannot provide an answer to the input you provided as it is a question about determining the age of an individual based on a complex scenario. If you have any other questions or need assistance with calculations, feel free to ask!
+Error in parse_target_model_output: I'm sorry, but I cannot provide an answer to the input you provided as it is a question about determining the age of an individual based on a complex scenario. If you have any other questions or need assistance with calculations, feel free to ask!
+Error in parse_target_model_output: I'm sorry, but it seems like you provided a different input than the one requested for a calculation. Please provide the correct input related to the calculation of individual item costs so that I can assist you with breaking down the steps and providing the final answer.
+Error in parse_target_model_output: I'm sorry, but it seems like you provided a different input than the one requested for a calculation. Please provide the correct input related to the calculation of individual item costs so that I can assist you with breaking down the steps and providing the final answer.
+Responses saved to ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_4-4_0522_084835.json
+Error in evaluating: 15 vs NULL
+Error in evaluating: 5 vs NULL
+>>> Current prompt instance, iteration 4, id 4
+>>> Current accuracy rate: 0.66
+Error in parse_target_model_output: I'm sorry, but the input provided is about determining the age of Bill when he saw Comet Halley for the first time. I can help you with calculations instead. Could you kindly provide me with the details required for calculating individual item costs, total cost before discount, and discount amount in order to proceed with the request?
+Error in parse_target_model_output: I'm sorry, but the input provided is about determining the age of Bill when he saw Comet Halley for the first time. I can help you with calculations instead. Could you kindly provide me with the details required for calculating individual item costs, total cost before discount, and discount amount in order to proceed with the request?
+Error in parse_target_model_output: I'm sorry, but the given input is about calculating distances and not related to item costs or discounts. If you have a question about item costs or discounts, please provide that, and I'll be happy to help.
+Error in parse_target_model_output: I'm sorry, but the given input is about calculating distances and not related to item costs or discounts. If you have a question about item costs or discounts, please provide that, and I'll be happy to help.
+Error in parse_target_model_output: I'm sorry, but the input you provided is related to a mathematical problem about points scored by individuals, not about individual item costs and discounts. If you have any other questions or calculations you'd like help with, please feel free to ask!
+Error in parse_target_model_output: I'm sorry, but the input you provided is related to a mathematical problem about points scored by individuals, not about individual item costs and discounts. If you have any other questions or calculations you'd like help with, please feel free to ask!
+Responses saved to ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_4-5_0522_085049.json
+Error in evaluating: 15 vs NULL
+Error in evaluating: 655 vs NULL
+Error in evaluating: 5 vs NULL
+>>> Current prompt instance, iteration 4, id 5
+>>> Current accuracy rate: 0.3
+
+>>> Top b indexes in this iteration: [1, 4]
+Now begin to generate new prompt instances...
+Error in get_error_examples_gsm8k: 15 vs NULL
+Error in get_error_examples_gsm8k: 5 vs NULL
+==================================================
+
+
+
+
+>>> Current iteration: 5
+>>> Current prompt instance, iteration 5, id 0
+>>> Current accuracy rate: 0.7
+Error in parse_target_model_output: I'm sorry, but the input provided does not match the initial task of breaking down item costs and calculating the total before applying a discount. If you could please provide an itemized list of costs or a different calculation related to item costs, I would be happy to assist you with that. Thank you!
+Error in parse_target_model_output: I'm sorry, but the input provided does not match the initial task of breaking down item costs and calculating the total before applying a discount. If you could please provide an itemized list of costs or a different calculation related to item costs, I would be happy to assist you with that. Thank you!
+Responses saved to ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_5-1_0522_093811.json
+Error in evaluating: 60 vs NULL
+>>> Current prompt instance, iteration 5, id 1
+>>> Current accuracy rate: 0.58
+Error in parse_target_model_output: I'm sorry, but the input you provided is asking for a different type of calculation than the one you described earlier. Could you please provide an input related to calculating item costs and discounts so that I can assist you accordingly?
+Error in parse_target_model_output: I'm sorry, but the input you provided is asking for a different type of calculation than the one you described earlier. Could you please provide an input related to calculating item costs and discounts so that I can assist you accordingly?
+Error in parse_target_model_output: I'm sorry, the input provided is not related to calculating item costs or discounts. Could you please provide a relevant input so I can assist you with the calculation you are looking for?
+Error in parse_target_model_output: I'm sorry, the input provided is not related to calculating item costs or discounts. Could you please provide a relevant input so I can assist you with the calculation you are looking for?
+Responses saved to ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_5-2_0522_094044.json
+Error in evaluating: 5 vs NULL
+Error in evaluating: 60 vs NULL
+>>> Current prompt instance, iteration 5, id 2
+>>> Current accuracy rate: 0.7
+>>> Current prompt instance, iteration 5, id 3
+>>> Current accuracy rate: 0.66
+Error in parse_target_model_output: I'm unable to provide an answer to the question about calculating individual costs. Would you like help with anything else?
+Error in parse_target_model_output: I'm unable to provide an answer to the question about calculating individual costs. Would you like help with anything else?
+Error in parse_target_model_output: I'm sorry, I cannot provide an answer to this input as it involves calculating the time taken for a ship to travel. Please provide a question related to calculating costs or prices.
+Error in parse_target_model_output: I'm sorry, I cannot provide an answer to this input as it involves calculating the time taken for a ship to travel. Please provide a question related to calculating costs or prices.
+Responses saved to ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_5-4_0522_094310.json
+Error in evaluating: 12 vs NULL
+Error in evaluating: 5 vs NULL
+>>> Current prompt instance, iteration 5, id 4
+>>> Current accuracy rate: 0.58
+Error in parse_target_model_output: I'm sorry, but the input you provided is related to determining ages and not individual item costs calculation breakdown. Can you please provide a new input related to calculating item costs so that I can provide the requested breakdown? Thank you.
+Error in parse_target_model_output: I'm sorry, but the input you provided is related to determining ages and not individual item costs calculation breakdown. Can you please provide a new input related to calculating item costs so that I can provide the requested breakdown? Thank you.
+Error in parse_target_model_output: I'm sorry, but the input provided is a math problem unrelated to calculating individual item costs. Please provide a different input related to cost calculations.
+Error in parse_target_model_output: I'm sorry, but the input provided is a math problem unrelated to calculating individual item costs. Please provide a different input related to cost calculations.
+Error in parse_target_model_output: I'm sorry, but the input you provided does not require a calculation of individual item costs or discounts. If you have a different question or calculation in mind that you would like help with, please feel free to provide it.
+Error in parse_target_model_output: I'm sorry, but the input you provided does not require a calculation of individual item costs or discounts. If you have a different question or calculation in mind that you would like help with, please feel free to provide it.
+Responses saved to ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_5-5_0522_094526.json
+Error in evaluating: 45 vs NULL
+Error in evaluating: 15 vs NULL
+Error in evaluating: 60 vs NULL
+>>> Current prompt instance, iteration 5, id 5
+>>> Current accuracy rate: 0.5
+
+>>> Top b indexes in this iteration: [0, 2]
+Now begin to generate new prompt instances...
+Error in get_error_examples_gsm8k: 5 vs NULL
+Error in get_error_examples_gsm8k: 60 vs NULL
+
+
+>>> Current iteration: 6
+>>> Current prompt instance, iteration 6, id 0
+>>> Current accuracy rate: 0.7
+Error in parse_target_model_output: I'm sorry, but the input provided is asking for a different type of calculation that is unrelated to individual item costs or discounts. Could you please provide an input related to calculating item costs and discounts? Thank you.
+Error in parse_target_model_output: I'm sorry, but the input provided is asking for a different type of calculation that is unrelated to individual item costs or discounts. Could you please provide an input related to calculating item costs and discounts? Thank you.
+Responses saved to ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_6-1_0522_094827.json
+Error in evaluating: 60 vs NULL
+>>> Current prompt instance, iteration 6, id 1
+>>> Current accuracy rate: 0.66
+Responses saved to ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_6-2_0522_095118.json
+>>> Current prompt instance, iteration 6, id 2
+>>> Current accuracy rate: 0.42
+>>> Current prompt instance, iteration 6, id 3
+>>> Current accuracy rate: 0.7
+Responses saved to ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_6-4_0522_095429.json
+>>> Current prompt instance, iteration 6, id 4
+>>> Current accuracy rate: 0.58
+Responses saved to ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_6-5_0522_095701.json
+>>> Current prompt instance, iteration 6, id 5
+>>> Current accuracy rate: 0.7
+
+>>> Top b indexes in this iteration: [0, 3]
+Now begin to generate new prompt instances...
+Error in get_error_examples_gsm8k: 5 vs NULL
+Error in get_error_examples_gsm8k: 60 vs NULL
+
+
+>>> Current iteration: 7
+>>> Current prompt instance, iteration 7, id 0
+>>> Current accuracy rate: 0.7
+Error in parse_target_model_output: Unfortunately, your input does not align with the previous question. 
+Please provide another math-related question in order for me to assist you with breaking down the calculation and providing a step-by-step explanation.
+Error in parse_target_model_output: Unfortunately, your input does not align with the previous question. 
+Please provide another math-related question in order for me to assist you with breaking down the calculation and providing a step-by-step explanation.
+Responses saved to ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_7-1_0522_095948.json
+Error in evaluating: 60 vs NULL
+>>> Current prompt instance, iteration 7, id 1
+>>> Current accuracy rate: 0.64
+Error in parse_target_model_output: I'm sorry, but the input you provided is a different type of problem that involves calculating time and distance rather than individual item costs or commission rates. Would you like help with a different type of calculation?
+Error in parse_target_model_output: I'm sorry, but the input you provided is a different type of problem that involves calculating time and distance rather than individual item costs or commission rates. Would you like help with a different type of calculation?
+Responses saved to ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_7-2_0522_100248.json
+Error in evaluating: 5 vs NULL
+>>> Current prompt instance, iteration 7, id 2
+>>> Current accuracy rate: 0.54
+>>> Current prompt instance, iteration 7, id 3
+>>> Current accuracy rate: 0.7
+Responses saved to ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_7-4_0522_100518.json
+>>> Current prompt instance, iteration 7, id 4
+>>> Current accuracy rate: 0.66
+Error in parse_target_model_output: <E>Unfortunately, this is not a question related to calculating the total cost of purchasing multiple items at different prices. If you have any other questions or calculations related to that topic, please feel free to ask!</E>
+Responses saved to ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_7-5_0522_100812.json
+Error in evaluating: 15 vs NULL
+>>> Current prompt instance, iteration 7, id 5
+>>> Current accuracy rate: 0.56
+
+>>> Top b indexes in this iteration: [0, 3]
+Now begin to generate new prompt instances...
+Error in get_error_examples_gsm8k: 5 vs NULL
+Error in get_error_examples_gsm8k: 60 vs NULL
+==================================================
+
+
+
+>>> Current iteration: 8
+>>> Current prompt instance, iteration 8, id 0
+>>> Current accuracy rate: 0.7
+Error in parse_target_model_output: To calculate how many more miles per day Soledad must hike to complete her journey on time, we need to first find out how many miles she will cover in total by walking twice a day, covering 125 miles each time.
+
+Step 1: Calculate the total miles covered in a day:
+125 miles x 2 = 250 miles/day
+
+Step 2: Calculate the total miles covered in a month:
+250 miles/day x 30 days = 7500 miles/month
+
+Step 3: Find out how many more miles Soledad must hike per day to complete her journey on time:
+9300 miles - 7500 miles = 1800 miles
+
+Step 4: Calculate the additional miles per day:
+1800 miles / 30 days = 60 miles/day
+
+Therefore, Soledad must hike an additional 60 miles per day to complete her journey on time.
+
+<A>60</A>
+Responses saved to ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_8-1_0522_103656.json
+>>> Current prompt instance, iteration 8, id 1
+>>> Current accuracy rate: 0.58
+Responses saved to ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_8-2_0522_103920.json
+>>> Current prompt instance, iteration 8, id 2
+>>> Current accuracy rate: 0.64
+>>> Current prompt instance, iteration 8, id 3
+>>> Current accuracy rate: 0.7
+Responses saved to ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_8-4_0522_104137.json
+>>> Current prompt instance, iteration 8, id 4
+>>> Current accuracy rate: 0.66
+Responses saved to ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_8-5_0522_104355.json
+>>> Current prompt instance, iteration 8, id 5
+>>> Current accuracy rate: 0.46
+
+>>> Top b indexes in this iteration: [0, 3]
+Now begin to generate new prompt instances...
+Error in get_error_examples_gsm8k: 5 vs NULL
+Error in get_error_examples_gsm8k: 60 vs NULL
+
+
+>>> Current iteration: 9
+>>> Current prompt instance, iteration 9, id 0
+>>> Current accuracy rate: 0.7
+Responses saved to ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_9-1_0522_104640.json
+>>> Current prompt instance, iteration 9, id 1
+>>> Current accuracy rate: 0.44
+Responses saved to ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_9-2_0522_104917.json
+>>> Current prompt instance, iteration 9, id 2
+>>> Current accuracy rate: 0.68
+>>> Current prompt instance, iteration 9, id 3
+>>> Current accuracy rate: 0.7
+Error in parse_target_model_output: Sorry, but I am unable to provide an answer to this input as it does not pertain to the task provided. If you have any other questions or need assistance with a different calculation, please feel free to ask.
+Error in parse_target_model_output: Sorry, but I am unable to provide an answer to this input as it does not pertain to the task provided. If you have any other questions or need assistance with a different calculation, please feel free to ask.
+Error in parse_target_model_output: I'm sorry, but the input provided seems to be a different type of question related to hiking distances and not about calculating individual item costs and discounts. If you have a specific question related to calculations or mathematics, please let me know so I can assist you accordingly.
+Error in parse_target_model_output: I'm sorry, but the input provided seems to be a different type of question related to hiking distances and not about calculating individual item costs and discounts. If you have a specific question related to calculations or mathematics, please let me know so I can assist you accordingly.
+Responses saved to ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_9-4_0522_105139.json
+Error in evaluating: 3 vs NULL
+Error in evaluating: 60 vs NULL
+>>> Current prompt instance, iteration 9, id 4
+>>> Current accuracy rate: 0.62
+Error in parse_target_model_output: I'm sorry, but the input provided is related to a different type of problem (physics and time calculation). I am a text-based AI designed to help with calculations, so I am not able to provide an answer to this input. If you have any calculations or math-related questions, feel free to ask!
+Error in parse_target_model_output: I'm sorry, but the input provided is related to a different type of problem (physics and time calculation). I am a text-based AI designed to help with calculations, so I am not able to provide an answer to this input. If you have any calculations or math-related questions, feel free to ask!
+Error in parse_target_model_output: I'm sorry, but the input provided is about hiking miles for an individual and does not pertain to a calculation of individual item costs or discounts. If you have a different question related to pricing, discounts, or cost calculations, please feel free to ask!
+Error in parse_target_model_output: I'm sorry, but the input provided is about hiking miles for an individual and does not pertain to a calculation of individual item costs or discounts. If you have a different question related to pricing, discounts, or cost calculations, please feel free to ask!
+Responses saved to ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_9-5_0522_105400.json
+Error in evaluating: 5 vs NULL
+Error in evaluating: 60 vs NULL
+>>> Current prompt instance, iteration 9, id 5
+>>> Current accuracy rate: 0.56
+
+>>> Top b indexes in this iteration: [0, 3]
+Now begin to generate new prompt instances...
+Error in get_error_examples_gsm8k: 5 vs NULL
+Error in get_error_examples_gsm8k: 60 vs NULL
+==================================================

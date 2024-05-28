@@ -1,0 +1,276 @@
+Prompt instances:
+In iteration 0: 
+>>> 0
+>>> Prompt: 1. Read the provided mathematical problem carefully. 2. Identify and perform the necessary calculations to solve the problem. 3. Write down the final numerical answer. 4. Provide an explanation of how you arrived at your answer.
+>>> Accuracy: 0.2
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_0-0_0521_184503.json
+>>> 1
+>>> Prompt: 1. Understand the mathematical question presented in the input data. 2. Execute the computations required to find the solution. 3. Document the resulting numerical value as the answer. 4. Clarify the steps taken to reach the final answer.
+>>> Accuracy: 0.18
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_0-1_0521_184727.json
+==================================================
+In iteration 1: 
+>>> 0
+>>> Prompt: 1. Read the provided mathematical problem carefully. 2. Identify and perform the necessary calculations to solve the problem. 3. Write down the final numerical answer. 4. Provide an explanation of how you arrived at your answer.
+>>> Accuracy: 0.2
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_0-0_0521_184503.json
+>>> 1
+>>> Prompt: Carefully calculate the total number of items needed based on the given quantities and conditions. Subsequently, subtract the total quantity prepared from the total quantity required to determine the number of items that were not utilized. Finally, provide the correct number of items that were not used according to the calculations.
+>>> Accuracy: 0.32
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_1-1_0521_184948.json
+>>> 2
+>>> Prompt: Calculate the total cost of items in a shopping scenario. Break down the calculations into smaller steps, providing intermediate answers to ensure accuracy. Explain the reasoning behind each arithmetic operation clearly to avoid confusion or mistakes in the overall solution.
+>>> Accuracy: 0.28
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_1-2_0521_185205.json
+>>> 3
+>>> Prompt: 1. Understand the mathematical question presented in the input data. 2. Execute the computations required to find the solution. 3. Document the resulting numerical value as the answer. 4. Clarify the steps taken to reach the final answer.
+>>> Accuracy: 0.18
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_0-1_0521_184727.json
+>>> 4
+>>> Prompt: 1. Break down the mathematical question into smaller parts to identify the given data and extract relevant numerical values. 2. Clearly explain the reasoning behind each mathematical operation performed, including intermediate calculations. 3. Execute the computations required to find the solution. 4. Document the resulting numerical value as the answer.
+>>> Accuracy: 0.28
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_1-4_0521_185430.json
+>>> 5
+>>> Prompt: Given a mathematical problem with multiple steps, follow these guidelines to find the correct solution: 
+1. Break down the problem into smaller, more manageable parts to simplify the computations. 
+2. Clearly document each step of the calculation process to ensure accuracy. 
+3. Provide a detailed explanation for each intermediate result to enhance understanding. 
+4. Double-check the final answer to confirm its correctness before proceeding.
+>>> Accuracy: 0.2
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_1-5_0521_185651.json
+==================================================
+In iteration 2: 
+>>> 0
+>>> Prompt: Carefully calculate the total number of items needed based on the given quantities and conditions. Subsequently, subtract the total quantity prepared from the total quantity required to determine the number of items that were not utilized. Finally, provide the correct number of items that were not used according to the calculations.
+>>> Accuracy: 0.32
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_1-1_0521_184948.json
+>>> 1
+>>> Prompt: Calculate the total cost by summing up the costs of adult tickets, child tickets, and popcorns separately. Next, provide the correct total cost by adding these individual costs together.
+>>> Accuracy: 0.32
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_2-1_0521_185905.json
+>>> 2
+>>> Prompt: Calculate the total number of items needed based on the given quantities and conditions. Then, subtract the total quantity prepared from the total quantity required to determine the number of items that were not utilized. Provide the correct number of items that were not used according to the calculations.
+>>> Accuracy: 0.24
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_2-2_0521_190123.json
+>>> 3
+>>> Prompt: Calculate the total cost of items in a shopping scenario. Break down the calculations into smaller steps, providing intermediate answers to ensure accuracy. Explain the reasoning behind each arithmetic operation clearly to avoid confusion or mistakes in the overall solution.
+>>> Accuracy: 0.28
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_1-2_0521_185205.json
+>>> 4
+>>> Prompt: Break down the total cost calculation of items in a shopping scenario step by step. Provide clear explanations for each arithmetic operation to ensure accuracy. Verify intermediate answers before proceeding to the next calculation to confirm the correctness of the solution.
+>>> Accuracy: 0.28
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_2-4_0521_190350.json
+>>> 5
+>>> Prompt: Calculate the total cost of items in a given scenario by breaking down the calculations into smaller steps. Provide the individual costs for each component separately before summing them up, ensuring clarity and accuracy in the final solution. Explain the reasoning behind each arithmetic operation clearly to avoid confusion or mistakes in the overall solution.
+>>> Accuracy: 0.24
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_2-5_0521_190619.json
+==================================================
+In iteration 3: 
+>>> 0
+>>> Prompt: Carefully calculate the total number of items needed based on the given quantities and conditions. Subsequently, subtract the total quantity prepared from the total quantity required to determine the number of items that were not utilized. Finally, provide the correct number of items that were not used according to the calculations.
+>>> Accuracy: 0.32
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_1-1_0521_184948.json
+>>> 1
+>>> Prompt: Calculate the total number of items needed based on the given quantities and conditions. Then, subtract the total quantity prepared from the total quantity required to determine the number of items not utilized. Finally, provide the correct number of items that were not used according to the calculations by following each step carefully and double-checking the final result.
+>>> Accuracy: 0.24
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_3-1_0521_190843.json
+>>> 2
+>>> Prompt: Calculate the total number of items needed by multiplying the quantity of each item by its respective condition. Subtract the total quantity prepared from the total quantity required to determine the number of items that were not utilized. Finally, provide the correct number of items that were not used according to the calculations.
+>>> Accuracy: 0.24
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_3-2_0521_191059.json
+>>> 3
+>>> Prompt: Calculate the total cost by summing up the costs of adult tickets, child tickets, and popcorns separately. Next, provide the correct total cost by adding these individual costs together.
+>>> Accuracy: 0.32
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_2-1_0521_185905.json
+>>> 4
+>>> Prompt: Calculate the total cost by summing up the costs of adult tickets, child tickets, and popcorns separately. Then, provide the correct total cost by adding these individual costs together. Make sure to double-check each calculation and break down the solution into smaller, more manageable steps to avoid errors.
+>>> Accuracy: 0.42
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_3-4_0521_191316.json
+>>> 5
+>>> Prompt: Calculate the total cost by summing up the costs of adult tickets, child tickets, and popcorns separately. Ensure you calculate each cost individually and combine them accurately to provide the correct total cost.
+>>> Accuracy: 0.58
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_3-5_0521_191538.json
+==================================================
+In iteration 4: 
+>>> 0
+>>> Prompt: Calculate the total cost by summing up the costs of adult tickets, child tickets, and popcorns separately. Ensure you calculate each cost individually and combine them accurately to provide the correct total cost.
+>>> Accuracy: 0.58
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_3-5_0521_191538.json
+>>> 1
+>>> Prompt: Calculate the total cost by breaking down the costs of adult tickets, child tickets, and popcorns separately. Ensure you calculate each cost individually with the correct multiplication or addition, then combine them accurately to determine the total cost.
+>>> Accuracy: 0.36
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_4-1_0521_193047.json
+>>> 2
+>>> Prompt: Calculate the total cost by adding up the individual costs of each item separately. Ensure you break down the costs of adult tickets, child tickets, and popcorns into separate calculations to accurately determine the total cost.
+>>> Accuracy: 0.46
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_4-2_0521_194725.json
+>>> 3
+>>> Prompt: Calculate the total cost by summing up the costs of adult tickets, child tickets, and popcorns separately. Then, provide the correct total cost by adding these individual costs together. Make sure to double-check each calculation and break down the solution into smaller, more manageable steps to avoid errors.
+>>> Accuracy: 0.42
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_3-4_0521_191316.json
+>>> 4
+>>> Prompt: Calculate the total cost by summing up the costs of adult tickets, child tickets, and popcorns separately. Then, provide the correct total cost by adding these individual costs together. Break down the solution into smaller, more manageable steps to avoid errors. Make sure to double-check each calculation and provide clear and detailed explanations for each step.
+>>> Accuracy: 0.32
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_4-4_0521_195001.json
+>>> 5
+>>> Prompt: Calculate the total cost by adding up the costs of adult tickets, child tickets, and popcorns separately. Then, provide the correct total cost by summing these individual costs together accurately. Break down the solution into smaller, more manageable steps to avoid errors in the calculations.
+>>> Accuracy: 0.36
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_4-5_0521_195230.json
+==================================================
+In iteration 5: 
+>>> 0
+>>> Prompt: Calculate the total cost by summing up the costs of adult tickets, child tickets, and popcorns separately. Ensure you calculate each cost individually and combine them accurately to provide the correct total cost.
+>>> Accuracy: 0.58
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_3-5_0521_191538.json
+>>> 1
+>>> Prompt: Calculate the total cost by summing up the costs of adult tickets, child tickets, and popcorns separately. Break down the calculation of individual costs explicitly, showing each step of how they are obtained. Ensure clear explanation of how quantities are related and how they are combined to get the final result accurately.
+>>> Accuracy: 0.28
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_5-1_0521_195503.json
+>>> 2
+>>> Prompt: Calculate the total cost by breaking down the costs of adult tickets, child tickets, and popcorns separately. Show the step-by-step process for each item's cost calculation, emphasizing individual components, and then combine them accurately to determine the correct total cost.
+>>> Accuracy: 0.36
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_5-2_0521_195722.json
+>>> 3
+>>> Prompt: Calculate the total cost by adding up the individual costs of each item separately. Ensure you break down the costs of adult tickets, child tickets, and popcorns into separate calculations to accurately determine the total cost.
+>>> Accuracy: 0.46
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_4-2_0521_194725.json
+>>> 4
+>>> Prompt: Break down the calculation steps for determining the total cost by adding up the individual costs of each item separately. Ensure you clearly state and calculate the costs of each item, such as adult tickets, child tickets, and popcorns, before summing them up to accurately determine the total cost.
+>>> Accuracy: 0.3
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_5-4_0521_195945.json
+>>> 5
+>>> Prompt: Calculate the total cost by adding up the individual costs of each item separately. Break down the costs of adult tickets, child tickets, and popcorns into separate calculations to accurately determine the total cost. Make sure to calculate each type of item's cost before summing them up to get the final total.
+>>> Accuracy: 0.42
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_5-5_0521_200200.json
+==================================================
+In iteration 6: 
+>>> 0
+>>> Prompt: Calculate the total cost by summing up the costs of adult tickets, child tickets, and popcorns separately. Ensure you calculate each cost individually and combine them accurately to provide the correct total cost.
+>>> Accuracy: 0.58
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_3-5_0521_191538.json
+>>> 1
+>>> Prompt: Calculate the total cost by breaking down the costs of adult tickets, child tickets, and popcorns separately. After calculating each cost individually, combine them accurately to provide the correct total cost. Clearly show each step of the calculation to ensure accuracy.
+>>> Accuracy: 0.38
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_6-1_0521_200442.json
+>>> 2
+>>> Prompt: Calculate the total cost by breaking down the costs of adult tickets, child tickets, and popcorns individually before combining them accurately to determine the correct total cost. Ensure to calculate each cost step-by-step and verify the final calculation for accuracy.
+>>> Accuracy: 0.58
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_6-2_0521_200716.json
+>>> 3
+>>> Prompt: Calculate the total cost by adding up the individual costs of each item separately. Ensure you break down the costs of adult tickets, child tickets, and popcorns into separate calculations to accurately determine the total cost.
+>>> Accuracy: 0.46
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_4-2_0521_194725.json
+>>> 4
+>>> Prompt: Break down the calculations for individual items clearly by showing the cost of each item separately before adding them up to get the total cost. Provide a step-by-step breakdown of the total calculation process, including how to apply any discounts or conversions, to ensure each part is accurately accounted for before arriving at the final result.
+>>> Accuracy: 0.64
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_6-4_0521_200958.json
+>>> 5
+>>> Prompt: Break down the calculations of individual items before totaling the cost. Calculate the total cost by adding up the separate costs of adult tickets, child tickets, and popcorns. Make sure to calculate each type of item separately to accurately determine the final cost.
+>>> Accuracy: 0.42
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_6-5_0521_201213.json
+==================================================
+In iteration 7: 
+>>> 0
+>>> Prompt: Break down the calculations for individual items clearly by showing the cost of each item separately before adding them up to get the total cost. Provide a step-by-step breakdown of the total calculation process, including how to apply any discounts or conversions, to ensure each part is accurately accounted for before arriving at the final result.
+>>> Accuracy: 0.64
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_6-4_0521_200958.json
+>>> 1
+>>> Prompt: Break down the calculations step by step to accurately determine the total cost. Show the cost of each item separately before combining them to get the final result. Include any discounts or incremental increases in funding clearly in the calculation process. Ensure to isolate variables and provide a clear formula for any changing costs to avoid errors in calculating the total cost.
+>>> Accuracy: 0.38
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_7-1_0521_201454.json
+>>> 2
+>>> Prompt: Break down the calculations for individual items clearly by showing the cost of each item separately before adding them up to get the total cost. Provide a step-by-step breakdown of the total calculation process, ensuring each part is accurately accounted for before arriving at the final result. Make sure to consider any discounts or conversions that need to be applied in the calculation process.
+>>> Accuracy: 0.54
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_7-2_0521_201724.json
+>>> 3
+>>> Prompt: Calculate the total cost by summing up the costs of adult tickets, child tickets, and popcorns separately. Ensure you calculate each cost individually and combine them accurately to provide the correct total cost.
+>>> Accuracy: 0.58
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_3-5_0521_191538.json
+>>> 4
+>>> Prompt: Calculate the total cost by breaking down the costs of adult tickets, child tickets, and popcorns separately. Ensure that each cost is calculated accurately before combining them to provide the correct total cost.
+>>> Accuracy: 0.44
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_7-4_0521_201941.json
+>>> 5
+>>> Prompt: Calculate the total cost by summing up the costs of adult tickets, child tickets, and popcorns separately. Ensure you calculate each cost individually, avoiding combined calculations, to provide the correct total cost.
+>>> Accuracy: 0.36
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_7-5_0521_202159.json
+==================================================
+In iteration 8: 
+>>> 0
+>>> Prompt: Break down the calculations for individual items clearly by showing the cost of each item separately before adding them up to get the total cost. Provide a step-by-step breakdown of the total calculation process, including how to apply any discounts or conversions, to ensure each part is accurately accounted for before arriving at the final result.
+>>> Accuracy: 0.64
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_6-4_0521_200958.json
+>>> 1
+>>> Prompt: Break down the calculations for individual items clearly by showing the cost of each item separately before adding them up to get the total cost. Provide a step-by-step breakdown of the total calculation process to ensure each part is accurately accounted for before arriving at the final result. Consider any discounts or conversions that may apply in the calculation.
+>>> Accuracy: 0.4
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_8-1_0521_204001.json
+>>> 2
+>>> Prompt: Break down the calculations for each individual item separately before combining them to ensure accuracy. Clearly define and explain the variables used in the equation to avoid confusion in the calculations. Provide a step-by-step breakdown of the total calculation process, including how to apply any discounts or conversions, to guarantee each part is accurately accounted for before arriving at the final result.
+>>> Accuracy: 0.76
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_8-2_0521_204258.json
+>>> 3
+>>> Prompt: Calculate the total cost by summing up the costs of adult tickets, child tickets, and popcorns separately. Ensure you calculate each cost individually and combine them accurately to provide the correct total cost.
+>>> Accuracy: 0.58
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_3-5_0521_191538.json
+>>> 4
+>>> Prompt: Calculate the total cost by summing up the costs of individual items separately before combining them. Ensure to provide a detailed breakdown of each cost derivation in the solution and verify each intermediate calculation before proceeding to the next step.
+>>> Accuracy: 0.32
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_8-4_0521_204550.json
+>>> 5
+>>> Prompt: Calculate the total cost by summing up the costs of adult tickets, child tickets, and popcorns separately. Break down each cost calculation individually and combine them accurately to provide the correct total cost.
+>>> Accuracy: 0.46
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_8-5_0521_204808.json
+==================================================
+In iteration 9: 
+>>> 0
+>>> Prompt: Break down the calculations for each individual item separately before combining them to ensure accuracy. Clearly define and explain the variables used in the equation to avoid confusion in the calculations. Provide a step-by-step breakdown of the total calculation process, including how to apply any discounts or conversions, to guarantee each part is accurately accounted for before arriving at the final result.
+>>> Accuracy: 0.76
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_8-2_0521_204258.json
+>>> 1
+>>> Prompt: Break down the calculations for each individual item separately before combining them to ensure accuracy. Clearly define and explain the variables used in the equation to avoid confusion in the calculations. Provide a step-by-step breakdown of the total calculation process, including how to apply any discounts, additions, or conversions, to guarantee each part is accurately accounted for before arriving at the final result. Make sure to double-check the calculations and consider all relevant factors to arrive at the correct final answer.
+>>> Accuracy: 0.54
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_9-1_0521_205136.json
+>>> 2
+>>> Prompt: When approaching a multi-step problem involving multiple variables, it is essential to break down the calculations for each variable separately before combining them. Clearly define and explain the relationships between the variables by outlining how each one is derived from the given information. Provide a step-by-step breakdown of the equations and calculations involved in determining the values of each variable, ensuring a thorough understanding of how they interrelate within the problem context for accurate results.
+>>> Accuracy: 0.32
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_9-2_0521_205425.json
+>>> 3
+>>> Prompt: Break down the calculations for individual items clearly by showing the cost of each item separately before adding them up to get the total cost. Provide a step-by-step breakdown of the total calculation process, including how to apply any discounts or conversions, to ensure each part is accurately accounted for before arriving at the final result.
+>>> Accuracy: 0.64
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_6-4_0521_200958.json
+>>> 4
+>>> Prompt: Break down the calculations for individual items clearly by showing the cost of each item separately before adding them up to get the total cost. Provide a step-by-step breakdown of the total calculation process, including how to apply any discounts or conversions, to ensure each part is accurately accounted for before arriving at the final result. Clearly define and distinguish between the different components of the problem to avoid confusion in combining them incorrectly.
+>>> Accuracy: 0.48
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_9-4_0521_205653.json
+>>> 5
+>>> Prompt: Break down the calculations for individual items clearly by showing the cost of each item separately before adding them up to get the total cost. Provide a step-by-step breakdown of the total calculation process, including how to apply any discounts or conversions, to ensure each part is accurately accounted for before arriving at the final result. Make sure to break down the calculations of each component (e.g., fruits, people) before summing them up to find the total count.
+>>> Accuracy: 0.62
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_9-5_0521_205928.json
+==================================================
+In iteration 10: 
+>>> 0
+>>> Prompt: Break down the calculations for each individual item separately before combining them to ensure accuracy. Clearly define and explain the variables used in the equation to avoid confusion in the calculations. Provide a step-by-step breakdown of the total calculation process, including how to apply any discounts or conversions, to guarantee each part is accurately accounted for before arriving at the final result.
+>>> Accuracy: 0.76
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_8-2_0521_204258.json
+>>> 1
+>>> Prompt: Calculate the total time spent on meditation and yoga practice each week. Break down the calculations for each activity separately by calculating the daily time spent before multiplying by the number of days in a week. Clearly define and explain the variables used in the equation to avoid confusion. Provide a step-by-step breakdown of the total time spent on meditation and yoga practice to ensure accuracy in the final result.
+>>> Accuracy: 0.0
+>>> Responses path: 
+>>> 2
+>>> Prompt: For each calculation involving multiple items or stages, break down the process step by step to ensure accuracy. Clearly define all variables used in the equations to avoid confusion during the calculations. Provide detailed explanations on how to handle any discounts, conversions, or increments during the calculation process. The goal is to accurately account for each part before combining them to calculate the final result.
+>>> Accuracy: 0.0
+>>> Responses path: 
+>>> 3
+>>> Prompt: Break down the calculations for individual items clearly by showing the cost of each item separately before adding them up to get the total cost. Provide a step-by-step breakdown of the total calculation process, including how to apply any discounts or conversions, to ensure each part is accurately accounted for before arriving at the final result.
+>>> Accuracy: 0.64
+>>> Responses path: ../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_6-4_0521_200958.json
+>>> 4
+>>> Prompt: Break down the calculations for individual items clearly by showing the cost of each item separately before adding them up to get the total cost. Clearly define the relationship between the different quantities involved in the problem to avoid miscalculations. Provide a step-by-step breakdown of the total calculation process, including how to apply any discounts or conversions, to ensure each part is accurately accounted for before arriving at the final result.
+>>> Accuracy: 0.0
+>>> Responses path: 
+>>> 5
+>>> Prompt: Break down the calculation process step by step, clearly articulating how each individual component contributes to the final result. Provide detailed explanations for each part of the calculation to ensure accurate accounting before arriving at the total outcome. Separate the cost of each item and show how they are added together to get the total cost, including any necessary discounts or conversions. Make sure to thoroughly explain the reasoning behind each calculation and its impact on the overall solution.
+>>> Accuracy: 0.0
+>>> Responses path: 
+==================================================
+Best prompt instance: {'inst': 'Break down the calculations for each individual item separately before combining them to ensure accuracy. Clearly define and explain the variables used in the equation to avoid confusion in the calculations. Provide a step-by-step breakdown of the total calculation process, including how to apply any discounts or conversions, to guarantee each part is accurately accounted for before arriving at the final result.', 'accuracy': 0.76, 'responses_path': '../data/response/gsm8k/summary-beam-0/res_gpt-3.5-turbo_8-2_0521_204258.json'}

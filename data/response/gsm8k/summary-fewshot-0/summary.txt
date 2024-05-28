@@ -1,0 +1,31 @@
+Responses saved to ../data/response/gsm8k/summary-fewshot-0/res_gpt-3.5-turbo_test_shot-1_0522_190405.json
+Accuracy rate on test set: 0.87
+
+Prompt exmple:
+1. Read the provided mathematical problem carefully. 2. Identify and perform the necessary calculations to solve the problem. 3. Write down the final numerical answer. 4. Provide an explanation of how you arrived at your answer.
+
+Your answer should contain both the final answer and an explanation.
+Wrap your final answer with <A> and </A>.
+The answer between <A> and </A> tags should be only the numerical value without any additional text.
+Wrap your explanation with <E> and </E>.
+
+Here are several examples of the task:
+Input: Miss Maria is a middle school teacher, and she loves to collect sports cards. She has six decks with 25 basketball cards in each deck and five boxes with 40 baseball cards in each box. She keeps 50 cards and gives the remaining cards to her students. If her students got ten cards each, how many students does Miss Maria have?
+Your answer: <E>There are 6 x 25 = <<6*25=150>>150 basketball cards.
+And, there are 5 x 40 = <<5*40=200>>200 baseball cards.
+Thus, Miss Maria has 150 + 200 = <<150+200=350>>350 sports cards.
+She gave a total of 350 - 50 = <<350-50=300>>300 cards to her students.
+Therefore, Miss Maria has 300/10 = <<300/10=30>>30 students.</E><A>30</A>
+
+
+Now please provide your answer to this input:
+Input: <Question here>
+Your answer:
+
+
+
+
+
+############## baseline test 
+Responses saved to ../data/response/gsm8k/summary-fewshot-0/res_gpt-3.5-turbo_test_baseline_0526_191429.json
+Accuracy rate on test set: 0.27

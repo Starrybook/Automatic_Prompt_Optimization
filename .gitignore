@@ -1,0 +1,20 @@
+# 忽略所有名为 __pycache__ 的文件夹
+**/__pycache__/
+
+# 忽略所有名为 .draft 的文件夹
+.draft/
+
+# 忽略所有名为 key.txt 的文件
+**/key.txt
+
+# 忽略所有名中包含 backup 的文件
+**/*backup*
+
+# 忽略所有名为 movie 的文件夹
+**/movie/
+
+# 忽略 data/unused/ 文件夹
+data/unused/
+
+# 忽略名为 gsm8k 的文件夹下所有名称中包含 trial 的文件夹
+data/response/gsm8k/*trial*/

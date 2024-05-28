@@ -1,0 +1,278 @@
+Prompt instances:
+In iteration 0: 
+>>> 0
+>>> Prompt: 1. Read the provided mathematical problem carefully. 2. Identify and perform the necessary calculations to solve the problem. 3. Write down the final numerical answer. 4. Provide an explanation of how you arrived at your answer.
+>>> Accuracy: 0.68
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_0-0_0523_075348.json
+>>> 1
+>>> Prompt: 1. Understand the mathematical question presented in the input data. 2. Execute the computations required to find the solution. 3. Document the resulting numerical value as the answer. 4. Clarify the steps taken to reach the final answer.
+>>> Accuracy: 0.64
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_0-1_0523_075518.json
+==================================================
+In iteration 1: 
+>>> 0
+>>> Prompt: 1. Read the provided mathematical problem carefully. 2. Identify and perform the necessary calculations to solve the problem. 3. Write down the final numerical answer. 4. Provide an explanation of how you arrived at your answer.
+>>> Accuracy: 0.68
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_0-0_0523_075348.json
+>>> 1
+>>> Prompt: 1. Carefully analyze the given mathematical problem to understand the requirements. 
+2. Break down the problem into smaller, detailed steps and perform the necessary calculations accurately.
+3. Verify each calculation and double-check the reasoning to ensure accuracy.
+4. Provide a clear and concise explanation of how you arrived at the final numerical answer.
+>>> Accuracy: 0.66
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_1-1_0523_075703.json
+>>> 2
+>>> Prompt: 1. Break down the calculations step by step to ensure correct understanding and execution. 2. Double-check the reasoning and logic behind each calculation to verify accuracy before proceeding to the next step. 3. Write down the final numerical answer with a clear explanation of how you arrived at it.
+>>> Accuracy: 0.58
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_1-2_0523_075831.json
+>>> 3
+>>> Prompt: 1. Understand the mathematical question presented in the input data. 2. Execute the computations required to find the solution. 3. Document the resulting numerical value as the answer. 4. Clarify the steps taken to reach the final answer.
+>>> Accuracy: 0.64
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_0-1_0523_075518.json
+>>> 4
+>>> Prompt: 1. Break down the calculations step by step, ensuring that each computation is clearly explained and understood before moving on to the next one. 2. Provide additional context or examples to help clarify the problem and guide the language model in understanding the mathematical concepts involved. 3. Document the resulting numerical value as the answer. 4. Clarify the steps taken to reach the final answer.
+>>> Accuracy: 0.7
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_1-4_0523_080009.json
+>>> 5
+>>> Prompt: Given the information provided in the input data, carefully analyze the problem statement and identify the key elements involved, such as specific units or items mentioned. Break down the problem into smaller subtasks, ensuring accurate interpretation of the question and calculations. Begin by determining the total quantities or costs involved before moving on to compute the final solution. Document each step clearly to help reach the correct answer.
+>>> Accuracy: 0.7
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_1-5_0523_080154.json
+==================================================
+In iteration 2: 
+>>> 0
+>>> Prompt: 1. Break down the calculations step by step, ensuring that each computation is clearly explained and understood before moving on to the next one. 2. Provide additional context or examples to help clarify the problem and guide the language model in understanding the mathematical concepts involved. 3. Document the resulting numerical value as the answer. 4. Clarify the steps taken to reach the final answer.
+>>> Accuracy: 0.7
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_1-4_0523_080009.json
+>>> 1
+>>> Prompt: Break down the calculations step by step, clearly explaining each computation such as addition, multiplication, and subtraction. Also, define the variables and quantities involved in the problem to prevent any confusion or misinterpretation. Provide intermediate steps for each operation to avoid errors in arithmetic and guide the language model in reaching the correct answer.
+>>> Accuracy: 0.7
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_2-1_0523_080412.json
+>>> 2
+>>> Prompt: Break down the calculations for each color individually to determine the amount of each paint used in the mural. Clearly define and differentiate the proportions of each color used in the mural to avoid confusion when calculating the amount of paint used. Provide step-by-step guidance on how to calculate the amount of each color of paint used, ensuring that each computation is clearly explained and understood before moving on to the next one. Document the resulting numerical values for each color and clearly outline the steps taken to reach the final amounts.
+>>> Accuracy: 0.68
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_2-2_0523_080556.json
+>>> 3
+>>> Prompt: Given the information provided in the input data, carefully analyze the problem statement and identify the key elements involved, such as specific units or items mentioned. Break down the problem into smaller subtasks, ensuring accurate interpretation of the question and calculations. Begin by determining the total quantities or costs involved before moving on to compute the final solution. Document each step clearly to help reach the correct answer.
+>>> Accuracy: 0.7
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_1-5_0523_080154.json
+>>> 4
+>>> Prompt: Given the information provided in the input data, carefully analyze the problem statement and identify the key elements involved. Break down the problem into smaller subtasks and define the relationships between variables to ensure accurate interpretation and calculation. Document each step clearly and calculate the total quantities or costs involved before computing the final solution. Provide clear and concise substeps to guide the model towards the correct answer.
+>>> Accuracy: 0.66
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_2-4_0523_080744.json
+>>> 5
+>>> Prompt: Given the information provided in the input data, break down the problem statement into smaller subtasks and carefully analyze the key elements involved, clearly identifying the units and quantities mentioned. Begin by interpreting the question accurately and establishing the relationships between different elements. Document each step of the calculations, ensuring precise arithmetic operations. Pay close attention to the details provided and the context of the problem to arrive at the correct solution.
+>>> Accuracy: 0.74
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_2-5_0523_080928.json
+==================================================
+In iteration 3: 
+>>> 0
+>>> Prompt: Given the information provided in the input data, break down the problem statement into smaller subtasks and carefully analyze the key elements involved, clearly identifying the units and quantities mentioned. Begin by interpreting the question accurately and establishing the relationships between different elements. Document each step of the calculations, ensuring precise arithmetic operations. Pay close attention to the details provided and the context of the problem to arrive at the correct solution.
+>>> Accuracy: 0.74
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_2-5_0523_080928.json
+>>> 1
+>>> Prompt: Given the information provided in the input data, carefully analyze the problem statement by breaking it down into smaller subtasks. Start by interpreting the question accurately and establishing the relationships between the different elements involved. Document each step of the calculations with precise arithmetic operations, paying close attention to the details provided and the context of the problem. Specifically, when multiple items are involved, determine the original price or cost of each item separately and then calculate any savings or differences as needed. Ensure to accurately track the quantities, units, and prices mentioned in the problem to arrive at the correct solution.
+>>> Accuracy: 0.66
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_3-1_0523_081118.json
+>>> 2
+>>> Prompt: Break down the problem statement into smaller subtasks and carefully analyze the key elements involved. Clearly identify the units and quantities mentioned. Begin by interpreting the question accurately and establishing the relationships between different elements. Document each step of the calculations, ensuring precise arithmetic operations. Pay close attention to the details provided and the context of the problem to arrive at the correct solution. Clearly explain the logic behind each mathematical operation and how the different elements in the problem statement relate to each other.
+>>> Accuracy: 0.64
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_3-2_0523_081308.json
+>>> 3
+>>> Prompt: 1. Break down the calculations step by step, ensuring that each computation is clearly explained and understood before moving on to the next one. 2. Provide additional context or examples to help clarify the problem and guide the language model in understanding the mathematical concepts involved. 3. Document the resulting numerical value as the answer. 4. Clarify the steps taken to reach the final answer.
+>>> Accuracy: 0.7
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_1-4_0523_080009.json
+>>> 4
+>>> Prompt: Break down each step of the calculation individually, clearly explaining the relationship between the quantities involved in the problem. Make sure to calculate the cost or value of each item separately before determining the total cost or revenue. Ensure that the model understands the impact of each quantity on the final outcome. Provide additional context or examples to help guide the model in understanding the mathematical concepts involved. Document the resulting numerical value as the answer and clarify the steps taken to reach the final solution.
+>>> Accuracy: 0.64
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_3-4_0523_081451.json
+>>> 5
+>>> Prompt: Break down each calculation step by step, clearly explaining and ensuring understanding before proceeding. Provide additional examples or context to clarify the problem and guide the language model in understanding the mathematical concepts involved. Document the final numerical value as the answer and clarify the steps taken to reach that answer.
+>>> Accuracy: 0.72
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_3-5_0523_081643.json
+==================================================
+In iteration 4: 
+>>> 0
+>>> Prompt: Given the information provided in the input data, break down the problem statement into smaller subtasks and carefully analyze the key elements involved, clearly identifying the units and quantities mentioned. Begin by interpreting the question accurately and establishing the relationships between different elements. Document each step of the calculations, ensuring precise arithmetic operations. Pay close attention to the details provided and the context of the problem to arrive at the correct solution.
+>>> Accuracy: 0.74
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_2-5_0523_080928.json
+>>> 1
+>>> Prompt: Given the information provided in the input data, carefully break down the problem scenario into smaller subtasks, clearly identifying the key elements involved and their relationships. Focus on accurately determining the total temperature contribution from each mug in the water pouring scenario to meet the minimum temperature requirement. Document each step of the calculations, ensuring precise arithmetic operations are performed. Pay close attention to the individual temperature contributions from each mug, the total number of ounces of water poured, and the final temperature required for the solution.
+>>> Accuracy: 0.76
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_4-1_0523_081837.json
+>>> 2
+>>> Prompt: Given the information provided in the input data, carefully break down the problem into smaller subtasks and identify all key elements involved. Begin by accurately interpreting the question and establishing the relationships between different elements. Document each step of the calculations, double-checking all arithmetic operations for accuracy. Pay close attention to detail and context to arrive at the correct solution. Make sure to clearly define units and quantities mentioned throughout the process.
+>>> Accuracy: 0.68
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_4-2_0523_082021.json
+>>> 3
+>>> Prompt: Break down each calculation step by step, clearly explaining and ensuring understanding before proceeding. Provide additional examples or context to clarify the problem and guide the language model in understanding the mathematical concepts involved. Document the final numerical value as the answer and clarify the steps taken to reach that answer.
+>>> Accuracy: 0.72
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_3-5_0523_081643.json
+>>> 4
+>>> Prompt: Break down and calculate the total amount of water in each mug before determining the average temperature required for Donny to drink the combined water. Clearly articulate how the ounces of water taken from each mug influence the overall temperature of the final water, ensuring the accurate computation of the unknown temperature. Provide detailed step-by-step explanations for each calculation and verify understanding before proceeding. Include additional examples or insights to elucidate the problem and assist the language model in grasping the mathematical principles involved. Record the final numerical solution as the answer and expound on the steps taken to achieve that answer.
+>>> Accuracy: 0.7
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_4-4_0523_082156.json
+>>> 5
+>>> Prompt: Break down each calculation step into individual components before combining them, ensuring correct understanding of each part. Clarify any ambiguous statements or assumptions in the problem to avoid misinterpretation of the data provided. Provide clear and concise explanations for each calculation step to guide the language model in reaching the correct answer. Document the final numerical value as the answer and explain the steps taken to reach that answer.
+>>> Accuracy: 0.78
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_4-5_0523_082337.json
+==================================================
+In iteration 5: 
+>>> 0
+>>> Prompt: Break down each calculation step into individual components before combining them, ensuring correct understanding of each part. Clarify any ambiguous statements or assumptions in the problem to avoid misinterpretation of the data provided. Provide clear and concise explanations for each calculation step to guide the language model in reaching the correct answer. Document the final numerical value as the answer and explain the steps taken to reach that answer.
+>>> Accuracy: 0.78
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_4-5_0523_082337.json
+>>> 1
+>>> Prompt: Break down each calculation step into individual components before combining them to ensure correct understanding of each part. Clarify any ambiguous statements or assumptions in the problem to avoid misinterpretation of the data provided. Provide clear and concise explanations for each calculation step to guide the language model in reaching the correct answer. Document the final numerical value as the answer and explain the steps taken to reach that answer accurately.
+>>> Accuracy: 0.68
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_5-1_0523_090736.json
+>>> 2
+>>> Prompt: Break down each calculation step into individual components before combining them, ensuring correct understanding of each part. Clarify any ambiguous statements or assumptions in the problem to avoid misinterpretation of the data provided. Provide clear and concise explanations for each calculation step to guide the language model in reaching the correct answer. Explicitly show the multiplication process and explicitly outline the subtraction process to avoid confusion. Document the final numerical value as the answer and explain the steps taken to reach that answer.
+>>> Accuracy: 0.7
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_5-2_0523_090913.json
+>>> 3
+>>> Prompt: Given the information provided in the input data, carefully break down the problem scenario into smaller subtasks, clearly identifying the key elements involved and their relationships. Focus on accurately determining the total temperature contribution from each mug in the water pouring scenario to meet the minimum temperature requirement. Document each step of the calculations, ensuring precise arithmetic operations are performed. Pay close attention to the individual temperature contributions from each mug, the total number of ounces of water poured, and the final temperature required for the solution.
+>>> Accuracy: 0.76
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_4-1_0523_081837.json
+>>> 4
+>>> Prompt: Given the information provided, carefully break down the problem scenario into smaller subtasks, clearly identifying the key elements involved and their relationships. Focus on accurately determining the total temperature contribution from each source in the scenario to meet the required temperature. Document each step of the calculations, ensuring precise arithmetic operations are performed. Pay close attention to the individual contributions from each source, the total amount involved, and the final value required for the solution.
+>>> Accuracy: 0.68
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_5-4_0523_091046.json
+>>> 5
+>>> Prompt: Given the scenario involving the purchase of butter with a promotional offer, carefully outline the steps to calculate the total cost of purchasing the required amount of butter. Break down the process into individual stages, clearly indicating the quantity of butter purchased at each step considering the promotion terms. Focus on accurately determining the total quantity of butter needed based on the number of croissants to be made and the promotion details. Document each calculation step clearly and concisely to ensure precise arithmetic operations are carried out. Pay close attention to the interpretation of the promotion terms to calculate the final cost of purchasing the specified quantity of butter.
+>>> Accuracy: 0.72
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_5-5_0523_091216.json
+==================================================
+In iteration 6: 
+>>> 0
+>>> Prompt: Break down each calculation step into individual components before combining them, ensuring correct understanding of each part. Clarify any ambiguous statements or assumptions in the problem to avoid misinterpretation of the data provided. Provide clear and concise explanations for each calculation step to guide the language model in reaching the correct answer. Document the final numerical value as the answer and explain the steps taken to reach that answer.
+>>> Accuracy: 0.78
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_4-5_0523_082337.json
+>>> 1
+>>> Prompt: Break down each calculation step into individual components before combining them to ensure correct understanding of each part. Clearly define the variables and their relationships to avoid confusion. Provide detailed explanations for each calculation step to guide the language model in reaching the correct answer. Break down complex equations into simpler components to verify accuracy.
+>>> Accuracy: 0.72
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_6-1_0523_091411.json
+>>> 2
+>>> Prompt: Break down the given problem statement into distinct parts, clearly defining the entities involved in the calculation. Utilize specific labels or variables for each component to avoid ambiguity and ensure accurate understanding of the data provided. Provide step-by-step explanations for each calculation, emphasizing the relationship between different elements in the problem. Document the final numerical value as the answer, accompanied by a detailed description of the steps taken to reach that answer.
+>>> Accuracy: 0.68
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_6-2_0523_091558.json
+>>> 3
+>>> Prompt: Given the information provided in the input data, carefully break down the problem scenario into smaller subtasks, clearly identifying the key elements involved and their relationships. Focus on accurately determining the total temperature contribution from each mug in the water pouring scenario to meet the minimum temperature requirement. Document each step of the calculations, ensuring precise arithmetic operations are performed. Pay close attention to the individual temperature contributions from each mug, the total number of ounces of water poured, and the final temperature required for the solution.
+>>> Accuracy: 0.76
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_4-1_0523_081837.json
+>>> 4
+>>> Prompt: Given the information provided, analyze the problem scenario step by step to determine the total quantity and cost of butter needed, considering both the regular price and any discounts available. Calculate the total amount spent on purchasing the required butter.
+>>> Accuracy: 0.72
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_6-4_0523_091731.json
+>>> 5
+>>> Prompt: Given the information provided in the input data, carefully break down the problem scenario into smaller subtasks, clearly identifying the key elements involved and their relationships. Focus on accurately calculating the final result by following the steps below:
+1. Calculate the depreciation value of the object for each year based on the provided rate.
+2. Determine the total decrease in value over the given period to find the final price.
+Document each step of the calculations, ensuring precise arithmetic operations are performed. Pay close attention to the individual values and their impact on the final outcome.
+>>> Accuracy: 0.74
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_6-5_0523_091909.json
+==================================================
+In iteration 7: 
+>>> 0
+>>> Prompt: Break down each calculation step into individual components before combining them, ensuring correct understanding of each part. Clarify any ambiguous statements or assumptions in the problem to avoid misinterpretation of the data provided. Provide clear and concise explanations for each calculation step to guide the language model in reaching the correct answer. Document the final numerical value as the answer and explain the steps taken to reach that answer.
+>>> Accuracy: 0.78
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_4-5_0523_082337.json
+>>> 1
+>>> Prompt: For each calculation step, break down the problem into individual components before combining them to ensure correct understanding. Clarify any ambiguous statements or assumptions in the problem to avoid misinterpretation of the data provided. Provide clear and concise explanations for each calculation step to guide the model in reaching the correct answer. Explicitly define the total number of months and the incremental changes in funding per month beyond the initial period. Document the final numerical value as the answer and explain the steps taken to reach that answer.
+>>> Accuracy: 0.66
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_7-1_0523_095027.json
+>>> 2
+>>> Prompt: Break down the calculation of each individual component in the problem, such as the division of quantities between different elements or the calculation of costs based on promotions, to ensure a precise interpretation and understanding of the data provided. Clarify any ambiguous statements or assumptions in the problem, such as the specific quantities or units for each component, to guide the language model towards an accurate solution.
+>>> Accuracy: 0.68
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_7-2_0523_095203.json
+>>> 3
+>>> Prompt: Given the information provided in the input data, carefully break down the problem scenario into smaller subtasks, clearly identifying the key elements involved and their relationships. Focus on accurately determining the total temperature contribution from each mug in the water pouring scenario to meet the minimum temperature requirement. Document each step of the calculations, ensuring precise arithmetic operations are performed. Pay close attention to the individual temperature contributions from each mug, the total number of ounces of water poured, and the final temperature required for the solution.
+>>> Accuracy: 0.76
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_4-1_0523_081837.json
+>>> 4
+>>> Prompt: Break down the problem scenario into smaller subtasks, clearly identifying the key elements involved and their relationships. Ensure that the calculation of the total number of guests in an event accounts for the initial guests and the additional guests brought by the initial guests and any friends. Pay attention to the distinct calculations for different periods, such as the cheaper and more expensive research stages, to accurately determine the total cost. Document each step of the calculations, ensuring precise arithmetic operations are performed.
+>>> Accuracy: 0.7
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_7-4_0523_095335.json
+>>> 5
+>>> Prompt: Given the information provided in the input data, carefully break down the problem scenario into smaller subtasks and identify the key elements involved. Focus on accurately determining the total temperature contribution from each mug in the water pouring scenario to meet the minimum temperature requirement. Clearly document each step of the calculations, ensuring precise arithmetic operations are performed. Pay close attention to the individual temperature contributions from each mug, the total quantity of water poured, and the final temperature required for the solution. Make sure to maintain the correct relationships between quantities and double-check the arithmetic operations for accuracy.
+>>> Accuracy: 0.6
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_7-5_0523_095512.json
+==================================================
+In iteration 8: 
+>>> 0
+>>> Prompt: Break down each calculation step into individual components before combining them, ensuring correct understanding of each part. Clarify any ambiguous statements or assumptions in the problem to avoid misinterpretation of the data provided. Provide clear and concise explanations for each calculation step to guide the language model in reaching the correct answer. Document the final numerical value as the answer and explain the steps taken to reach that answer.
+>>> Accuracy: 0.78
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_4-5_0523_082337.json
+>>> 1
+>>> Prompt: Break down each calculation into separate components, ensuring the correct understanding of each part. Clearly outline the steps needed to determine the total quantity or cost before combining them. Provide specific instructions on how to calculate individual quantities or costs before aggregating them to find the final result. Check for any ambiguous statements or assumptions in the problem to prevent misinterpretation of data. Document the final numerical value as the answer and explain each step taken to reach that answer.
+>>> Accuracy: 0.72
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_8-1_0523_095710.json
+>>> 2
+>>> Prompt: Break down each calculation step into individual components before combining them, ensuring correct understanding of each part. Clearly define the operations being performed and the values involved in each step. Verify all substitutions and calculations made after setting up the equations to ensure accuracy in the final answer. Provide clear and concise explanations for each calculation step to guide the language model in reaching the correct answer. Document the final numerical value as the answer and explain the steps taken to reach that answer.
+>>> Accuracy: 0.66
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_8-2_0523_095853.json
+>>> 3
+>>> Prompt: Given the information provided in the input data, carefully break down the problem scenario into smaller subtasks, clearly identifying the key elements involved and their relationships. Focus on accurately determining the total temperature contribution from each mug in the water pouring scenario to meet the minimum temperature requirement. Document each step of the calculations, ensuring precise arithmetic operations are performed. Pay close attention to the individual temperature contributions from each mug, the total number of ounces of water poured, and the final temperature required for the solution.
+>>> Accuracy: 0.76
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_4-1_0523_081837.json
+>>> 4
+>>> Prompt: Given the information provided, carefully analyze the problem scenario by breaking it down into smaller subtasks. Clearly identify the key elements and their relationships involved in the given situation. Focus on accurately determining the specific values required to arrive at the correct solution. For each subtask, provide detailed calculations steps, ensuring precise arithmetic operations are performed. Pay close attention to the individual values and their contributions towards the final result.
+>>> Accuracy: 0.64
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_8-4_0523_100040.json
+>>> 5
+>>> Prompt: Given the information provided in the input data, carefully break down the given scenario into smaller subtasks. Identify the key elements and their relationships to accurately determine the total required temperature contribution from each mug in the water pouring scenario. Document each step of the calculations, ensuring precise arithmetic operations are performed. Pay particular attention to the individual temperature contributions from each mug, the total amount of water poured, and the final temperature required for the solution. Make sure to clearly define how each component affects the final outcome.
+>>> Accuracy: 0.7
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_8-5_0523_100220.json
+==================================================
+In iteration 9: 
+>>> 0
+>>> Prompt: Break down each calculation step into individual components before combining them, ensuring correct understanding of each part. Clarify any ambiguous statements or assumptions in the problem to avoid misinterpretation of the data provided. Provide clear and concise explanations for each calculation step to guide the language model in reaching the correct answer. Document the final numerical value as the answer and explain the steps taken to reach that answer.
+>>> Accuracy: 0.78
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_4-5_0523_082337.json
+>>> 1
+>>> Prompt: Break down each calculation step into individual components before combining them, ensuring correct understanding of each part. Specifically clarify the distinction between different activities or stages involved in the problem to avoid confusion. Provide clear and concise explanations for each calculation step to guide the language model effectively. Document the final numerical value as the answer and explain each step taken to reach that answer accurately.
+>>> Accuracy: 0.7
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_9-1_0523_100427.json
+>>> 2
+>>> Prompt: Break down each step of the calculation process to ensure accurate understanding before combining them. Clearly define the relationship between the given quantities and variables in the problem statement to prevent misinterpretation. Provide detailed explanations for each calculation step to guide the model towards the correct solution. Document the final numerical value as the answer and provide a concise summary of the steps taken to reach that answer.
+>>> Accuracy: 0.7
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_9-2_0523_100615.json
+>>> 3
+>>> Prompt: Given the information provided in the input data, carefully break down the problem scenario into smaller subtasks, clearly identifying the key elements involved and their relationships. Focus on accurately determining the total temperature contribution from each mug in the water pouring scenario to meet the minimum temperature requirement. Document each step of the calculations, ensuring precise arithmetic operations are performed. Pay close attention to the individual temperature contributions from each mug, the total number of ounces of water poured, and the final temperature required for the solution.
+>>> Accuracy: 0.76
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_4-1_0523_081837.json
+>>> 4
+>>> Prompt: Given the scenario involving multiple components, carefully analyze and break down the problem step by step, identifying key elements and their relationships. Focus on accurately calculating the total temperature contribution from each mug in the water pouring scenario to meet the minimum temperature requirement. Ensure precise arithmetic operations are performed at each stage, documenting the calculations thoroughly. Pay close attention to the individual temperature contributions from each mug, the total amount of water poured, and the final temperature required for the solution. Validate all percentage calculations to guarantee accurate application over the specified time period.
+>>> Accuracy: 0.64
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_9-4_0523_100812.json
+>>> 5
+>>> Prompt: Given the information provided in the input data, break down the calculation of total cost and total revenue into separate steps, focusing on individual units before summing up for the total. Clearly identify the key elements involved such as the number of items, cost per item, and selling price per item. Make sure to calculate the total cost by multiplying the number of items by the cost per item, and the total revenue by multiplying the number of items by the selling price per item. Document each step of the calculations and provide a clear explanation for each calculation to ensure precise arithmetic operations are performed. Aim to determine the profit earned by subtracting the total cost from the total revenue.
+>>> Accuracy: 0.68
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_9-5_0523_101000.json
+==================================================
+In iteration 10: 
+>>> 0
+>>> Prompt: Break down each calculation step into individual components before combining them, ensuring correct understanding of each part. Clarify any ambiguous statements or assumptions in the problem to avoid misinterpretation of the data provided. Provide clear and concise explanations for each calculation step to guide the language model in reaching the correct answer. Document the final numerical value as the answer and explain the steps taken to reach that answer.
+>>> Accuracy: 0.78
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_4-5_0523_082337.json
+>>> 1
+>>> Prompt: Break down each calculation step into smaller sub steps, clearly defining the relationship between different components. Provide detailed explanations of the reasoning behind each calculation, especially in cases where there are promotions or discounts involved. Ensure that the model understands the concept of the problem and how each step contributes to the final answer. Document the final numerical value as the answer and explain the steps taken to reach that answer in a precise and concise manner.
+>>> Accuracy: 0.0
+>>> Responses path: 
+>>> 2
+>>> Prompt: Break down each calculation step into individual components before combining them to ensure correct understanding. Clearly define and label each variable to avoid errors in calculation. Provide clear and concise explanations for each step to guide the model in reaching the correct answer. Document the final numerical value as the answer and explain the steps taken to reach that answer.
+>>> Accuracy: 0.0
+>>> Responses path: 
+>>> 3
+>>> Prompt: Given the information provided in the input data, carefully break down the problem scenario into smaller subtasks, clearly identifying the key elements involved and their relationships. Focus on accurately determining the total temperature contribution from each mug in the water pouring scenario to meet the minimum temperature requirement. Document each step of the calculations, ensuring precise arithmetic operations are performed. Pay close attention to the individual temperature contributions from each mug, the total number of ounces of water poured, and the final temperature required for the solution.
+>>> Accuracy: 0.76
+>>> Responses path: ../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_4-1_0523_081837.json
+>>> 4
+>>> Prompt: Given the specific quantities and relationships provided in the input data, accurately determine the total cost or difference specified in the scenario. Break down the problem into manageable steps, ensuring precise calculations are made for each relevant element. Pay close attention to any variations or discounts in pricing, and calculate the final result accordingly. Document each step of the process and consider breaking down complex calculations into simpler components to prevent errors and ensure an accurate output.
+>>> Accuracy: 0.0
+>>> Responses path: 
+>>> 5
+>>> Prompt: Given the information provided in the input data, carefully break down the problem scenario into smaller subtasks, clearly identifying the key elements involved and their relationships. Focus on accurately determining the total number of seats needed to accommodate all guests in the scenario. Calculate the total number of people brought by the initial email invites separately from the additional people brought by Alex's friends and their spouses. Clearly identify and calculate the total number of seats needed for each group of people before summing them up to get the overall total number of seats required. Document each step of the calculations and pay close attention to the individual contributions from each group to ensure an accurate final result.
+>>> Accuracy: 0.0
+>>> Responses path: 
+==================================================
+Best prompt instance: {'inst': 'Break down each calculation step into individual components before combining them, ensuring correct understanding of each part. Clarify any ambiguous statements or assumptions in the problem to avoid misinterpretation of the data provided. Provide clear and concise explanations for each calculation step to guide the language model in reaching the correct answer. Document the final numerical value as the answer and explain the steps taken to reach that answer.', 'accuracy': 0.78, 'responses_path': '../data/response/gsm8k/summary-beam-fewshot-1/res_gpt-3.5-turbo_4-5_0523_082337.json'}

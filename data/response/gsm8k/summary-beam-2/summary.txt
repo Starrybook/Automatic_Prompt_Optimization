@@ -1,0 +1,30 @@
+Accuracy list:
+[0.28, 0.34]
+average:  0.31 ; max:  0.34
+[0.34, 0.34, 0.46, 0.28, 0.3, 0.32]
+average:  0.34 ; max:  0.46
+[0.46, 0.28, 0.34, 0.34, 0.32, 0.32]
+average:  0.343 ; max:  0.46
+[0.46, 0.54, 0.4, 0.34, 0.64, 0.38]
+average:  0.46 ; max:  0.64
+[0.64, 0.7, 0.62, 0.54, 0.66, 0.3]
+average:  0.577 ; max:  0.7
+[0.7, 0.58, 0.7, 0.66, 0.58, 0.5]
+average:  0.62 ; max:  0.7
+[0.7, 0.66, 0.42, 0.7, 0.58, 0.7]
+average:  0.627 ; max:  0.7
+[0.7, 0.64, 0.54, 0.7, 0.66, 0.56]
+average:  0.633 ; max:  0.7
+[0.7, 0.58, 0.64, 0.7, 0.66, 0.46]
+average:  0.623 ; max:  0.7
+[0.7, 0.44, 0.68, 0.7, 0.62, 0.56]
+average:  0.617 ; max:  0.7
+[0.7, 0.0, 0.0, 0.7, 0.0, 0.0]
+average:  0.233 ; max:  0.7
+
+Responses saved to ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_test_0522_110226.json
+Accuracy rate on test set: 0.64
+
+# init test 
+Responses saved to ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_init-test_0526_193500.json
+Accuracy rate on test set with initial prompt: 0.31

@@ -1,0 +1,281 @@
+Prompt instances:
+In iteration 0: 
+>>> 0
+>>> Prompt: 1. Read the provided mathematical problem carefully. 2. Identify and perform the necessary calculations to solve the problem. 3. Write down the final numerical answer. 4. Provide an explanation of how you arrived at your answer.
+>>> Accuracy: 0.28
+>>> Responses path: ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_0-0_0522_080217.json
+>>> 1
+>>> Prompt: 1. Understand the mathematical question presented in the input data. 2. Execute the computations required to find the solution. 3. Document the resulting numerical value as the answer. 4. Clarify the steps taken to reach the final answer.
+>>> Accuracy: 0.34
+>>> Responses path: ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_0-1_0522_080417.json
+==================================================
+In iteration 1: 
+>>> 0
+>>> Prompt: 1. Understand the mathematical question presented in the input data. 2. Execute the computations required to find the solution. 3. Document the resulting numerical value as the answer. 4. Clarify the steps taken to reach the final answer.
+>>> Accuracy: 0.34
+>>> Responses path: ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_0-1_0522_080417.json
+>>> 1
+>>> Prompt: 1. Clearly understand the relationships between the quantities involved in the mathematical question provided. 2. Break down the computations required into smaller, more manageable steps to avoid errors in arithmetic. 3. Define and explain each step taken to reach the final answer. 4. Calculate the solution accurately and document the resulting numerical value as the answer.
+>>> Accuracy: 0.34
+>>> Responses path: ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_1-1_0522_080620.json
+>>> 2
+>>> Prompt: 1. Break down the calculation of individual item costs into separate steps, showing the multiplication for each item separately before adding them together. 2. Provide a clearer explanation of how to calculate the total cost before applying the discount, explicitly stating the individual costs of each item and the final sum before moving on to the discount calculation.
+>>> Accuracy: 0.46
+>>> Responses path: ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_1-2_0522_080811.json
+>>> 3
+>>> Prompt: 1. Read the provided mathematical problem carefully. 2. Identify and perform the necessary calculations to solve the problem. 3. Write down the final numerical answer. 4. Provide an explanation of how you arrived at your answer.
+>>> Accuracy: 0.28
+>>> Responses path: ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_0-0_0522_080217.json
+>>> 4
+>>> Prompt: 1. Carefully analyze the given problem and break down the calculations for each step separately. 2. Ensure to accurately identify and perform the necessary mathematical operations to solve the problem, clearly specifying the values used in each calculation. 3. Determine the total quantity or amount based on the calculations done for each day or scenario. 4. Provide a detailed explanation of how the final answer was derived, highlighting the specific actions taken on each day and the correct values utilized in the computations.
+>>> Accuracy: 0.3
+>>> Responses path: ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_1-4_0522_081026.json
+>>> 5
+>>> Prompt: 1. Carefully analyze the given mathematical problem focusing on all variables and relationships.
+2. Break down the calculations into smaller, more manageable steps to avoid errors in arithmetic.
+3. Perform the necessary computations to solve the problem accurately.
+4. Verify your initial setup of the problem to ensure correct interpretation of variables before proceeding with calculations.
+5. Provide a clear explanation detailing how each calculation was derived.
+>>> Accuracy: 0.32
+>>> Responses path: ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_1-5_0522_081229.json
+==================================================
+In iteration 2: 
+>>> 0
+>>> Prompt: 1. Break down the calculation of individual item costs into separate steps, showing the multiplication for each item separately before adding them together. 2. Provide a clearer explanation of how to calculate the total cost before applying the discount, explicitly stating the individual costs of each item and the final sum before moving on to the discount calculation.
+>>> Accuracy: 0.46
+>>> Responses path: ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_1-2_0522_080811.json
+>>> 1
+>>> Prompt: Break down the calculation of individual item costs into separate steps, showing the multiplication for each item separately before adding them together. Provide a clearer explanation of how to calculate the total cost before applying the discount, explicitly stating the individual costs of each item and the final sum before moving on to the discount calculation.
+>>> Accuracy: 0.28
+>>> Responses path: ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_2-1_0522_081554.json
+>>> 2
+>>> Prompt: Break down the calculation of individual item costs into separate steps, clearly showing the multiplication for each item separately before combining them. Provide a step-by-step explanation of how to calculate the total cost before applying any discount, delineating the individual costs of each item and the final sum before moving on to the discount calculation.
+>>> Accuracy: 0.34
+>>> Responses path: ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_2-2_0522_081854.json
+>>> 3
+>>> Prompt: 1. Understand the mathematical question presented in the input data. 2. Execute the computations required to find the solution. 3. Document the resulting numerical value as the answer. 4. Clarify the steps taken to reach the final answer.
+>>> Accuracy: 0.34
+>>> Responses path: ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_0-1_0522_080417.json
+>>> 4
+>>> Prompt: 1. Break down the computation of commissions into separate steps for calculating the different commission rates on different sales amounts. 2. Calculate the total earnings by summing up the commissions earned from each step. 3. Clearly document the individual calculations for each commission earned. 4. Provide a step-by-step breakdown of the total distance covered and the required distance to be covered to avoid confusion in the final answer.
+>>> Accuracy: 0.32
+>>> Responses path: ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_2-4_0522_082037.json
+>>> 5
+>>> Prompt: 1. Break down the computation steps explicitly, showing each calculation and intermediate result. 
+2. Provide additional context or explanations for the calculations involved in each step, clarifying how different numbers are related and how they contribute to the final result. 
+3. Understand the mathematical question presented in the input data. 
+4. Execute the computations required to find the solution. 
+5. Document the resulting numerical value as the answer. 
+6. Clarify the steps taken to reach the final answer.
+>>> Accuracy: 0.32
+>>> Responses path: ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_2-5_0522_082524.json
+==================================================
+In iteration 3: 
+>>> 0
+>>> Prompt: 1. Break down the calculation of individual item costs into separate steps, showing the multiplication for each item separately before adding them together. 2. Provide a clearer explanation of how to calculate the total cost before applying the discount, explicitly stating the individual costs of each item and the final sum before moving on to the discount calculation.
+>>> Accuracy: 0.46
+>>> Responses path: ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_1-2_0522_080811.json
+>>> 1
+>>> Prompt: Break down the calculation of individual item costs into separate steps, clearly showing the multiplication for each item before adding them together. Provide a detailed explanation of how to calculate the total cost before applying the discount, explicitly stating the individual costs of each item and the final sum before moving on to the discount calculation. Make sure to break down each calculation step by step, showing the multiplication for each item before summing them up and applying the discount.
+>>> Accuracy: 0.54
+>>> Responses path: ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_3-1_0522_082733.json
+>>> 2
+>>> Prompt: Break down the calculation of individual item costs into separate steps, showing the multiplication for each item separately before adding them together. Clearly explain how to calculate the total cost before applying any discounts, explicitly stating the individual costs of each item and the final sum before moving on to the discount calculation.
+>>> Accuracy: 0.4
+>>> Responses path: ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_3-2_0522_083648.json
+>>> 3
+>>> Prompt: Break down the calculation of individual item costs into separate steps, clearly showing the multiplication for each item separately before combining them. Provide a step-by-step explanation of how to calculate the total cost before applying any discount, delineating the individual costs of each item and the final sum before moving on to the discount calculation.
+>>> Accuracy: 0.34
+>>> Responses path: ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_2-2_0522_081854.json
+>>> 4
+>>> Prompt: Break down the calculation of individual item costs into separate steps, clearly showing the multiplication for each item separately before combining them. Provide a step-by-step explanation of how to calculate the total cost before applying any discount, delineating the individual costs of each item and the final sum before moving on to the discount calculation. Ensure to identify key variables and information to accurately perform the calculations and equations.
+>>> Accuracy: 0.64
+>>> Responses path: ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_3-4_0522_083913.json
+>>> 5
+>>> Prompt: Break down the calculation of total cost before applying any discount into individual steps, clearly showing the multiplication for each item separately before combining them. Provide a step-by-step explanation of how to calculate the total cost accurately, delineating the individual costs of each item and the final sum before moving on to the discount calculation, ensuring precise calculations and clear understanding of the process.
+>>> Accuracy: 0.38
+>>> Responses path: ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_3-5_0522_084119.json
+==================================================
+In iteration 4: 
+>>> 0
+>>> Prompt: Break down the calculation of individual item costs into separate steps, clearly showing the multiplication for each item separately before combining them. Provide a step-by-step explanation of how to calculate the total cost before applying any discount, delineating the individual costs of each item and the final sum before moving on to the discount calculation. Ensure to identify key variables and information to accurately perform the calculations and equations.
+>>> Accuracy: 0.64
+>>> Responses path: ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_3-4_0522_083913.json
+>>> 1
+>>> Prompt: Break down the calculation of individual item costs into separate steps, clearly showing the multiplication for each item separately before combining them. Provide a step-by-step explanation of how to calculate the total cost before applying any discount, delineating the individual costs of each item and the final sum before moving on to the discount calculation. Ensure to identify key variables and information to accurately perform the calculations and equations. Make sure to break down complex tasks into smaller components and provide clear intermediate steps for each calculation.
+>>> Accuracy: 0.7
+>>> Responses path: ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_4-1_0522_084355.json
+>>> 2
+>>> Prompt: Break down the calculation of individual item costs into separate steps, clearly showing the multiplication for each item separately before combining them. Provide a step-by-step explanation of how to calculate the total cost before applying any discount, delineating the individual costs of each item and the final sum before moving on to the discount calculation. Ensure to identify key variables and information to accurately perform the calculations and equations. Make sure to account for different scenarios and calculations involving multiplication accurately.
+>>> Accuracy: 0.62
+>>> Responses path: ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_4-2_0522_084609.json
+>>> 3
+>>> Prompt: Break down the calculation of individual item costs into separate steps, clearly showing the multiplication for each item before adding them together. Provide a detailed explanation of how to calculate the total cost before applying the discount, explicitly stating the individual costs of each item and the final sum before moving on to the discount calculation. Make sure to break down each calculation step by step, showing the multiplication for each item before summing them up and applying the discount.
+>>> Accuracy: 0.54
+>>> Responses path: ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_3-1_0522_082733.json
+>>> 4
+>>> Prompt: Break down the calculation of individual item costs into separate steps, clearly showing the multiplication for each item before adding them together. Guide the model to calculate the total cost before applying any discounts, explicitly stating the individual costs of each item and the final sum before moving on to the discount calculation. Make sure to break down each calculation step by step, showing the multiplication for each item before summing them up and applying the discount.
+>>> Accuracy: 0.66
+>>> Responses path: ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_4-4_0522_084835.json
+>>> 5
+>>> Prompt: Break down the calculation of individual item costs into separate steps, clearly showing the multiplication for each item before adding them together. Show the specific calculation for the total cost before applying the discount, including the individual costs of each item and the final sum. Provide a detailed breakdown of how to calculate the discount amount separately, explicitly stating the multiplication step for finding 20% of the total cost before subtracting it. Make sure to illustrate each calculation step by step, showing the multiplication for each item before summing them up and applying the discount.
+>>> Accuracy: 0.3
+>>> Responses path: ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_4-5_0522_085049.json
+==================================================
+In iteration 5: 
+>>> 0
+>>> Prompt: Break down the calculation of individual item costs into separate steps, clearly showing the multiplication for each item separately before combining them. Provide a step-by-step explanation of how to calculate the total cost before applying any discount, delineating the individual costs of each item and the final sum before moving on to the discount calculation. Ensure to identify key variables and information to accurately perform the calculations and equations. Make sure to break down complex tasks into smaller components and provide clear intermediate steps for each calculation.
+>>> Accuracy: 0.7
+>>> Responses path: ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_4-1_0522_084355.json
+>>> 1
+>>> Prompt: Break down the calculation of individual item costs into separate steps, clearly showing the multiplication for each item separately before combining them. Provide a step-by-step explanation of how to calculate the total cost before applying any discount, delineating the individual costs of each item and the final sum before moving on to the discount calculation. Ensure to identify key variables and information to accurately perform the calculations and equations. Make sure to break down complex tasks into smaller components and provide clear intermediate steps for each calculation.
+>>> Accuracy: 0.58
+>>> Responses path: ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_5-1_0522_093811.json
+>>> 2
+>>> Prompt: Break down the calculation of individual item costs into separate steps, clearly showing the multiplication for each item separately before combining them. Provide a step-by-step explanation of how to calculate the total cost before applying any discount, delineating the individual costs of each item and the final sum before moving on to the discount calculation. Ensure to identify key variables and information to accurately perform the calculations and equations. Break down complex tasks into smaller components and provide clear intermediate steps for each calculation. Make sure to calculate commissions based on sales tiers separately and include the total for the different tiers in the final sum for accuracy. Clearly define and separate the costs for each individual service or product and calculate the total cost for each combination before applying discounts for precise results.
+>>> Accuracy: 0.7
+>>> Responses path: ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_5-2_0522_094044.json
+>>> 3
+>>> Prompt: Break down the calculation of individual item costs into separate steps, clearly showing the multiplication for each item before adding them together. Guide the model to calculate the total cost before applying any discounts, explicitly stating the individual costs of each item and the final sum before moving on to the discount calculation. Make sure to break down each calculation step by step, showing the multiplication for each item before summing them up and applying the discount.
+>>> Accuracy: 0.66
+>>> Responses path: ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_4-4_0522_084835.json
+>>> 4
+>>> Prompt: Break down the calculation of individual item costs into separate steps, clearly showing the multiplication for each item before adding them together. Guide the model to calculate the total cost before applying any discounts, explicitly stating the individual costs of each item and the final sum before moving on to the discount calculation. Make sure to break down each calculation step by step, showing the multiplication for each item before summing them up and applying the discount. Show the step-by-step calculation for each item's cost before summing them up and applying any discounts.
+>>> Accuracy: 0.58
+>>> Responses path: ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_5-4_0522_094310.json
+>>> 5
+>>> Prompt: Break down the calculation of individual item costs into separate steps, clearly showing the multiplication for each item before adding them together. Explicitly state the individual costs of each item and the final sum before moving on to the discount calculation. Make sure to break down each calculation step by step, showing the multiplication for each item before summing them up and applying the discount. Provide clear and concise instructions to guide the model in accurately calculating the total cost before any discounts are applied.
+>>> Accuracy: 0.5
+>>> Responses path: ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_5-5_0522_094526.json
+==================================================
+In iteration 6: 
+>>> 0
+>>> Prompt: Break down the calculation of individual item costs into separate steps, clearly showing the multiplication for each item separately before combining them. Provide a step-by-step explanation of how to calculate the total cost before applying any discount, delineating the individual costs of each item and the final sum before moving on to the discount calculation. Ensure to identify key variables and information to accurately perform the calculations and equations. Make sure to break down complex tasks into smaller components and provide clear intermediate steps for each calculation.
+>>> Accuracy: 0.7
+>>> Responses path: ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_4-1_0522_084355.json
+>>> 1
+>>> Prompt: Break down the calculation of individual item costs into separate steps. Clearly show the multiplication for each item separately before combining them. Provide a step-by-step explanation of how to calculate the total cost before applying any discount, delineating the individual costs of each item and the final sum before moving on to the discount calculation. Ensure to identify key variables and information to accurately perform the calculations and equations. Break down complex tasks into smaller components and provide clear intermediate steps for each calculation. Make sure to consider the relationships between different elements and their impact on the final result.
+>>> Accuracy: 0.66
+>>> Responses path: ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_6-1_0522_094827.json
+>>> 2
+>>> Prompt: Break down the calculation of individual item costs into separate steps, clearly showing the multiplication for each item separately before combining them. Provide a step-by-step explanation of how to calculate the total cost before applying any discount, delineating the individual costs of each item and the final sum before moving on to the discount calculation. Clearly explain the process of calculating the discount and subtracting it from the total cost of the services to determine the final payment amount. Make sure to identify key variables and information to accurately perform the calculations and equations. Break down complex tasks into smaller components and provide clear intermediate steps for each calculation to ensure accuracy.
+>>> Accuracy: 0.42
+>>> Responses path: ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_6-2_0522_095118.json
+>>> 3
+>>> Prompt: Break down the calculation of individual item costs into separate steps, clearly showing the multiplication for each item separately before combining them. Provide a step-by-step explanation of how to calculate the total cost before applying any discount, delineating the individual costs of each item and the final sum before moving on to the discount calculation. Ensure to identify key variables and information to accurately perform the calculations and equations. Break down complex tasks into smaller components and provide clear intermediate steps for each calculation. Make sure to calculate commissions based on sales tiers separately and include the total for the different tiers in the final sum for accuracy. Clearly define and separate the costs for each individual service or product and calculate the total cost for each combination before applying discounts for precise results.
+>>> Accuracy: 0.7
+>>> Responses path: ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_5-2_0522_094044.json
+>>> 4
+>>> Prompt: Break down the given information into separate equations for each piece of data provided. Clearly define and identify key variables in the equations. Calculate each variable independently before combining them to find the final answer. Ensure that each variable has a distinct representation and explanation in the calculations. Provide step-by-step intermediate solutions for each variable before reaching the final sum. Clarify the relationships between variables and provide clear definitions for accurate results.
+>>> Accuracy: 0.58
+>>> Responses path: ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_6-4_0522_095429.json
+>>> 5
+>>> Prompt: Break down the calculation of individual item costs into separate steps, clearly showing the multiplication for each item separately before combining them. Provide a step-by-step explanation of how to calculate the total cost before applying any discount, delineating the individual costs of each item and the final sum before moving on to the discount calculation. Ensure to identify key variables and information to accurately perform the calculations and equations. Break down complex tasks into smaller components and provide clear intermediate steps for each calculation. Make sure to calculate commissions based on sales tiers separately and include the total for the different tiers in the final sum for accuracy. Clearly define and separate the costs for each individual service or product and calculate the total cost for each combination before applying discounts for precise results. Ensure to provide concise and detailed instructions to accurately calculate the total cost with examples to guide the model towards the correct result.
+>>> Accuracy: 0.7
+>>> Responses path: ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_6-5_0522_095701.json
+==================================================
+In iteration 7: 
+>>> 0
+>>> Prompt: Break down the calculation of individual item costs into separate steps, clearly showing the multiplication for each item separately before combining them. Provide a step-by-step explanation of how to calculate the total cost before applying any discount, delineating the individual costs of each item and the final sum before moving on to the discount calculation. Ensure to identify key variables and information to accurately perform the calculations and equations. Make sure to break down complex tasks into smaller components and provide clear intermediate steps for each calculation.
+>>> Accuracy: 0.7
+>>> Responses path: ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_4-1_0522_084355.json
+>>> 1
+>>> Prompt: Break down the calculation of individual item costs into separate steps, clearly showing the multiplication for each item separately before combining them. Provide a step-by-step explanation of how to calculate the total cost before applying any discount, delineating the individual costs of each item and the final sum before moving on to the discount calculation. Ensure to identify key variables and information to accurately perform the calculations and equations. Make sure to break down complex tasks into smaller components and provide clear intermediate steps for each calculation. Remember to consider the specific steps needed for each calculation to avoid errors in incorporating multiple tasks together.
+>>> Accuracy: 0.64
+>>> Responses path: ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_7-1_0522_095948.json
+>>> 2
+>>> Prompt: Break down the calculation of individual item costs into separate steps, clearly showing the multiplication for each item separately before combining them. Provide a step-by-step explanation of how to calculate the total cost before applying any discount, delineating the individual costs of each item and the final sum before moving on to the discount calculation. Ensure to identify key variables and information to accurately perform the calculations and equations. Make sure to break down complex tasks into smaller components and provide clear intermediate steps for each calculation. When calculating commissions based on sales amounts, specify the sales thresholds at which different commission rates apply and calculate each commission rate separately for the corresponding sales amount. Clearly state the sales amount associated with each commission rate to avoid confusion in applying the correct rates to the appropriate sales amounts.
+>>> Accuracy: 0.54
+>>> Responses path: ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_7-2_0522_100248.json
+>>> 3
+>>> Prompt: Break down the calculation of individual item costs into separate steps, clearly showing the multiplication for each item separately before combining them. Provide a step-by-step explanation of how to calculate the total cost before applying any discount, delineating the individual costs of each item and the final sum before moving on to the discount calculation. Ensure to identify key variables and information to accurately perform the calculations and equations. Break down complex tasks into smaller components and provide clear intermediate steps for each calculation. Make sure to calculate commissions based on sales tiers separately and include the total for the different tiers in the final sum for accuracy. Clearly define and separate the costs for each individual service or product and calculate the total cost for each combination before applying discounts for precise results.
+>>> Accuracy: 0.7
+>>> Responses path: ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_5-2_0522_094044.json
+>>> 4
+>>> Prompt: Break down the calculation of individual item costs into separate steps, clearly showing the multiplication for each item separately before combining them. Provide a step-by-step explanation of how to calculate the total cost before applying any discount, delineating the individual costs of each item and the final sum before moving on to the discount calculation. Ensure to identify key variables and information to accurately perform the calculations and equations. Break down complex tasks into smaller components and provide clear intermediate steps for each calculation. Make sure to calculate commissions based on sales tiers separately and include the total for the different tiers in the final sum for accuracy. Clearly define and separate the costs for each individual service or product and calculate the total cost for each combination before applying discounts for precise results.
+>>> Accuracy: 0.66
+>>> Responses path: ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_7-4_0522_100518.json
+>>> 5
+>>> Prompt: Break down the calculation steps for determining the total cost of purchasing multiple items at different prices. Clearly outline the individual costs for each item by multiplying the price per item with the quantity before summing them up. Provide a detailed breakdown of how to calculate the total cost without factoring in any discounts, making sure to highlight the separate costs for each item and the final combined total. Emphasize the importance of identifying key variables and information necessary for accurate calculations. Divide complex tasks into smaller components and present clear intermediate steps for each calculation. Additionally, calculate commissions based on sales tiers separately and ensure that the sum of the different tiers is included in the final total for precision. Clearly differentiate and calculate the costs for each individual service or product to determine the total cost before any discounts are applied.
+>>> Accuracy: 0.56
+>>> Responses path: ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_7-5_0522_100812.json
+==================================================
+In iteration 8: 
+>>> 0
+>>> Prompt: Break down the calculation of individual item costs into separate steps, clearly showing the multiplication for each item separately before combining them. Provide a step-by-step explanation of how to calculate the total cost before applying any discount, delineating the individual costs of each item and the final sum before moving on to the discount calculation. Ensure to identify key variables and information to accurately perform the calculations and equations. Make sure to break down complex tasks into smaller components and provide clear intermediate steps for each calculation.
+>>> Accuracy: 0.7
+>>> Responses path: ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_4-1_0522_084355.json
+>>> 1
+>>> Prompt: Break down the initial calculation of individual costs as separate steps, clearly showing the multiplication for each item independently before combining them to calculate the total cost accurately. Provide a step-by-step explanation of how to calculate the total cost before any discounts are applied, outlining the individual costs and the final sum before moving on to the discount calculation. Ensure to identify key variables and information needed for precise calculations. Break down complex tasks into smaller components and provide clear intermediate steps for each calculation to achieve an accurate total cost.
+>>> Accuracy: 0.58
+>>> Responses path: ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_8-1_0522_103656.json
+>>> 2
+>>> Prompt: Break down the calculation of individual item costs into separate steps, clearly showing the multiplication for each item separately before combining them. Provide a step-by-step explanation of how to calculate the total cost before applying any discount, delineating the individual costs of each item and the final sum before moving on to the discount calculation. Ensure to identify key variables and information to accurately perform the calculations and equations. Make sure to break down complex tasks into smaller components and provide clear intermediate steps for each calculation. Ensure that the model accurately calculates the total cost by adding up the individual costs of each item correctly before moving on to any discount calculations.
+>>> Accuracy: 0.64
+>>> Responses path: ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_8-2_0522_103920.json
+>>> 3
+>>> Prompt: Break down the calculation of individual item costs into separate steps, clearly showing the multiplication for each item separately before combining them. Provide a step-by-step explanation of how to calculate the total cost before applying any discount, delineating the individual costs of each item and the final sum before moving on to the discount calculation. Ensure to identify key variables and information to accurately perform the calculations and equations. Break down complex tasks into smaller components and provide clear intermediate steps for each calculation. Make sure to calculate commissions based on sales tiers separately and include the total for the different tiers in the final sum for accuracy. Clearly define and separate the costs for each individual service or product and calculate the total cost for each combination before applying discounts for precise results.
+>>> Accuracy: 0.7
+>>> Responses path: ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_5-2_0522_094044.json
+>>> 4
+>>> Prompt: Break down the calculation of individual item costs into separate steps, clearly showing the multiplication for each item separately before combining them. Provide a step-by-step explanation of how to calculate the total cost before applying any discount, delineating the individual costs of each item and the final sum before moving on to the discount calculation. Identify key variables and information to accurately perform the calculations and equations. Break down complex tasks into smaller components and provide clear intermediate steps for each calculation. Calculate commissions based on sales tiers separately and include the total for different tiers in the final sum for accuracy. Clearly define and separate the costs for each individual service or product and calculate the total cost for each combination before applying discounts for precise results.
+>>> Accuracy: 0.66
+>>> Responses path: ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_8-4_0522_104137.json
+>>> 5
+>>> Prompt: Refine the process of calculating individual item costs by breaking it down into separate steps. Clearly display the multiplication for each item individually before combining them. Provide a detailed explanation of how to calculate the total cost before applying any discounts, outlining the costs of each item and the final sum before moving on to discount calculation. Identify crucial variables and information required for accurate calculations and equations. Decompose complex tasks into smaller components and offer clear intermediate steps for each calculation. Ensure commissions based on sales tiers are calculated separately, adding the totals for different tiers to the final sum for precision. Clarify and segregate costs for each service or product, computing the total cost for each combination before applying discounts for precise outcomes.
+>>> Accuracy: 0.46
+>>> Responses path: ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_8-5_0522_104355.json
+==================================================
+In iteration 9: 
+>>> 0
+>>> Prompt: Break down the calculation of individual item costs into separate steps, clearly showing the multiplication for each item separately before combining them. Provide a step-by-step explanation of how to calculate the total cost before applying any discount, delineating the individual costs of each item and the final sum before moving on to the discount calculation. Ensure to identify key variables and information to accurately perform the calculations and equations. Make sure to break down complex tasks into smaller components and provide clear intermediate steps for each calculation.
+>>> Accuracy: 0.7
+>>> Responses path: ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_4-1_0522_084355.json
+>>> 1
+>>> Prompt: Break down the calculation of individual items or components into separate steps, clearly displaying the multiplication for each item separately before combining them. Provide a step-by-step explanation of how to calculate the total cost or quantity before applying any discount or additional factors, delineating the individual costs or values of each item and the final sum before moving on to further calculations. Ensure to identify key variables and information needed accurately to perform the calculations and equations. Break down complex tasks into smaller components and provide clear intermediate steps for each calculation. Additionally, ensure to follow correct order of operations and consider all relevant components in the calculation process.
+>>> Accuracy: 0.44
+>>> Responses path: ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_9-1_0522_104640.json
+>>> 2
+>>> Prompt: Break down the calculation steps for determining individual item costs, demonstrating the multiplication for each item separately before combining them for the total. Provide a detailed, step-by-step explanation on how to calculate the overall cost before applying any discounts, emphasizing the individual costs of each item and the final sum prior to discount calculations. Clearly define key variables and information essential for accurate computations and equations. Break down complex tasks into smaller components and offer clear intermediate steps for each calculation to ensure a complete understanding of the process.
+>>> Accuracy: 0.68
+>>> Responses path: ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_9-2_0522_104917.json
+>>> 3
+>>> Prompt: Break down the calculation of individual item costs into separate steps, clearly showing the multiplication for each item separately before combining them. Provide a step-by-step explanation of how to calculate the total cost before applying any discount, delineating the individual costs of each item and the final sum before moving on to the discount calculation. Ensure to identify key variables and information to accurately perform the calculations and equations. Break down complex tasks into smaller components and provide clear intermediate steps for each calculation. Make sure to calculate commissions based on sales tiers separately and include the total for the different tiers in the final sum for accuracy. Clearly define and separate the costs for each individual service or product and calculate the total cost for each combination before applying discounts for precise results.
+>>> Accuracy: 0.7
+>>> Responses path: ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_5-2_0522_094044.json
+>>> 4
+>>> Prompt: Break down the calculation of individual item costs into separate steps, clearly showing the multiplication for each item separately before combining them. Provide a step-by-step explanation of how to calculate the total cost before applying any discount, delineating the individual costs of each item and the final sum before moving on to the discount calculation. Ensure to identify key variables and information to accurately perform the calculations and equations. Break down complex tasks into smaller components and provide clear intermediate steps for each calculation. Make sure to calculate commissions based on sales tiers separately and include the total for the different tiers in the final sum for accuracy. Clearly define and separate the costs for each individual service or product and calculate the total cost for each combination before applying discounts for precise results.
+>>> Accuracy: 0.62
+>>> Responses path: ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_9-4_0522_105139.json
+>>> 5
+>>> Prompt: Break down the calculation of individual item costs into separate steps by clearly showing the multiplication for each item separately before combining them. Provide a step-by-step explanation of how to calculate the total cost before applying any discount, delineating the individual costs of each item and the final sum before moving on to the discount calculation. Ensure to identify key variables and information to accurately perform the calculations and equations. Break down complex tasks into smaller components and provide clear intermediate steps for each calculation. Make sure to calculate commissions based on sales tiers separately and include the total for the different tiers in the final sum for accuracy. Clearly define and separate the costs for each individual service or product and calculate the total cost for each combination before applying discounts for precise results. Verify the total cost calculation by summing up the individual costs of each item, including nail art, and then applying the discount separately. Double-check the final total cost calculation after applying the discount to ensure precision.
+>>> Accuracy: 0.56
+>>> Responses path: ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_9-5_0522_105400.json
+==================================================
+In iteration 10: 
+>>> 0
+>>> Prompt: Break down the calculation of individual item costs into separate steps, clearly showing the multiplication for each item separately before combining them. Provide a step-by-step explanation of how to calculate the total cost before applying any discount, delineating the individual costs of each item and the final sum before moving on to the discount calculation. Ensure to identify key variables and information to accurately perform the calculations and equations. Make sure to break down complex tasks into smaller components and provide clear intermediate steps for each calculation.
+>>> Accuracy: 0.7
+>>> Responses path: ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_4-1_0522_084355.json
+>>> 1
+>>> Prompt: Break down the calculation of individual costs step-by-step, clearly showing the multiplication for each item separately before combining them. Provide a detailed explanation of how to calculate the total cost before applying any discount, delineating the costs of each item and the final sum before moving on to the discount calculation. Ensure to identify key variables and information to accurately perform the calculations and equations. Break down complex tasks into smaller components and provide clear intermediate steps for each calculation.
+>>> Accuracy: 0.0
+>>> Responses path: 
+>>> 2
+>>> Prompt: Break down the calculation of individual item costs into separate steps, clearly showing the multiplication for each item separately before combining them. Provide a step-by-step explanation of how to calculate the total cost before applying any discount, delineating the individual costs of each item and the final sum before moving on to the discount calculation. Ensure to identify key variables and information to accurately perform the calculations and equations. Make sure to break down complex tasks into smaller components and provide clear intermediate steps for each calculation. Additionally, after determining the total cost before the discount, provide a separate step for calculating the discount amount and clearly show how to subtract it from the total cost to obtain the final amount spent.
+>>> Accuracy: 0.0
+>>> Responses path: 
+>>> 3
+>>> Prompt: Break down the calculation of individual item costs into separate steps, clearly showing the multiplication for each item separately before combining them. Provide a step-by-step explanation of how to calculate the total cost before applying any discount, delineating the individual costs of each item and the final sum before moving on to the discount calculation. Ensure to identify key variables and information to accurately perform the calculations and equations. Break down complex tasks into smaller components and provide clear intermediate steps for each calculation. Make sure to calculate commissions based on sales tiers separately and include the total for the different tiers in the final sum for accuracy. Clearly define and separate the costs for each individual service or product and calculate the total cost for each combination before applying discounts for precise results.
+>>> Accuracy: 0.7
+>>> Responses path: ../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_5-2_0522_094044.json
+>>> 4
+>>> Prompt: Break down the calculation of individual item costs into separate steps, clearly showing the multiplication for each item separately before combining them. Clearly identify key variables and information to accurately perform the calculations and equations. Ensure to separate the costs for each individual service or product and calculate the total cost for each combination before applying any discounts. Provide a step-by-step explanation of how to calculate the total cost accurately, delineating the individual costs of each item and the final sum before moving on to any discount calculations. Break down complex tasks into smaller components and provide clear intermediate steps for each calculation. Calculate commissions based on sales tiers separately and include the total for the different tiers in the final sum for accuracy.
+>>> Accuracy: 0.0
+>>> Responses path: 
+>>> 5
+>>> Prompt: Break down the calculation of individual item costs into separate steps, clearly showing the multiplication for each item separately before combining them. Provide a step-by-step explanation of how to calculate the total cost before applying any discount, delineating the individual costs of each item and the final sum before moving on to the discount calculation. Ensure to identify key variables and information to accurately perform the calculations and equations. Provide clear intermediate steps for each calculation. Make sure to calculate commissions based on sales tiers separately and include the total for the different tiers in the final sum. Clearly define and separate the costs for each individual service or product and calculate the total cost for each combination before applying discounts for precise results.
+>>> Accuracy: 0.0
+>>> Responses path: 
+==================================================
+Best prompt instance: {'inst': 'Break down the calculation of individual item costs into separate steps, clearly showing the multiplication for each item separately before combining them. Provide a step-by-step explanation of how to calculate the total cost before applying any discount, delineating the individual costs of each item and the final sum before moving on to the discount calculation. Ensure to identify key variables and information to accurately perform the calculations and equations. Make sure to break down complex tasks into smaller components and provide clear intermediate steps for each calculation.', 'accuracy': 0.7, 'responses_path': '../data/response/gsm8k/summary-beam-2/res_gpt-3.5-turbo_4-1_0522_084355.json'}

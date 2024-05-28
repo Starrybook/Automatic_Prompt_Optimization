@@ -1,0 +1,35 @@
+Accuracy list:
+[0.72, 0.62]
+average:  0.67 ; max:  0.72
+[0.72, 0.68, 0.7, 0.62, 0.72, 0.66]
+average:  0.683 ; max:  0.72
+[0.72, 0.66, 0.7, 0.72, 0.68, 0.74]
+average:  0.703 ; max:  0.74
+[0.74, 0.76, 0.7, 0.72, 0.72, 0.66]
+average:  0.717 ; max:  0.76
+[0.76, 0.72, 0.66, 0.74, 0.7, 0.66]
+average:  0.707 ; max:  0.76
+[0.76, 0.74, 0.66, 0.74, 0.7, 0.76]
+average:  0.727 ; max:  0.76
+[0.76, 0.64, 0.7, 0.76, 0.68, 0.7]
+average:  0.707 ; max:  0.76
+[0.76, 0.66, 0.74, 0.76, 0.7, 0.7]
+average:  0.72 ; max:  0.76
+[0.76, 0.68, 0.64, 0.76, 0.72, 0.68]
+average:  0.707 ; max:  0.76
+[0.76, 0.68, 0.72, 0.76, 0.76, 0.74]
+average:  0.737 ; max:  0.76
+[0.76, 0.0, 0.0, 0.76, 0.0, 0.0]
+average:  0.253 ; max:  0.76
+
+# 此结果有问题，没有加入 fewshot 的例子
+Responses saved to ../data/response/gsm8k/summary-beam-fewshot-0/res_gpt-3.5-turbo_test_0522_232654.json
+Accuracy rate on test set: 0.26
+
+# 修改后的结果
+Responses saved to ../data/response/gsm8k/summary-beam-fewshot-0/res_gpt-3.5-turbo_test_0523_103430.json
+Accuracy rate on test set: 0.8
+
+# init test 
+Responses saved to ../data/response/gsm8k/summary-beam-fewshot-0/res_gpt-3.5-turbo_init-test_0526_200404.json
+Accuracy rate on test set with initial prompt: 0.78

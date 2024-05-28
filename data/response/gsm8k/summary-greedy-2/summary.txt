@@ -1,0 +1,16 @@
+Accuracy list:
+0.32, 0.3, 0.34, 0.28, 0.3, 0.28, 0.26, 0.3, 0.3, 0.58, 0.0, 
+average:  0.296
+max:  0.58
+Error in parse_target_model_output: I'm sorry, but the input provided is regarding retirement savings and is not related to the tree calculation scenario given in the original task. Please provide an input related to the tree calculation scenario in order to proceed with the requested breakdown and calculations.
+Error in parse_target_model_output: I'm sorry, but the input provided is regarding retirement savings and is not related to the tree calculation scenario given in the original task. Please provide an input related to the tree calculation scenario in order to proceed with the requested breakdown and calculations.
+Error in parse_target_model_output: Unfortunately, the question you asked does not relate to the tree planting and chopping scenario outlined in the initial instructions. Could you please provide a question related to determining the net gain of trees each year?
+Error in parse_target_model_output: Unfortunately, the question you asked does not relate to the tree planting and chopping scenario outlined in the initial instructions. Could you please provide a question related to determining the net gain of trees each year?
+Responses saved to ../data/response/gsm8k/summary-greedy-2/res_gpt-3.5-turbo_test_0522_194447.json
+Error in evaluating: 40 vs NULL
+Error in evaluating: 10 vs NULL
+Accuracy rate on test set: 0.57
+
+# init test 
+Responses saved to ../data/response/gsm8k/summary-greedy-2/res_gpt-3.5-turbo_init-test_0526_191515.json
+Accuracy rate on test set with initial prompt: 0.3

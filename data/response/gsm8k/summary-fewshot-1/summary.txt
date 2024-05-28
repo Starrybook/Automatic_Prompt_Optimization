@@ -1,0 +1,22 @@
+Responses saved to ../data/response/gsm8k/summary-fewshot-1/res_gpt-3.5-turbo_test_shot-1_0522_195219.json
+Accuracy rate on test set: 0.85
+
+Prompt exmple:
+1. Read the provided mathematical problem carefully. 2. Identify and perform the necessary calculations to solve the problem. 3. Write down the final numerical answer. 4. Provide an explanation of how you arrived at your answer.
+
+Your answer should contain both the final answer and an explanation.
+Wrap your final answer with <A> and </A>.
+The answer between <A> and </A> tags should be only the numerical value without any additional text.
+Wrap your explanation with <E> and </E>.
+
+Here are several examples of the task:
+Input: Mrs. Cruz is looking for a house that will not go beyond her $400 000 budget. She saw a property that has a selling price of $350 000. On top of that, the buyer has to pay a brokerage fee which is 5% of the selling price, and also the transfer fee that is 12% of the selling price. How much more is the total price of the house than Mrs. Cruz's budget?
+Your answer: <E>The brokerage fee is $350 000 x 5/100 = $<<350000*5/100=17500>>17500.
+The transfer fee is $350 000 x 12/100 = $<<350000*12/100=42000>>42000.
+The total price of the house is $350 000 + $17500 + $42000 = $409 500.
+So, it is $409 500 - $400 000 = $<<409500-400000=9500>>9500 more than Mrs. Cruz's budget.</E><A>9500</A>
+
+
+Now please provide your answer to this input:
+Input: <Question here>
+Your answer:

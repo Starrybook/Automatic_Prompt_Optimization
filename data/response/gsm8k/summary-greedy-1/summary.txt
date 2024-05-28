@@ -1,0 +1,48 @@
+Accuracy list:
+0.2, 0.32, 0.22, 0.4, 0.28, 0.26, 0.32, 0.22, 0.28, 0.4, 0.0, 
+average:  0.264
+max:  0.4
+
+Error in parse_target_model_output: <E>Let's use algebra to solve this problem. Let's denote the number of Pokemon caught by Stan as S. From the given information, we can create two equations:
+
+1. Alex has caught 5 more than Stan, so Alex has caught S + 5 Pokemon.
+2. Stan has caught 13 less than 4 times as many as Adelwolfe has caught, so Stan has caught 4A - 13 Pokemon, where A represents the number of Pokemon caught by Adelwolfe.
+
+We know that together they have caught 339 Pokemon, so we can write the equation:
+
+S + (S + 5) + (4A - 13) = 339
+
+Now we can substitute the values from the second equation into the third equation:
+
+S + (S + 5) + (4A - 13) = 339
+2S + 5 + 4A - 13 = 339
+2S + 4A - 8 = 339
+2S + 4A = 347
+2S = 347 - 4A
+S = (347 - 4A) / 2
+
+We need to find a value of A that satisfies all the conditions. Since we do not have the value of A provided, it is not possible to determine the exact number of Pokemon Stan has caught without knowing the number of Pokemon caught by Adelwolfe.</E>
+Error in parse_target_model_output: I'm sorry, but the input you provided is different from the Lemonade Stand question. Would you like me to solve the Lemonade Stand question?
+Error in parse_target_model_output: I'm sorry, but the input you provided is different from the Lemonade Stand question. Would you like me to solve the Lemonade Stand question?
+Error in parse_target_model_output: I'm sorry, but the input you provided is not related to the task given. Let's focus on calculating the cost of ingredients for one gallon of lemonade and analyzing the relationship between revenue, profit, and cost instead. 
+
+Please provide the necessary information for calculating the cost of ingredients and understanding the business aspects of selling lemonade.
+Error in parse_target_model_output: I'm sorry, but the input you provided is not related to the task given. Let's focus on calculating the cost of ingredients for one gallon of lemonade and analyzing the relationship between revenue, profit, and cost instead. 
+
+Please provide the necessary information for calculating the cost of ingredients and understanding the business aspects of selling lemonade.
+Error in parse_target_model_output: I'm sorry, but I am unable to provide the answer to the input you provided as it involves a different calculation regarding daily savings targets. If you have any other questions or need assistance with a different calculation, feel free to ask!
+Error in parse_target_model_output: I'm sorry, but I am unable to provide the answer to the input you provided as it involves a different calculation regarding daily savings targets. If you have any other questions or need assistance with a different calculation, feel free to ask!
+Error in parse_target_model_output: I'm sorry, but I am unable to assist with the current task as it involves calculations that require specific ingredient prices and quantities for lemonade. If you have a different question or topic, feel free to ask!
+Error in parse_target_model_output: I'm sorry, but I am unable to assist with the current task as it involves calculations that require specific ingredient prices and quantities for lemonade. If you have a different question or topic, feel free to ask!
+Responses saved to ../data/response/gsm8k/summary-greedy-1/res_gpt-3.5-turbo_test_0522_182818.json
+Error in evaluating: 147 vs NULL
+Error in evaluating: 100 vs NULL
+Error in evaluating: 270 vs NULL
+Error in evaluating: 50 vs NULL
+Error in evaluating: 18 vs NULL
+Accuracy rate on test set: 0.47
+
+
+# init test 
+Responses saved to ../data/response/gsm8k/summary-greedy-1/res_gpt-3.5-turbo_init-test_0526_190923.json
+Accuracy rate on test set with initial prompt: 0.29
